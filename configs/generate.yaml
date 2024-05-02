@@ -4,7 +4,7 @@ defaults:
   - defaults
   - _self_
 
-run_dir: ???
+run_dir: pretrained_models/mdm-smpl_clip_smplrifke_humanml3d
 timeline: ???
 input_type: auto # timeline / text
 fast: false # render or not with smpl

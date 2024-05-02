@@ -74,7 +74,7 @@ In addition to the STMC algorithm, we also provide a fast diffusion model that d
 Clone and set up the environment as follows:
 
 ```bash
-git clone XXXX
+git clone https://github.com/nv-tlabs/stmc
 cd stmc/
 ```
 

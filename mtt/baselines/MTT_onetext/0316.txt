@@ -1,0 +1,1 @@
+wipe with the left hand and then walk in a quarter circle to the right while eat something with the right arm # 0.0 # 9.8 # head # left arm # legs # right arm

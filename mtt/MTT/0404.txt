@@ -1,0 +1,3 @@
+point with his right hand # 0.0 # 7.86 # right arm
+wave with the right hand # 7.86 # 12.35 # right arm
+quickly walk backwards # 8.67 # 12.18 # legs

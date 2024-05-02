@@ -1,0 +1,4 @@
+jump backward # 0.0 # 0.21 # legs # spine
+jump backward while drink with the right arm # 0.21 # 6.99 # head # legs # right arm # spine
+jump backward # 6.99 # 7.08 # legs # spine
+walk in a circle clockwise # 7.08 # 15.29 # legs

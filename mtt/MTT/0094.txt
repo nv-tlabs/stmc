@@ -1,0 +1,3 @@
+wipe with the right hand # 0.0 # 5.48 # right arm
+quickly walk backwards # 5.48 # 13.47 # legs
+wave with the right hand # 6.0 # 12.47 # right arm

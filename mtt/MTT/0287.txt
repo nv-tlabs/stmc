@@ -1,0 +1,3 @@
+pick something with the right hand # 0.0 # 7.41 # legs # right arm # spine
+drink with the right arm # 7.41 # 12.34 # head # right arm
+throw something with left hand # 1.28 # 5.2 # left arm

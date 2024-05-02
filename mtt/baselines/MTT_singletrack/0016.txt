@@ -1,0 +1,4 @@
+jogs forwards # 0.0 # 4.11 # legs
+dodge a hit to his head # 4.11 # 4.12 # head # spine
+dodge a hit to his head while raise both arms in the air # 4.12 # 9.61 # head # left arm # right arm # spine
+dodge a hit to his head # 9.61 # 9.62 # head # spine

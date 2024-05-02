@@ -1,0 +1,4 @@
+talk on phone with right hand # 0.0 # 7.95 # head # right arm
+perform a squat # 7.95 # 8.09 # legs # spine
+perform a squat while punch with the right hand # 8.09 # 12.37 # legs # right arm # spine
+perform a squat # 12.37 # 17.14 # legs # spine

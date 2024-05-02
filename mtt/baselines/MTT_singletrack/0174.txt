@@ -1,0 +1,3 @@
+high kick with the left foot # 0.0 # 4.13 # legs
+jumping jacks while look right # 4.13 # 8.86 # head # left arm # legs # right arm # spine
+jumping jacks # 8.86 # 9.02 # left arm # legs # right arm # spine

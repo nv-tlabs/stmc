@@ -1,0 +1,4 @@
+high kick with the left foot # 0.0 # 4.69 # legs
+wipe with the right hand # 4.69 # 4.88 # right arm
+wipe with the right hand while drink with the left arm # 4.88 # 9.92 # head # left arm # right arm
+wipe with the right hand # 9.92 # 10.88 # right arm

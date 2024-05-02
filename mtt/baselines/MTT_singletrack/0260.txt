@@ -1,0 +1,4 @@
+walk in a circle counterclockwise # 0.0 # 0.22 # legs
+walk in a circle counterclockwise while touches back of head with right hand # 0.22 # 5.23 # head # legs # right arm
+walk in a circle counterclockwise # 5.23 # 5.6 # legs
+play golf # 5.6 # 10.35 # head # left arm # legs # right arm # spine

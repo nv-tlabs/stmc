@@ -1,0 +1,1 @@
+hop to the left and then touches back of head with right hand while jump backward # 0.0 # 9.8 # head # legs # right arm # spine

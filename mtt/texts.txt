@@ -1,0 +1,60 @@
+walk in a circle clockwise # legs
+walk in a circle counterclockwise # legs
+walk in a quarter circle to the left # legs
+walk in a quarter circle to the right # legs
+turn 180 degrees to the left on the left foot # legs
+turn 180 degrees to the left on the right foot # legs
+turn left # legs
+turn right # legs
+walk forwards # legs
+walk backwards # legs
+slowly walk forwards # legs
+slowly walk backwards # legs
+quickly walk forwards # legs
+quickly walk backwards # legs
+run # legs
+jogs forwards # legs
+jogs backwards # legs
+perform a squat # legs # spine
+sit down # legs # spine
+low kick with the right foot # legs
+low kick with the left foot # legs
+high kick with the right foot # legs
+high kick with the left foot # legs
+applause # left arm # right arm
+play the guitar # left arm # right arm
+play the violin # left arm # right arm
+raise both arms in the air # left arm # right arm
+raise the right arm # right arm
+raise the left arm # left arm
+wave with the right hand # right arm
+wave with the left hand # left arm
+wave with both hands # left arm # right arm
+talk on phone with left hand # head # left arm
+talk on phone with right hand # head # right arm
+point with his right hand # right arm
+point with his left hand # left arm
+drink with the left arm # head # left arm
+drink with the right arm # head # right arm
+eat something with the left arm # head # left arm
+eat something with the right arm # head # right arm
+look right # head
+look left # head
+dodge a hit to his head # head # spine
+throw something with left hand # left arm
+throw something with right hand # right arm
+pick something with the left hand # left arm # legs # spine
+pick something with the right hand # legs # right arm # spine
+bow # head # spine
+punch with the left hand # left arm
+punch with the right hand # right arm
+jump forward # legs # spine
+jump backward # legs # spine
+hop to the left # legs # spine
+hop to the right # legs # spine
+play golf # head # left arm # legs # right arm # spine
+jumping jacks # left arm # legs # right arm # spine
+touches back of head with right hand # head # right arm
+touches back of head with left hand # head # left arm
+wipe with the left hand # left arm
+wipe with the right hand # right arm

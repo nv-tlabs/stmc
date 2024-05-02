@@ -1,0 +1,4 @@
+pick something with the left hand # 0.0 # 2.57 # left arm # legs # spine
+pick something with the left hand while talk on phone with right hand # 2.57 # 5.71 # head # left arm # legs # right arm # spine
+slowly walk forwards while talk on phone with right hand # 5.71 # 8.95 # head # legs # right arm
+slowly walk forwards # 8.95 # 11.77 # legs

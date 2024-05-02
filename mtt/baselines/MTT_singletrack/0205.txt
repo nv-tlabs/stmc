@@ -1,0 +1,4 @@
+low kick with the left foot # 0.0 # 0.93 # legs
+low kick with the left foot while play the violin # 0.93 # 5.97 # left arm # legs # right arm
+turn left while play the violin # 5.97 # 7.05 # left arm # legs # right arm
+turn left # 7.05 # 9.85 # legs

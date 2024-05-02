@@ -1,0 +1,4 @@
+jumping jacks # 0.0 # 5.34 # left arm # legs # right arm # spine
+touches back of head with right hand # 5.34 # 5.45 # head # right arm
+touches back of head with right hand while turn 180 degrees to the left on the right foot # 5.45 # 10.61 # head # legs # right arm
+touches back of head with right hand # 10.61 # 10.76 # head # right arm

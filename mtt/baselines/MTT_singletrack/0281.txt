@@ -1,0 +1,4 @@
+jogs forwards # 0.0 # 1.28 # legs
+jogs forwards while wipe with the left hand # 1.28 # 6.29 # left arm # legs
+jogs forwards # 6.29 # 6.57 # legs
+eat something with the left arm # 6.57 # 12.91 # head # left arm

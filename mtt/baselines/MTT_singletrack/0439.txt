@@ -1,0 +1,4 @@
+bow # 0.0 # 5.25 # head # spine
+run # 5.25 # 5.34 # legs
+run while drink with the left arm # 5.34 # 10.75 # head # left arm # legs
+run # 10.75 # 11.09 # legs

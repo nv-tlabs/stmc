@@ -1,0 +1,3 @@
+hop to the right # 0.0 # 2.82 # legs # spine
+turn 180 degrees to the left on the right foot # 2.82 # 10.5 # legs
+bow # 4.84 # 8.35 # head # spine

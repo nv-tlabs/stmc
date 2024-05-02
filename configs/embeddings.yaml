@@ -1,0 +1,10 @@
+text_features: ${hydra:runtime.choices.text_encoder}
+
+dataset: humanml3d
+
+defaults:
+  - text_encoder: clip
+  - defaults
+  - _self_
+
+device: cuda

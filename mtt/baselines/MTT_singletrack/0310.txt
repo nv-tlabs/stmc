@@ -1,0 +1,4 @@
+sit down # 0.0 # 5.32 # legs # spine
+jumping jacks # 5.32 # 5.5 # left arm # legs # right arm # spine
+jumping jacks while look right # 5.5 # 10.29 # head # left arm # legs # right arm # spine
+jumping jacks # 10.29 # 10.63 # left arm # legs # right arm # spine

@@ -1,0 +1,4 @@
+jogs forwards # 0.0 # 4.92 # legs
+slowly walk backwards # 4.92 # 5.42 # legs
+slowly walk backwards while look right # 5.42 # 9.8 # head # legs
+slowly walk backwards # 9.8 # 10.48 # legs

@@ -1,0 +1,4 @@
+eat something with the right arm # 0.0 # 1.1 # head # right arm
+eat something with the right arm while sit down # 1.1 # 6.86 # head # legs # right arm # spine
+eat something with the right arm # 6.86 # 7.26 # head # right arm
+walk in a quarter circle to the left # 7.26 # 14.55 # legs

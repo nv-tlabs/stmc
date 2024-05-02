@@ -1,0 +1,4 @@
+perform a squat # 0.0 # 5.64 # legs # spine
+slowly walk backwards # 5.64 # 8.08 # legs
+slowly walk backwards while talk on phone with left hand # 8.08 # 11.08 # head # left arm # legs
+slowly walk backwards # 11.08 # 12.48 # legs

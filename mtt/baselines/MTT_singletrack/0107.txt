@@ -1,0 +1,4 @@
+pick something with the left hand # 0.0 # 5.7 # left arm # legs # spine
+pick something with the right hand # 5.7 # 7.17 # legs # right arm # spine
+pick something with the right hand while point with his left hand # 7.17 # 12.51 # left arm # legs # right arm # spine
+pick something with the right hand # 12.51 # 13.03 # legs # right arm # spine

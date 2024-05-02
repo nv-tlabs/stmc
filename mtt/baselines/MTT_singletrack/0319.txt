@@ -1,0 +1,4 @@
+run # 0.0 # 5.73 # legs
+walk in a circle clockwise # 5.73 # 8.3 # legs
+walk in a circle clockwise while throw something with right hand # 8.3 # 12.21 # legs # right arm
+walk in a circle clockwise # 12.21 # 13.31 # legs

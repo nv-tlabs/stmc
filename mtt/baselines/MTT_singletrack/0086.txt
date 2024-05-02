@@ -1,0 +1,4 @@
+jumping jacks # 0.0 # 3.67 # left arm # legs # right arm # spine
+wave with both hands # 3.67 # 3.93 # left arm # right arm
+wave with both hands while jogs forwards # 3.93 # 5.94 # left arm # legs # right arm
+wave with both hands # 5.94 # 8.03 # left arm # right arm

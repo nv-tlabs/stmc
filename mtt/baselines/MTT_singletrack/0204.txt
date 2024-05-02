@@ -1,0 +1,4 @@
+walk forwards # 0.0 # 7.88 # legs
+slowly walk forwards # 7.88 # 9.05 # legs
+slowly walk forwards while wave with the right hand # 9.05 # 15.78 # legs # right arm
+slowly walk forwards # 15.78 # 16.6 # legs

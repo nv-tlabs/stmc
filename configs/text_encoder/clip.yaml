@@ -1,0 +1,12 @@
+# @package __global__
+
+data:
+  text_encoder:
+    _target_: src.data.text.TextEmbeddings
+    dataname: ${dataset}
+    modelname: "ViT-B/32"
+    device: ${device}
+    preload: true
+    mean_pooling: false
+    disable: false
+    nfeats: 512

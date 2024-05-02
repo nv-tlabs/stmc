@@ -1,0 +1,4 @@
+turn left # 0.0 # 0.07 # legs
+turn left while point with his right hand # 0.07 # 6.27 # legs # right arm
+turn left # 6.27 # 7.61 # legs
+jump backward # 7.61 # 12.97 # legs # spine

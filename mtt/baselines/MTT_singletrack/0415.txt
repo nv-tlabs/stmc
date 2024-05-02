@@ -1,0 +1,4 @@
+high kick with the left foot # 0.0 # 0.63 # legs
+high kick with the left foot while drink with the right arm # 0.63 # 5.67 # head # legs # right arm
+high kick with the left foot # 5.67 # 6.05 # legs
+wave with the right hand # 6.05 # 11.64 # right arm

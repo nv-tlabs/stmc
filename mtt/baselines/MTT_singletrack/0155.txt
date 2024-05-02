@@ -1,0 +1,4 @@
+play the guitar # 0.0 # 0.44 # left arm # right arm
+play the guitar while turn 180 degrees to the left on the left foot # 0.44 # 5.51 # left arm # legs # right arm
+play the guitar # 5.51 # 7.11 # left arm # right arm
+turn right # 7.11 # 12.82 # legs

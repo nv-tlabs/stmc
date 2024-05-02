@@ -1,0 +1,4 @@
+walk forwards # 0.0 # 1.76 # legs
+walk forwards while dodge a hit to his head # 1.76 # 7.08 # head # legs # spine
+play the violin while dodge a hit to his head # 7.08 # 7.81 # head # left arm # right arm # spine
+play the violin # 7.81 # 13.58 # left arm # right arm

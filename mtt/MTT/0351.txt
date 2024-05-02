@@ -1,0 +1,3 @@
+quickly walk backwards # 0.0 # 5.05 # legs
+turn 180 degrees to the left on the right foot # 5.05 # 11.68 # legs
+touches back of head with right hand # 6.19 # 11.62 # head # right arm

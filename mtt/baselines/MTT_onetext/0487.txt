@@ -1,0 +1,1 @@
+throw something with left hand and then jogs forwards while talk on phone with right hand # 0.0 # 9.8 # head # left arm # legs # right arm

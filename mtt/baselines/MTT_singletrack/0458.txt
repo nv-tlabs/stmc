@@ -1,0 +1,4 @@
+turn 180 degrees to the left on the left foot # 0.0 # 0.14 # legs
+turn 180 degrees to the left on the left foot while look right # 0.14 # 6.1 # head # legs
+turn 180 degrees to the left on the left foot # 6.1 # 6.41 # legs
+drink with the right arm # 6.41 # 12.7 # head # right arm

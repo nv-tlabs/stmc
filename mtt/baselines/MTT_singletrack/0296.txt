@@ -1,0 +1,4 @@
+high kick with the left foot # 0.0 # 2.7 # legs
+high kick with the left foot while drink with the right arm # 2.7 # 4.09 # head # legs # right arm
+low kick with the right foot while drink with the right arm # 4.09 # 6.25 # head # legs # right arm
+low kick with the right foot # 6.25 # 9.19 # legs

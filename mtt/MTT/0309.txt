@@ -1,0 +1,3 @@
+bow # 0.0 # 9.16 # head # spine
+run # 9.16 # 16.86 # legs
+throw something with left hand # 1.63 # 9.03 # left arm

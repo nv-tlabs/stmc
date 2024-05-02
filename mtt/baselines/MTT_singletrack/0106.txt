@@ -1,0 +1,4 @@
+raise the left arm # 0.0 # 6.67 # left arm
+touches back of head with right hand # 6.67 # 7.62 # head # right arm
+touches back of head with right hand while sit down # 7.62 # 13.19 # head # legs # right arm # spine
+touches back of head with right hand # 13.19 # 14.05 # head # right arm

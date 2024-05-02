@@ -1,0 +1,4 @@
+low kick with the right foot # 0.0 # 7.38 # legs
+touches back of head with right hand # 7.38 # 7.64 # head # right arm
+touches back of head with right hand while walk in a circle clockwise # 7.64 # 14.05 # head # legs # right arm
+touches back of head with right hand # 14.05 # 15.02 # head # right arm

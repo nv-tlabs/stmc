@@ -1,0 +1,4 @@
+slowly walk forwards # 0.0 # 6.2 # legs
+raise the left arm # 6.2 # 6.76 # left arm
+raise the left arm while walk in a circle counterclockwise # 6.76 # 10.18 # left arm # legs
+raise the left arm # 10.18 # 12.64 # left arm

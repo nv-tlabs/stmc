@@ -1,0 +1,4 @@
+hop to the right # 0.0 # 1.54 # legs # spine
+hop to the right while throw something with left hand # 1.54 # 7.02 # left arm # legs # spine
+hop to the right # 7.02 # 9.19 # legs # spine
+quickly walk forwards # 9.19 # 16.16 # legs

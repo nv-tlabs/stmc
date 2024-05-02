@@ -1,0 +1,12 @@
+defaults:
+  - joints_renderer: matplotlib
+  - smpl_renderer: humor
+  - defaults
+  - _self_
+
+path: ???
+out_path: null
+ext: mp4
+fps: 20.0
+
+y_is_z_axis: false

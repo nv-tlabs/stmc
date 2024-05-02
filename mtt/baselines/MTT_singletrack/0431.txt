@@ -1,0 +1,4 @@
+jump backward # 0.0 # 0.5 # legs # spine
+jump backward while talk on phone with right hand # 0.5 # 6.76 # head # legs # right arm # spine
+jump backward # 6.76 # 8.36 # legs # spine
+hop to the right # 8.36 # 13.73 # legs # spine

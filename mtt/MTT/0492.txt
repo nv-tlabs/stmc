@@ -1,0 +1,3 @@
+touches back of head with right hand # 0.0 # 6.72 # head # right arm
+touches back of head with left hand # 6.72 # 12.54 # head # left arm
+walk backwards # 0.0 # 6.56 # legs

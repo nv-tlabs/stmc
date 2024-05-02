@@ -1,0 +1,4 @@
+play the guitar # 0.0 # 6.2 # left arm # right arm
+jogs forwards # 6.2 # 6.54 # legs
+jogs forwards while eat something with the left arm # 6.54 # 13.47 # head # left arm # legs
+jogs forwards # 13.47 # 13.86 # legs

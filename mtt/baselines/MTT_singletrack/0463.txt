@@ -1,0 +1,4 @@
+quickly walk backwards # 0.0 # 5.79 # legs
+pick something with the left hand # 5.79 # 5.95 # left arm # legs # spine
+pick something with the left hand while drink with the right arm # 5.95 # 12.06 # head # left arm # legs # right arm # spine
+pick something with the left hand # 12.06 # 12.57 # left arm # legs # spine

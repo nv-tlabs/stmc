@@ -1,0 +1,4 @@
+sit down # 0.0 # 0.93 # legs # spine
+sit down while punch with the left hand # 0.93 # 3.65 # left arm # legs # spine
+look left while punch with the left hand # 3.65 # 8.64 # head # left arm
+look left # 8.64 # 8.69 # head

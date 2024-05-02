@@ -1,0 +1,4 @@
+walk in a circle counterclockwise # 0.0 # 5.12 # legs
+play the guitar # 5.12 # 5.39 # left arm # right arm
+play the guitar while jump backward # 5.39 # 9.27 # left arm # legs # right arm # spine
+play the guitar # 9.27 # 11.68 # left arm # right arm

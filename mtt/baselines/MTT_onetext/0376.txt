@@ -1,0 +1,1 @@
+bow and then turn left while dodge a hit to his head # 0.0 # 9.8 # head # legs # spine

@@ -1,0 +1,4 @@
+pick something with the right hand # 0.0 # 0.06 # legs # right arm # spine
+pick something with the right hand while point with his left hand # 0.06 # 3.19 # left arm # legs # right arm # spine
+pick something with the right hand # 3.19 # 4.92 # legs # right arm # spine
+play golf # 4.92 # 11.41 # head # left arm # legs # right arm # spine

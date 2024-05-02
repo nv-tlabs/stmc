@@ -1,0 +1,4 @@
+walk backwards # 0.0 # 6.4 # legs
+quickly walk backwards # 6.4 # 6.72 # legs
+quickly walk backwards while look right # 6.72 # 12.22 # head # legs
+quickly walk backwards # 12.22 # 12.83 # legs

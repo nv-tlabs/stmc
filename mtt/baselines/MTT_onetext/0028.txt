@@ -1,0 +1,1 @@
+high kick with the left foot and then jogs forwards while look right # 0.0 # 9.8 # head # legs

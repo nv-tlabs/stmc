@@ -1,0 +1,4 @@
+hop to the left # 0.0 # 0.01 # legs # spine
+hop to the left while play the guitar # 0.01 # 6.11 # left arm # legs # right arm # spine
+hop to the left # 6.11 # 6.16 # legs # spine
+jogs forwards # 6.16 # 11.73 # legs

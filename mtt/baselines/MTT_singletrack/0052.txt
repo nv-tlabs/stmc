@@ -1,0 +1,4 @@
+walk in a circle clockwise # 0.0 # 0.09 # legs
+walk in a circle clockwise while punch with the left hand # 0.09 # 3.9 # left arm # legs
+walk in a circle clockwise # 3.9 # 6.54 # legs
+play the guitar # 6.54 # 11.62 # left arm # right arm

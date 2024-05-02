@@ -1,0 +1,4 @@
+raise both arms in the air # 0.0 # 1.55 # left arm # right arm
+raise both arms in the air while walk backwards # 1.55 # 3.69 # left arm # legs # right arm
+eat something with the right arm while walk backwards # 3.69 # 9.11 # head # legs # right arm
+eat something with the right arm # 9.11 # 9.91 # head # right arm

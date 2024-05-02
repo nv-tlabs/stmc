@@ -1,0 +1,3 @@
+punch with the left hand # 0.0 # 5.99 # left arm
+turn 180 degrees to the left on the right foot # 5.99 # 9.94 # legs
+eat something with the right arm # 1.12 # 5.93 # head # right arm

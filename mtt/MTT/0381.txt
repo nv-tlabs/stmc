@@ -1,0 +1,3 @@
+turn left # 0.0 # 4.83 # legs
+look right # 4.83 # 9.8 # head
+raise the right arm # 0.95 # 8.59 # right arm

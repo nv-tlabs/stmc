@@ -1,0 +1,4 @@
+drink with the right arm # 0.0 # 0.09 # head # right arm
+drink with the right arm while high kick with the left foot # 0.09 # 5.21 # head # legs # right arm
+drink with the right arm # 5.21 # 5.89 # head # right arm
+eat something with the left arm # 5.89 # 12.98 # head # left arm

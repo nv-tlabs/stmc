@@ -1,0 +1,4 @@
+raise the right arm # 0.0 # 1.45 # right arm
+raise the right arm while wipe with the left hand # 1.45 # 6.09 # left arm # right arm
+high kick with the right foot while wipe with the left hand # 6.09 # 7.29 # left arm # legs
+high kick with the right foot # 7.29 # 12.34 # legs

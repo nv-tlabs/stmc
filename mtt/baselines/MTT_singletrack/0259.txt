@@ -1,0 +1,4 @@
+walk backwards # 0.0 # 0.1 # legs
+walk backwards while drink with the right arm # 0.1 # 5.58 # head # legs # right arm
+walk backwards # 5.58 # 5.86 # legs
+drink with the left arm # 5.86 # 10.32 # head # left arm

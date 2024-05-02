@@ -1,0 +1,4 @@
+pick something with the left hand # 0.0 # 0.92 # left arm # legs # spine
+pick something with the left hand while raise the right arm # 0.92 # 5.72 # left arm # legs # right arm # spine
+pick something with the left hand # 5.72 # 6.88 # left arm # legs # spine
+jogs forwards # 6.88 # 10.7 # legs

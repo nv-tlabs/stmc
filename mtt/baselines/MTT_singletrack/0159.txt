@@ -1,0 +1,4 @@
+high kick with the left foot # 0.0 # 0.77 # legs
+high kick with the left foot while raise both arms in the air # 0.77 # 4.58 # left arm # legs # right arm
+high kick with the left foot # 4.58 # 4.73 # legs
+hop to the left # 4.73 # 9.26 # legs # spine

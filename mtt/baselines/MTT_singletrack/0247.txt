@@ -1,0 +1,4 @@
+drink with the left arm # 0.0 # 0.74 # head # left arm
+drink with the left arm while turn 180 degrees to the left on the right foot # 0.74 # 6.62 # head # left arm # legs
+drink with the left arm # 6.62 # 7.59 # head # left arm
+jumping jacks # 7.59 # 13.55 # left arm # legs # right arm # spine

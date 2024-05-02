@@ -1,0 +1,4 @@
+perform a squat # 0.0 # 5.99 # legs # spine
+hop to the right # 5.99 # 6.52 # legs # spine
+hop to the right while wave with the right hand # 6.52 # 11.72 # legs # right arm # spine
+hop to the right # 11.72 # 12.96 # legs # spine

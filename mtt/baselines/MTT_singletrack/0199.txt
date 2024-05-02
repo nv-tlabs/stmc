@@ -1,0 +1,4 @@
+perform a squat # 0.0 # 8.14 # legs # spine
+walk in a quarter circle to the right # 8.14 # 8.9 # legs
+walk in a quarter circle to the right while raise the right arm # 8.9 # 12.61 # legs # right arm
+walk in a quarter circle to the right # 12.61 # 12.73 # legs

@@ -1,0 +1,4 @@
+high kick with the right foot # 0.0 # 1.71 # legs
+high kick with the right foot while bow # 1.71 # 7.22 # head # legs # spine
+high kick with the right foot while bow # 7.22 # 7.88 # head # legs # spine
+high kick with the right foot # 7.88 # 12.37 # legs

@@ -1,0 +1,1 @@
+pick something with the left hand and then punch with the left hand while turn right # 0.0 # 9.8 # left arm # legs # spine

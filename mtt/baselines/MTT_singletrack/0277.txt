@@ -1,0 +1,4 @@
+eat something with the left arm # 0.0 # 0.16 # head # left arm
+eat something with the left arm while high kick with the right foot # 0.16 # 5.4 # head # left arm # legs
+eat something with the left arm # 5.4 # 6.59 # head # left arm
+throw something with right hand # 6.59 # 13.33 # right arm

@@ -1,0 +1,4 @@
+wipe with the right hand # 0.0 # 0.44 # right arm
+wipe with the right hand while pick something with the left hand # 0.44 # 4.28 # left arm # legs # right arm # spine
+wipe with the right hand # 4.28 # 7.55 # right arm
+punch with the right hand # 7.55 # 13.85 # right arm

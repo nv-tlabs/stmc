@@ -1,0 +1,4 @@
+raise the right arm # 0.0 # 6.82 # right arm
+wipe with the right hand # 6.82 # 9.1 # right arm
+wipe with the right hand while hop to the left # 9.1 # 12.55 # legs # right arm # spine
+wipe with the right hand # 12.55 # 12.64 # right arm

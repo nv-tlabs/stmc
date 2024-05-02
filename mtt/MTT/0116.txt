@@ -1,0 +1,3 @@
+walk in a quarter circle to the left # 0.0 # 5.55 # legs
+walk forwards # 5.55 # 13.14 # legs
+drink with the left arm # 6.27 # 10.8 # head # left arm

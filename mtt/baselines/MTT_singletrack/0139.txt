@@ -1,0 +1,4 @@
+play the guitar # 0.0 # 0.33 # left arm # right arm
+play the guitar while walk in a quarter circle to the right # 0.33 # 6.63 # left arm # legs # right arm
+play the guitar # 6.63 # 6.86 # left arm # right arm
+raise the right arm # 6.86 # 11.67 # right arm

@@ -1,0 +1,4 @@
+quickly walk forwards # 0.0 # 8.58 # legs
+drink with the left arm # 8.58 # 8.9 # head # left arm
+drink with the left arm while low kick with the left foot # 8.9 # 16.39 # head # left arm # legs
+drink with the left arm # 16.39 # 17.36 # head # left arm

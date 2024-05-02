@@ -1,0 +1,4 @@
+wipe with the right hand # 0.0 # 3.08 # right arm
+turn right # 3.08 # 3.99 # legs
+turn right while drink with the left arm # 3.99 # 8.94 # head # left arm # legs
+turn right # 8.94 # 9.02 # legs

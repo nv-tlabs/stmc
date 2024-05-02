@@ -1,0 +1,4 @@
+jump forward # 0.0 # 4.4 # legs # spine
+jump forward while throw something with left hand # 4.4 # 7.58 # left arm # legs # spine
+pick something with the right hand while throw something with left hand # 7.58 # 8.26 # left arm # legs # right arm # spine
+pick something with the right hand # 8.26 # 14.86 # legs # right arm # spine

@@ -1,0 +1,3 @@
+turn 180 degrees to the left on the left foot # 0.0 # 7.63 # legs
+play golf # 7.63 # 12.85 # head # left arm # legs # right arm # spine
+throw something with left hand # 0.97 # 7.2 # left arm

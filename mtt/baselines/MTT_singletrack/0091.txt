@@ -1,0 +1,4 @@
+jogs backwards # 0.0 # 0.66 # legs
+jogs backwards while punch with the right hand # 0.66 # 3.61 # legs # right arm
+jogs backwards # 3.61 # 3.69 # legs
+wipe with the left hand # 3.69 # 11.49 # left arm

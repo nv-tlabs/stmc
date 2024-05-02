@@ -1,0 +1,4 @@
+jogs backwards # 0.0 # 4.71 # legs
+wipe with the left hand # 4.71 # 5.18 # left arm
+wipe with the left hand while raise the right arm # 5.18 # 10.87 # left arm # right arm
+wipe with the left hand # 10.87 # 10.96 # left arm

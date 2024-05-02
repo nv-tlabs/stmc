@@ -1,0 +1,3 @@
+hop to the right # 0.0 # 6.91 # legs # spine
+touches back of head with left hand # 6.91 # 12.38 # head # left arm
+wave with both hands # 0.45 # 6.15 # left arm # right arm

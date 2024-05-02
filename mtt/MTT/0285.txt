@@ -1,0 +1,3 @@
+hop to the left # 0.0 # 4.8 # legs # spine
+wave with both hands # 4.8 # 13.3 # left arm # right arm
+quickly walk backwards # 5.93 # 12.88 # legs

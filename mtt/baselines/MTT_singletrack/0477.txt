@@ -1,0 +1,4 @@
+play the violin # 0.0 # 0.1 # left arm # right arm
+play the violin while walk in a quarter circle to the right # 0.1 # 5.54 # left arm # legs # right arm
+play the violin # 5.54 # 8.4 # left arm # right arm
+walk backwards # 8.4 # 15.56 # legs

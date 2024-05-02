@@ -1,0 +1,9 @@
+# @package __global__
+
+data:
+  motion_loader:
+    _target_: src.data.motion.AMASSMotionLoader
+    base_dir: datasets/motions/guoh3dfeats
+    fps: 20.0
+    nfeats: 263
+    disable: false

@@ -1,0 +1,3 @@
+run # 0.0 # 6.19 # legs
+wave with both hands # 6.19 # 12.63 # left arm # right arm
+jump backward # 6.7 # 12.52 # legs # spine

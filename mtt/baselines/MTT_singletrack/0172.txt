@@ -1,0 +1,4 @@
+jumping jacks # 0.0 # 5.2 # left arm # legs # right arm # spine
+raise both arms in the air # 5.2 # 5.56 # left arm # right arm
+raise both arms in the air while slowly walk forwards # 5.56 # 12.0 # left arm # legs # right arm
+raise both arms in the air # 12.0 # 12.61 # left arm # right arm

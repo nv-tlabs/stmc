@@ -1,0 +1,4 @@
+look left # 0.0 # 1.5 # head
+look left while walk forwards # 1.5 # 5.68 # head # legs
+look left # 5.68 # 6.01 # head
+quickly walk forwards # 6.01 # 10.67 # legs

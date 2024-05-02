@@ -1,0 +1,4 @@
+turn 180 degrees to the left on the left foot # 0.0 # 0.39 # legs
+turn 180 degrees to the left on the left foot while play the guitar # 0.39 # 3.46 # left arm # legs # right arm
+turn 180 degrees to the left on the left foot # 3.46 # 7.23 # legs
+jump backward # 7.23 # 13.79 # legs # spine

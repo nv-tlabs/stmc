@@ -1,0 +1,4 @@
+high kick with the left foot # 0.0 # 6.52 # legs
+perform a squat # 6.52 # 6.57 # legs # spine
+perform a squat while drink with the left arm # 6.57 # 12.11 # head # left arm # legs # spine
+perform a squat # 12.11 # 12.82 # legs # spine

@@ -1,0 +1,4 @@
+wave with both hands # 0.0 # 6.89 # left arm # right arm
+quickly walk forwards # 6.89 # 7.52 # legs
+quickly walk forwards while raise the left arm # 7.52 # 14.79 # left arm # legs
+quickly walk forwards # 14.79 # 14.91 # legs

@@ -1,0 +1,4 @@
+jumping jacks # 0.0 # 0.19 # left arm # legs # right arm # spine
+jumping jacks while look left # 0.19 # 7.12 # head # left arm # legs # right arm # spine
+jumping jacks # 7.12 # 7.35 # left arm # legs # right arm # spine
+eat something with the right arm # 7.35 # 13.14 # head # right arm

@@ -1,0 +1,4 @@
+touches back of head with left hand # 0.0 # 2.45 # head # left arm
+touches back of head with left hand while hop to the left # 2.45 # 8.07 # head # left arm # legs # spine
+touches back of head with left hand # 8.07 # 8.58 # head # left arm
+throw something with right hand # 8.58 # 12.6 # right arm

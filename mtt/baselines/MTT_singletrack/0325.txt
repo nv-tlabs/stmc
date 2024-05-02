@@ -1,0 +1,4 @@
+low kick with the right foot # 0.0 # 7.04 # legs
+hop to the right # 7.04 # 7.62 # legs # spine
+hop to the right while talk on phone with left hand # 7.62 # 14.51 # head # left arm # legs # spine
+hop to the right # 14.51 # 15.8 # legs # spine

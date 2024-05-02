@@ -1,0 +1,4 @@
+wipe with the left hand # 0.0 # 0.33 # left arm
+wipe with the left hand while bow # 0.33 # 6.27 # head # left arm # spine
+wipe with the left hand # 6.27 # 6.93 # left arm
+raise both arms in the air # 6.93 # 12.71 # left arm # right arm

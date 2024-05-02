@@ -1,0 +1,4 @@
+touches back of head with left hand # 0.0 # 0.61 # head # left arm
+touches back of head with left hand while run # 0.61 # 5.38 # head # left arm # legs
+touches back of head with left hand # 5.38 # 5.74 # head # left arm
+look left # 5.74 # 13.38 # head

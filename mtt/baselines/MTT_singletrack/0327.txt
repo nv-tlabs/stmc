@@ -1,0 +1,4 @@
+low kick with the right foot # 0.0 # 2.69 # legs
+low kick with the right foot while applause # 2.69 # 6.87 # left arm # legs # right arm
+sit down while applause # 6.87 # 7.01 # left arm # legs # right arm # spine
+sit down # 7.01 # 14.1 # legs # spine

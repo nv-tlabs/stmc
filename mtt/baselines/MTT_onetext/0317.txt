@@ -1,0 +1,1 @@
+turn 180 degrees to the left on the right foot and then dodge a hit to his head while raise the left arm # 0.0 # 9.8 # head # left arm # legs # spine

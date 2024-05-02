@@ -1,0 +1,6 @@
+_target_: src.renderer.humor.HumorRenderer
+
+fps: 20.0
+
+imw: 720
+imh: 720

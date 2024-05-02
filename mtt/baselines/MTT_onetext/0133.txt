@@ -1,0 +1,1 @@
+drink with the left arm and then pick something with the left hand while punch with the right hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine

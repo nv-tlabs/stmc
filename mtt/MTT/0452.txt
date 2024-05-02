@@ -1,0 +1,3 @@
+perform a squat # 0.0 # 6.46 # legs # spine
+walk in a quarter circle to the right # 6.46 # 13.72 # legs
+touches back of head with right hand # 6.5 # 13.62 # head # right arm

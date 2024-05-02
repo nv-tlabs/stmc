@@ -1,0 +1,1 @@
+turn right and then walk forwards while touches back of head with right hand # 0.0 # 9.8 # head # legs # right arm

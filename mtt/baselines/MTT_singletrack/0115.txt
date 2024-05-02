@@ -1,0 +1,4 @@
+walk in a circle counterclockwise # 0.0 # 4.57 # legs
+high kick with the left foot # 4.57 # 5.51 # legs
+high kick with the left foot while punch with the right hand # 5.51 # 10.28 # legs # right arm
+high kick with the left foot # 10.28 # 10.78 # legs

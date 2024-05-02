@@ -1,0 +1,4 @@
+punch with the left hand # 0.0 # 1.46 # left arm
+punch with the left hand while turn 180 degrees to the left on the left foot # 1.46 # 5.01 # left arm # legs
+touches back of head with left hand while turn 180 degrees to the left on the left foot # 5.01 # 8.53 # head # left arm # legs
+touches back of head with left hand # 8.53 # 11.57 # head # left arm

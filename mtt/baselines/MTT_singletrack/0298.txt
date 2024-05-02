@@ -1,0 +1,4 @@
+low kick with the right foot # 0.0 # 0.27 # legs
+low kick with the right foot while wave with the left hand # 0.27 # 5.5 # left arm # legs
+low kick with the right foot # 5.5 # 8.44 # legs
+high kick with the right foot # 8.44 # 13.02 # legs

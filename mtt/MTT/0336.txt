@@ -1,0 +1,3 @@
+sit down # 0.0 # 7.52 # legs # spine
+turn right # 7.52 # 12.21 # legs
+play the violin # 0.02 # 5.69 # left arm # right arm

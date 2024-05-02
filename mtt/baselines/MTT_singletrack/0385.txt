@@ -1,0 +1,4 @@
+run # 0.0 # 0.33 # legs
+run while point with his right hand # 0.33 # 5.31 # legs # right arm
+run # 5.31 # 6.96 # legs
+slowly walk forwards # 6.96 # 9.14 # legs

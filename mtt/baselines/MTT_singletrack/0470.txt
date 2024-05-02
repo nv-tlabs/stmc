@@ -1,0 +1,4 @@
+talk on phone with right hand # 0.0 # 1.32 # head # right arm
+talk on phone with right hand while raise the left arm # 1.32 # 6.51 # head # left arm # right arm
+walk in a quarter circle to the right while raise the left arm # 6.51 # 8.06 # left arm # legs
+walk in a quarter circle to the right # 8.06 # 12.08 # legs

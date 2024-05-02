@@ -1,0 +1,4 @@
+talk on phone with left hand # 0.0 # 6.63 # head # left arm
+hop to the left # 6.63 # 7.42 # legs # spine
+hop to the left while eat something with the left arm # 7.42 # 11.85 # head # left arm # legs # spine
+hop to the left # 11.85 # 13.33 # legs # spine

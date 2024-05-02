@@ -1,0 +1,4 @@
+turn right # 0.0 # 6.57 # legs
+walk in a circle counterclockwise # 6.57 # 6.7 # legs
+walk in a circle counterclockwise while wave with both hands # 6.7 # 12.43 # left arm # legs # right arm
+walk in a circle counterclockwise # 12.43 # 13.87 # legs

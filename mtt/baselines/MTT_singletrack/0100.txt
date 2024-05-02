@@ -1,0 +1,4 @@
+high kick with the right foot # 0.0 # 4.61 # legs
+hop to the right # 4.61 # 5.19 # legs # spine
+hop to the right while throw something with left hand # 5.19 # 11.77 # left arm # legs # spine
+hop to the right # 11.77 # 12.28 # legs # spine

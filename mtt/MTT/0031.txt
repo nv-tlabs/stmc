@@ -1,0 +1,3 @@
+look left # 0.0 # 5.12 # head
+play the violin # 5.12 # 10.85 # left arm # right arm
+jump backward # 5.27 # 10.18 # legs # spine

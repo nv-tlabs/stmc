@@ -1,0 +1,4 @@
+turn left # 0.0 # 2.02 # legs
+turn left while raise the left arm # 2.02 # 7.88 # left arm # legs
+turn left # 7.88 # 8.05 # legs
+throw something with left hand # 8.05 # 15.01 # left arm

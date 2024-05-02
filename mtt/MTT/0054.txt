@@ -1,0 +1,3 @@
+play the guitar # 0.0 # 6.47 # left arm # right arm
+walk forwards # 6.47 # 12.33 # legs
+slowly walk backwards # 0.62 # 6.46 # legs

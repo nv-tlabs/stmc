@@ -1,0 +1,4 @@
+jumping jacks # 0.0 # 0.28 # left arm # legs # right arm # spine
+jumping jacks while look left # 0.28 # 7.36 # head # left arm # legs # right arm # spine
+jumping jacks # 7.36 # 7.93 # left arm # legs # right arm # spine
+jump backward # 7.93 # 14.26 # legs # spine

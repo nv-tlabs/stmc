@@ -1,0 +1,4 @@
+turn left # 0.0 # 1.75 # legs
+turn left while look right # 1.75 # 6.81 # head # legs
+turn left # 6.81 # 7.28 # legs
+turn 180 degrees to the left on the right foot # 7.28 # 13.92 # legs

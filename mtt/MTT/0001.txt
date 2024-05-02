@@ -1,0 +1,3 @@
+talk on phone with right hand # 0.0 # 5.49 # head # right arm
+jump backward # 5.49 # 11.04 # legs # spine
+wipe with the left hand # 0.01 # 5.48 # left arm

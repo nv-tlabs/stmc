@@ -1,0 +1,4 @@
+jump backward # 0.0 # 4.71 # legs # spine
+sit down # 4.71 # 5.53 # legs # spine
+sit down while play the guitar # 5.53 # 10.88 # left arm # legs # right arm # spine
+sit down # 10.88 # 11.47 # legs # spine

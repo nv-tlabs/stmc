@@ -1,0 +1,4 @@
+walk in a quarter circle to the left # 0.0 # 4.71 # legs
+dodge a hit to his head # 4.71 # 5.0 # head # spine
+dodge a hit to his head while turn right # 5.0 # 11.05 # head # legs # spine
+dodge a hit to his head # 11.05 # 11.44 # head # spine

@@ -1,0 +1,4 @@
+wave with both hands # 0.0 # 0.21 # left arm # right arm
+wave with both hands while jogs forwards # 0.21 # 4.93 # left arm # legs # right arm
+wave with both hands # 4.93 # 5.05 # left arm # right arm
+drink with the right arm # 5.05 # 13.5 # head # right arm

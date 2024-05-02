@@ -1,0 +1,4 @@
+walk in a quarter circle to the left # 0.0 # 1.66 # legs
+walk in a quarter circle to the left while talk on phone with right hand # 1.66 # 5.01 # head # legs # right arm
+perform a squat while talk on phone with right hand # 5.01 # 8.35 # head # legs # right arm # spine
+perform a squat # 8.35 # 11.7 # legs # spine

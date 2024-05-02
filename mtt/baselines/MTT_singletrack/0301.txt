@@ -1,0 +1,4 @@
+quickly walk backwards # 0.0 # 0.28 # legs
+quickly walk backwards while wipe with the left hand # 0.28 # 6.37 # left arm # legs
+jump backward while wipe with the left hand # 6.37 # 6.86 # left arm # legs # spine
+jump backward # 6.86 # 13.56 # legs # spine

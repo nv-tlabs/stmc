@@ -1,0 +1,4 @@
+turn 180 degrees to the left on the right foot # 0.0 # 1.66 # legs
+turn 180 degrees to the left on the right foot while bow # 1.66 # 6.1 # head # legs # spine
+raise both arms in the air while bow # 6.1 # 6.99 # head # left arm # right arm # spine
+raise both arms in the air # 6.99 # 11.84 # left arm # right arm

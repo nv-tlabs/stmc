@@ -1,0 +1,4 @@
+slowly walk forwards # 0.0 # 0.13 # legs
+slowly walk forwards while applause # 0.13 # 6.54 # left arm # legs # right arm
+slowly walk forwards # 6.54 # 7.98 # legs
+jump forward # 7.98 # 13.59 # legs # spine

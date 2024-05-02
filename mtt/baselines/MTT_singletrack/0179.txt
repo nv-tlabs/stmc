@@ -1,0 +1,4 @@
+sit down # 0.0 # 7.74 # legs # spine
+turn left # 7.74 # 8.07 # legs
+turn left while throw something with right hand # 8.07 # 14.07 # legs # right arm
+turn left # 14.07 # 14.16 # legs

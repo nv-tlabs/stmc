@@ -1,0 +1,3 @@
+jump forward # 0.0 # 8.68 # legs # spine
+jump forward # 8.68 # 15.46 # legs # spine
+drink with the right arm # 1.6 # 8.61 # head # right arm

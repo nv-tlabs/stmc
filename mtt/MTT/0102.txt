@@ -1,0 +1,3 @@
+pick something with the right hand # 0.0 # 4.71 # legs # right arm # spine
+walk backwards # 4.71 # 10.9 # legs
+look right # 5.23 # 10.89 # head

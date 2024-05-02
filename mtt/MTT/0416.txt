@@ -1,0 +1,3 @@
+point with his left hand # 0.0 # 4.25 # left arm
+jogs backwards # 4.25 # 11.35 # legs
+drink with the left arm # 7.2 # 11.32 # head # left arm

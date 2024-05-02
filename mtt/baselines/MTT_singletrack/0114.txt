@@ -1,0 +1,4 @@
+high kick with the right foot # 0.0 # 5.27 # legs
+talk on phone with right hand # 5.27 # 5.88 # head # right arm
+talk on phone with right hand while jogs backwards # 5.88 # 9.94 # head # legs # right arm
+talk on phone with right hand # 9.94 # 11.0 # head # right arm

@@ -1,0 +1,4 @@
+hop to the left # 0.0 # 4.43 # legs # spine
+high kick with the right foot # 4.43 # 5.18 # legs
+high kick with the right foot while touches back of head with right hand # 5.18 # 10.61 # head # legs # right arm
+high kick with the right foot # 10.61 # 11.78 # legs

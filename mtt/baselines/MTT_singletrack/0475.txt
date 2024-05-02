@@ -1,0 +1,4 @@
+play golf # 0.0 # 6.74 # head # left arm # legs # right arm # spine
+hop to the right # 6.74 # 8.08 # legs # spine
+hop to the right while point with his right hand # 8.08 # 13.44 # legs # right arm # spine
+hop to the right # 13.44 # 13.77 # legs # spine

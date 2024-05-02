@@ -1,0 +1,4 @@
+turn 180 degrees to the left on the right foot # 0.0 # 0.35 # legs
+turn 180 degrees to the left on the right foot while punch with the right hand # 0.35 # 5.47 # legs # right arm
+turn 180 degrees to the left on the right foot # 5.47 # 5.99 # legs
+play the guitar # 5.99 # 11.42 # left arm # right arm

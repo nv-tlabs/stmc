@@ -1,0 +1,4 @@
+jogs forwards # 0.0 # 0.1 # legs
+jogs forwards while talk on phone with left hand # 0.1 # 6.02 # head # left arm # legs
+jogs forwards # 6.02 # 6.31 # legs
+jogs backwards # 6.31 # 13.16 # legs

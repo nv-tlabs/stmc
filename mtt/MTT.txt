@@ -1,0 +1,2000 @@
+pick something with the right hand # 0.0 # 8.64 # legs # right arm # spine
+walk backwards # 8.64 # 14.76 # legs
+wave with the left hand # 0.47 # 4.91 # left arm
+
+talk on phone with right hand # 0.0 # 5.49 # head # right arm
+jump backward # 5.49 # 11.04 # legs # spine
+wipe with the left hand # 0.01 # 5.48 # left arm
+
+low kick with the left foot # 0.0 # 3.74 # legs
+turn 180 degrees to the left on the right foot # 3.74 # 8.42 # legs
+dodge a hit to his head # 0.03 # 3.73 # head # spine
+
+hop to the right # 0.0 # 8.15 # legs # spine
+touches back of head with right hand # 8.15 # 14.79 # head # right arm
+point with his right hand # 0.8 # 5.96 # right arm
+
+perform a squat # 0.0 # 4.92 # legs # spine
+bow # 4.92 # 12.19 # head # spine
+turn 180 degrees to the left on the left foot # 4.93 # 9.69 # legs
+
+quickly walk forwards # 0.0 # 5.6 # legs
+jump forward # 5.6 # 10.98 # legs # spine
+look right # 0.05 # 5.44 # head
+
+walk in a quarter circle to the left # 0.0 # 5.62 # legs
+talk on phone with right hand # 5.62 # 12.02 # head # right arm
+bow # 0.79 # 3.81 # head # spine
+
+quickly walk backwards # 0.0 # 7.0 # legs
+punch with the right hand # 7.0 # 14.15 # right arm
+throw something with left hand # 7.29 # 13.59 # left arm
+
+jump forward # 0.0 # 8.68 # legs # spine
+jump forward # 8.68 # 15.46 # legs # spine
+drink with the right arm # 1.6 # 8.61 # head # right arm
+
+high kick with the right foot # 0.0 # 4.79 # legs
+jogs backwards # 4.79 # 9.74 # legs
+raise the left arm # 0.96 # 8.5 # left arm
+
+punch with the left hand # 0.0 # 5.99 # left arm
+turn 180 degrees to the left on the right foot # 5.99 # 9.94 # legs
+eat something with the right arm # 1.12 # 5.93 # head # right arm
+
+walk forwards # 0.0 # 6.85 # legs
+dodge a hit to his head # 6.85 # 15.2 # head # spine
+raise both arms in the air # 11.1 # 14.88 # left arm # right arm
+
+perform a squat # 0.0 # 5.99 # legs # spine
+hop to the right # 5.99 # 12.96 # legs # spine
+wave with the right hand # 6.52 # 11.72 # right arm
+
+turn 180 degrees to the left on the left foot # 0.0 # 6.11 # legs
+run # 6.11 # 14.17 # legs
+bow # 0.37 # 5.33 # head # spine
+
+play golf # 0.0 # 3.86 # head # left arm # legs # right arm # spine
+turn right # 3.86 # 9.94 # legs
+wipe with the left hand # 4.45 # 9.49 # left arm
+
+turn 180 degrees to the left on the left foot # 0.0 # 4.44 # legs
+point with his right hand # 4.44 # 11.37 # right arm
+look left # 0.68 # 5.77 # head
+
+jogs forwards # 0.0 # 4.11 # legs
+dodge a hit to his head # 4.11 # 9.62 # head # spine
+raise both arms in the air # 4.12 # 9.61 # left arm # right arm
+
+talk on phone with right hand # 0.0 # 7.95 # head # right arm
+perform a squat # 7.95 # 17.14 # legs # spine
+punch with the right hand # 8.09 # 12.37 # right arm
+
+jump forward # 0.0 # 6.47 # legs # spine
+walk forwards # 6.47 # 15.59 # legs
+play the violin # 8.84 # 15.37 # left arm # right arm
+
+touches back of head with left hand # 0.0 # 7.99 # head # left arm
+wave with both hands # 7.99 # 13.74 # left arm # right arm
+slowly walk forwards # 8.16 # 13.61 # legs
+
+turn left # 0.0 # 5.72 # legs
+play golf # 5.72 # 10.96 # head # left arm # legs # right arm # spine
+wave with both hands # 0.02 # 5.48 # left arm # right arm
+
+hop to the right # 0.0 # 6.91 # legs # spine
+touches back of head with left hand # 6.91 # 12.38 # head # left arm
+wave with both hands # 0.45 # 6.15 # left arm # right arm
+
+walk in a quarter circle to the left # 0.0 # 9.19 # legs
+dodge a hit to his head # 9.19 # 16.04 # head # spine
+eat something with the right arm # 1.79 # 5.95 # head # right arm
+
+hop to the right # 0.0 # 2.82 # legs # spine
+turn 180 degrees to the left on the right foot # 2.82 # 10.5 # legs
+bow # 4.84 # 8.35 # head # spine
+
+touches back of head with right hand # 0.0 # 5.71 # head # right arm
+sit down # 5.71 # 12.12 # legs # spine
+punch with the left hand # 0.37 # 7.95 # left arm
+
+jump forward # 0.0 # 6.18 # legs # spine
+hop to the left # 6.18 # 11.46 # legs # spine
+look right # 1.13 # 5.48 # head
+
+hop to the left # 0.0 # 7.22 # legs # spine
+look left # 7.22 # 13.86 # head
+look right # 1.17 # 6.32 # head
+
+walk in a circle counterclockwise # 0.0 # 6.24 # legs
+perform a squat # 6.24 # 12.6 # legs # spine
+throw something with left hand # 7.67 # 11.42 # left arm
+
+high kick with the left foot # 0.0 # 8.21 # legs
+jogs forwards # 8.21 # 11.67 # legs
+look right # 1.04 # 7.75 # head
+
+touches back of head with left hand # 0.0 # 8.58 # head # left arm
+throw something with right hand # 8.58 # 12.6 # right arm
+hop to the left # 2.45 # 8.07 # legs # spine
+
+jump forward # 0.0 # 7.26 # legs # spine
+jump backward # 7.26 # 14.14 # legs # spine
+punch with the right hand # 0.22 # 6.33 # right arm
+
+look left # 0.0 # 5.12 # head
+play the violin # 5.12 # 10.85 # left arm # right arm
+jump backward # 5.27 # 10.18 # legs # spine
+
+punch with the right hand # 0.0 # 7.38 # right arm
+turn right # 7.38 # 14.04 # legs
+raise the left arm # 7.5 # 13.84 # left arm
+
+perform a squat # 0.0 # 9.14 # legs # spine
+high kick with the right foot # 9.14 # 15.73 # legs
+touches back of head with right hand # 9.74 # 15.45 # head # right arm
+
+jumping jacks # 0.0 # 5.15 # left arm # legs # right arm # spine
+run # 5.15 # 12.0 # legs
+touches back of head with left hand # 7.31 # 11.09 # head # left arm
+
+low kick with the left foot # 0.0 # 4.46 # legs
+quickly walk backwards # 4.46 # 11.74 # legs
+drink with the right arm # 6.44 # 10.45 # head # right arm
+
+pick something with the left hand # 0.0 # 6.89 # left arm # legs # spine
+hop to the left # 6.89 # 11.73 # legs # spine
+touches back of head with right hand # 1.31 # 8.23 # head # right arm
+
+pick something with the left hand # 0.0 # 7.54 # left arm # legs # spine
+quickly walk backwards # 7.54 # 13.88 # legs
+throw something with right hand # 0.11 # 7.1 # right arm
+
+pick something with the right hand # 0.0 # 5.47 # legs # right arm # spine
+walk in a quarter circle to the left # 5.47 # 9.48 # legs
+wipe with the left hand # 0.01 # 5.37 # left arm
+
+low kick with the left foot # 0.0 # 5.69 # legs
+eat something with the right arm # 5.69 # 10.34 # head # right arm
+point with his left hand # 2.5 # 8.69 # left arm
+
+turn 180 degrees to the left on the right foot # 0.0 # 6.1 # legs
+raise both arms in the air # 6.1 # 11.84 # left arm # right arm
+bow # 1.66 # 6.99 # head # spine
+
+play golf # 0.0 # 6.0 # head # left arm # legs # right arm # spine
+slowly walk backwards # 6.0 # 12.48 # legs
+touches back of head with right hand # 6.24 # 12.0 # head # right arm
+
+raise the left arm # 0.0 # 4.95 # left arm
+run # 4.95 # 12.13 # legs
+wave with both hands # 5.45 # 11.97 # left arm # right arm
+
+high kick with the left foot # 0.0 # 6.91 # legs
+quickly walk backwards # 6.91 # 10.84 # legs
+wave with the right hand # 0.28 # 5.78 # right arm
+
+hop to the right # 0.0 # 9.19 # legs # spine
+quickly walk forwards # 9.19 # 16.16 # legs
+throw something with left hand # 1.54 # 7.02 # left arm
+
+walk in a circle clockwise # 0.0 # 8.38 # legs
+hop to the right # 8.38 # 13.68 # legs # spine
+applause # 1.87 # 8.12 # left arm # right arm
+
+pick something with the right hand # 0.0 # 7.5 # legs # right arm # spine
+low kick with the right foot # 7.5 # 13.43 # legs
+eat something with the left arm # 7.54 # 13.38 # head # left arm
+
+touches back of head with right hand # 0.0 # 6.01 # head # right arm
+hop to the right # 6.01 # 13.61 # legs # spine
+talk on phone with left hand # 6.62 # 12.91 # head # left arm
+
+jumping jacks # 0.0 # 5.35 # left arm # legs # right arm # spine
+low kick with the left foot # 5.35 # 11.85 # legs
+raise the left arm # 7.79 # 11.44 # left arm
+
+turn left # 0.0 # 7.9 # legs
+drink with the right arm # 7.9 # 14.36 # head # right arm
+touches back of head with left hand # 0.24 # 4.3 # head # left arm
+
+eat something with the right arm # 0.0 # 7.26 # head # right arm
+walk in a quarter circle to the left # 7.26 # 14.55 # legs
+sit down # 1.1 # 6.86 # legs # spine
+
+play the guitar # 0.0 # 6.2 # left arm # right arm
+jogs forwards # 6.2 # 13.86 # legs
+eat something with the left arm # 6.54 # 13.47 # head # left arm
+
+walk in a circle clockwise # 0.0 # 6.54 # legs
+play the guitar # 6.54 # 11.62 # left arm # right arm
+punch with the left hand # 0.09 # 3.9 # left arm
+
+raise both arms in the air # 0.0 # 4.51 # left arm # right arm
+hop to the left # 4.51 # 11.62 # legs # spine
+punch with the left hand # 5.09 # 10.49 # left arm
+
+play the guitar # 0.0 # 6.47 # left arm # right arm
+walk forwards # 6.47 # 12.33 # legs
+slowly walk backwards # 0.62 # 6.46 # legs
+
+walk in a quarter circle to the right # 0.0 # 4.45 # legs
+throw something with right hand # 4.45 # 11.83 # right arm
+turn right # 5.49 # 11.0 # legs
+
+dodge a hit to his head # 0.0 # 7.35 # head # spine
+turn right # 7.35 # 12.75 # legs
+turn 180 degrees to the left on the left foot # 0.03 # 7.34 # legs
+
+walk in a circle clockwise # 0.0 # 6.64 # legs
+point with his left hand # 6.64 # 14.23 # left arm
+touches back of head with left hand # 0.18 # 6.55 # head # left arm
+
+walk forwards # 0.0 # 7.08 # legs
+play the violin # 7.08 # 13.58 # left arm # right arm
+dodge a hit to his head # 1.76 # 7.81 # head # spine
+
+wipe with the right hand # 0.0 # 3.08 # right arm
+turn right # 3.08 # 9.02 # legs
+drink with the left arm # 3.99 # 8.94 # head # left arm
+
+quickly walk forwards # 0.0 # 8.58 # legs
+drink with the left arm # 8.58 # 17.36 # head # left arm
+low kick with the left foot # 8.9 # 16.39 # legs
+
+jump forward # 0.0 # 4.96 # legs # spine
+look right # 4.96 # 9.49 # head
+throw something with right hand # 1.67 # 6.85 # right arm
+
+pick something with the right hand # 0.0 # 9.19 # legs # right arm # spine
+hop to the right # 9.19 # 16.73 # legs # spine
+eat something with the left arm # 0.68 # 7.23 # head # left arm
+
+raise the left arm # 0.0 # 5.05 # left arm
+walk forwards # 5.05 # 11.71 # legs
+drink with the right arm # 5.93 # 11.29 # head # right arm
+
+high kick with the right foot # 0.0 # 8.14 # legs
+run # 8.14 # 13.05 # legs
+bow # 1.7 # 8.02 # head # spine
+
+high kick with the right foot # 0.0 # 5.4 # legs
+sit down # 5.4 # 12.55 # legs # spine
+touches back of head with right hand # 5.94 # 12.42 # head # right arm
+
+jumping jacks # 0.0 # 5.61 # left arm # legs # right arm # spine
+low kick with the left foot # 5.61 # 12.2 # legs
+look left # 0.91 # 8.08 # head
+
+run # 0.0 # 4.66 # legs
+hop to the right # 4.66 # 11.04 # legs # spine
+throw something with right hand # 4.82 # 10.68 # right arm
+
+turn left # 0.0 # 7.33 # legs
+jogs backwards # 7.33 # 15.23 # legs
+look left # 8.73 # 14.03 # head
+
+jump forward # 0.0 # 6.71 # legs # spine
+turn 180 degrees to the left on the left foot # 6.71 # 14.19 # legs
+eat something with the left arm # 3.59 # 9.05 # head # left arm
+
+slowly walk forwards # 0.0 # 7.98 # legs
+jump forward # 7.98 # 13.59 # legs # spine
+applause # 0.13 # 6.54 # left arm # right arm
+
+perform a squat # 0.0 # 5.64 # legs # spine
+slowly walk backwards # 5.64 # 12.48 # legs
+talk on phone with left hand # 8.08 # 11.08 # head # left arm
+
+pick something with the right hand # 0.0 # 7.56 # legs # right arm # spine
+sit down # 7.56 # 13.91 # legs # spine
+drink with the left arm # 0.89 # 7.04 # head # left arm
+
+run # 0.0 # 5.08 # legs
+jogs forwards # 5.08 # 10.98 # legs
+talk on phone with right hand # 2.31 # 8.53 # head # right arm
+
+pick something with the left hand # 0.0 # 5.0 # left arm # legs # spine
+hop to the right # 5.0 # 11.75 # legs # spine
+look right # 0.2 # 4.47 # head
+
+walk in a quarter circle to the right # 0.0 # 8.35 # legs
+eat something with the left arm # 8.35 # 14.45 # head # left arm
+dodge a hit to his head # 1.13 # 7.44 # head # spine
+
+turn 180 degrees to the left on the right foot # 0.0 # 7.71 # legs
+touches back of head with right hand # 7.71 # 14.78 # head # right arm
+eat something with the left arm # 0.05 # 6.5 # head # left arm
+
+turn 180 degrees to the left on the right foot # 0.0 # 5.9 # legs
+walk in a circle clockwise # 5.9 # 11.68 # legs
+touches back of head with right hand # 0.77 # 5.66 # head # right arm
+
+bow # 0.0 # 4.97 # head # spine
+pick something with the left hand # 4.97 # 10.7 # left arm # legs # spine
+point with his right hand # 0.03 # 6.49 # right arm
+
+pick something with the left hand # 0.0 # 7.87 # left arm # legs # spine
+play golf # 7.87 # 14.15 # head # left arm # legs # right arm # spine
+drink with the right arm # 0.85 # 6.75 # head # right arm
+
+walk in a circle counterclockwise # 0.0 # 7.11 # legs
+touches back of head with right hand # 7.11 # 11.94 # head # right arm
+jump forward # 8.38 # 11.78 # legs # spine
+
+low kick with the right foot # 0.0 # 7.38 # legs
+touches back of head with right hand # 7.38 # 15.02 # head # right arm
+walk in a circle clockwise # 7.64 # 14.05 # legs
+
+walk forwards # 0.0 # 6.42 # legs
+play golf # 6.42 # 12.91 # head # left arm # legs # right arm # spine
+wipe with the right hand # 0.22 # 6.15 # right arm
+
+walk in a quarter circle to the left # 0.0 # 5.01 # legs
+perform a squat # 5.01 # 11.7 # legs # spine
+talk on phone with right hand # 1.66 # 8.35 # head # right arm
+
+talk on phone with left hand # 0.0 # 5.59 # head # left arm
+turn 180 degrees to the left on the left foot # 5.59 # 12.75 # legs
+eat something with the left arm # 6.05 # 12.52 # head # left arm
+
+pick something with the right hand # 0.0 # 7.76 # legs # right arm # spine
+touches back of head with right hand # 7.76 # 13.42 # head # right arm
+touches back of head with left hand # 2.11 # 7.65 # head # left arm
+
+jumping jacks # 0.0 # 3.67 # left arm # legs # right arm # spine
+wave with both hands # 3.67 # 8.03 # left arm # right arm
+jogs forwards # 3.93 # 5.94 # legs
+
+walk backwards # 0.0 # 5.88 # legs
+high kick with the left foot # 5.88 # 11.04 # legs
+wipe with the right hand # 2.5 # 9.03 # right arm
+
+hop to the left # 0.0 # 5.19 # legs # spine
+touches back of head with right hand # 5.19 # 10.68 # head # right arm
+jump backward # 6.31 # 10.3 # legs # spine
+
+pick something with the right hand # 0.0 # 4.92 # legs # right arm # spine
+play golf # 4.92 # 11.41 # head # left arm # legs # right arm # spine
+point with his left hand # 0.06 # 3.19 # left arm
+
+turn right # 0.0 # 5.03 # legs
+walk forwards # 5.03 # 11.75 # legs
+touches back of head with right hand # 5.36 # 10.88 # head # right arm
+
+jogs backwards # 0.0 # 3.69 # legs
+wipe with the left hand # 3.69 # 11.49 # left arm
+punch with the right hand # 0.66 # 3.61 # right arm
+
+point with his right hand # 0.0 # 5.74 # right arm
+drink with the right arm # 5.74 # 13.16 # head # right arm
+walk in a quarter circle to the left # 6.96 # 11.5 # legs
+
+jogs backwards # 0.0 # 6.16 # legs
+walk backwards # 6.16 # 11.57 # legs
+eat something with the right arm # 6.32 # 11.5 # head # right arm
+
+wipe with the right hand # 0.0 # 5.48 # right arm
+quickly walk backwards # 5.48 # 13.47 # legs
+wave with the right hand # 6.0 # 12.47 # right arm
+
+raise both arms in the air # 0.0 # 6.31 # left arm # right arm
+quickly walk forwards # 6.31 # 10.89 # legs
+hop to the right # 0.09 # 6.11 # legs # spine
+
+perform a squat # 0.0 # 6.36 # legs # spine
+turn 180 degrees to the left on the right foot # 6.36 # 11.34 # legs
+wave with the left hand # 6.57 # 11.01 # left arm
+
+jogs forwards # 0.0 # 6.31 # legs
+jogs backwards # 6.31 # 13.16 # legs
+talk on phone with left hand # 0.1 # 6.02 # head # left arm
+
+perform a squat # 0.0 # 5.81 # legs # spine
+slowly walk backwards # 5.81 # 13.36 # legs
+talk on phone with right hand # 6.48 # 13.11 # head # right arm
+
+low kick with the right foot # 0.0 # 6.1 # legs
+run # 6.1 # 10.6 # legs
+raise the left arm # 6.13 # 10.44 # left arm
+
+high kick with the right foot # 0.0 # 4.61 # legs
+hop to the right # 4.61 # 12.28 # legs # spine
+throw something with left hand # 5.19 # 11.77 # left arm
+
+turn left # 0.0 # 5.24 # legs
+turn 180 degrees to the left on the right foot # 5.24 # 13.01 # legs
+bow # 5.27 # 11.62 # head # spine
+
+pick something with the right hand # 0.0 # 4.71 # legs # right arm # spine
+walk backwards # 4.71 # 10.9 # legs
+look right # 5.23 # 10.89 # head
+
+perform a squat # 0.0 # 4.94 # legs # spine
+hop to the left # 4.94 # 11.18 # legs # spine
+raise the right arm # 0.2 # 4.56 # right arm
+
+quickly walk backwards # 0.0 # 6.88 # legs
+walk in a circle clockwise # 6.88 # 12.8 # legs
+bow # 1.71 # 6.34 # head # spine
+
+look left # 0.0 # 6.88 # head
+drink with the left arm # 6.88 # 13.26 # head # left arm
+walk forwards # 0.01 # 6.8 # legs
+
+raise the left arm # 0.0 # 6.67 # left arm
+touches back of head with right hand # 6.67 # 14.05 # head # right arm
+sit down # 7.62 # 13.19 # legs # spine
+
+pick something with the left hand # 0.0 # 5.7 # left arm # legs # spine
+pick something with the right hand # 5.7 # 13.03 # legs # right arm # spine
+point with his left hand # 7.17 # 12.51 # left arm
+
+hop to the right # 0.0 # 4.98 # legs # spine
+perform a squat # 4.98 # 11.81 # legs # spine
+raise both arms in the air # 1.12 # 6.62 # left arm # right arm
+
+pick something with the left hand # 0.0 # 5.2 # left arm # legs # spine
+eat something with the left arm # 5.2 # 11.91 # head # left arm
+raise the right arm # 6.36 # 11.79 # right arm
+
+walk forwards # 0.0 # 5.73 # legs
+pick something with the right hand # 5.73 # 10.1 # legs # right arm # spine
+eat something with the left arm # 0.13 # 5.07 # head # left arm
+
+jogs backwards # 0.0 # 4.71 # legs
+wipe with the left hand # 4.71 # 10.96 # left arm
+raise the right arm # 5.18 # 10.87 # right arm
+
+walk in a quarter circle to the right # 0.0 # 7.09 # legs
+point with his left hand # 7.09 # 11.5 # left arm
+eat something with the left arm # 1.29 # 6.93 # head # left arm
+
+walk in a quarter circle to the left # 0.0 # 4.71 # legs
+hop to the left # 4.71 # 12.89 # legs # spine
+raise both arms in the air # 5.05 # 12.72 # left arm # right arm
+
+high kick with the right foot # 0.0 # 5.27 # legs
+talk on phone with right hand # 5.27 # 11.0 # head # right arm
+jogs backwards # 5.88 # 9.94 # legs
+
+walk in a circle counterclockwise # 0.0 # 4.57 # legs
+high kick with the left foot # 4.57 # 10.78 # legs
+punch with the right hand # 5.51 # 10.28 # right arm
+
+walk in a quarter circle to the left # 0.0 # 5.55 # legs
+walk forwards # 5.55 # 13.14 # legs
+drink with the left arm # 6.27 # 10.8 # head # left arm
+
+throw something with left hand # 0.0 # 7.06 # left arm
+walk in a circle clockwise # 7.06 # 11.53 # legs
+look left # 0.41 # 4.26 # head
+
+high kick with the left foot # 0.0 # 4.0 # legs
+run # 4.0 # 10.92 # legs
+throw something with left hand # 5.11 # 10.82 # left arm
+
+dodge a hit to his head # 0.0 # 5.34 # head # spine
+touches back of head with left hand # 5.34 # 11.34 # head # left arm
+hop to the left # 5.55 # 10.76 # legs # spine
+
+punch with the left hand # 0.0 # 5.01 # left arm
+touches back of head with left hand # 5.01 # 11.57 # head # left arm
+turn 180 degrees to the left on the left foot # 1.46 # 8.53 # legs
+
+pick something with the right hand # 0.0 # 4.55 # legs # right arm # spine
+wave with the left hand # 4.55 # 12.03 # left arm
+look right # 0.57 # 6.86 # head
+
+jumping jacks # 0.0 # 7.28 # left arm # legs # right arm # spine
+wave with both hands # 7.28 # 14.18 # left arm # right arm
+look right # 0.14 # 6.44 # head
+
+walk in a quarter circle to the left # 0.0 # 6.22 # legs
+throw something with right hand # 6.22 # 13.02 # right arm
+raise the left arm # 6.52 # 11.38 # left arm
+
+jump backward # 0.0 # 5.65 # legs # spine
+quickly walk forwards # 5.65 # 10.81 # legs
+wipe with the left hand # 0.22 # 5.09 # left arm
+
+punch with the right hand # 0.0 # 7.51 # right arm
+high kick with the left foot # 7.51 # 14.35 # legs
+look right # 0.43 # 6.33 # head
+
+raise the right arm # 0.0 # 6.13 # right arm
+play golf # 6.13 # 10.54 # head # left arm # legs # right arm # spine
+slowly walk forwards # 0.08 # 6.07 # legs
+
+turn right # 0.0 # 7.4 # legs
+walk backwards # 7.4 # 11.7 # legs
+bow # 0.59 # 6.28 # head # spine
+
+hop to the left # 0.0 # 4.43 # legs # spine
+high kick with the right foot # 4.43 # 11.78 # legs
+touches back of head with right hand # 5.18 # 10.61 # head # right arm
+
+turn 180 degrees to the left on the right foot # 0.0 # 4.88 # legs
+hop to the left # 4.88 # 12.23 # legs # spine
+drink with the left arm # 4.88 # 12.2 # head # left arm
+
+slowly walk backwards # 0.0 # 7.24 # legs
+turn left # 7.24 # 11.66 # legs
+punch with the right hand # 1.12 # 6.5 # right arm
+
+jumping jacks # 0.0 # 4.87 # left arm # legs # right arm # spine
+bow # 4.87 # 12.52 # head # spine
+jogs backwards # 5.18 # 11.47 # legs
+
+slowly walk backwards # 0.0 # 6.94 # legs
+slowly walk backwards # 6.94 # 11.47 # legs
+punch with the left hand # 0.05 # 4.04 # left arm
+
+drink with the left arm # 0.0 # 8.05 # head # left arm
+pick something with the left hand # 8.05 # 14.7 # left arm # legs # spine
+punch with the right hand # 0.17 # 3.41 # right arm
+
+play golf # 0.0 # 5.96 # head # left arm # legs # right arm # spine
+quickly walk forwards # 5.96 # 11.59 # legs
+touches back of head with right hand # 6.01 # 11.3 # head # right arm
+
+walk backwards # 0.0 # 5.38 # legs
+pick something with the right hand # 5.38 # 10.79 # legs # right arm # spine
+punch with the right hand # 0.17 # 5.32 # right arm
+
+slowly walk backwards # 0.0 # 6.47 # legs
+slowly walk forwards # 6.47 # 11.52 # legs
+eat something with the right arm # 1.28 # 5.41 # head # right arm
+
+talk on phone with left hand # 0.0 # 6.11 # head # left arm
+hop to the right # 6.11 # 12.41 # legs # spine
+throw something with right hand # 0.45 # 9.13 # right arm
+
+pick something with the right hand # 0.0 # 6.69 # legs # right arm # spine
+high kick with the left foot # 6.69 # 11.86 # legs
+drink with the left arm # 0.04 # 6.5 # head # left arm
+
+play the guitar # 0.0 # 6.86 # left arm # right arm
+raise the right arm # 6.86 # 11.67 # right arm
+walk in a quarter circle to the right # 0.33 # 6.63 # legs
+
+low kick with the left foot # 0.0 # 4.38 # legs
+punch with the right hand # 4.38 # 11.16 # right arm
+walk in a quarter circle to the right # 5.72 # 10.8 # legs
+
+play the guitar # 0.0 # 6.46 # left arm # right arm
+high kick with the right foot # 6.46 # 13.05 # legs
+sit down # 0.02 # 5.9 # legs # spine
+
+walk forwards # 0.0 # 6.89 # legs
+walk backwards # 6.89 # 11.62 # legs
+talk on phone with right hand # 0.5 # 8.03 # head # right arm
+
+touches back of head with right hand # 0.0 # 5.09 # head # right arm
+touches back of head with right hand # 5.09 # 12.43 # head # right arm
+walk in a circle counterclockwise # 8.02 # 12.43 # legs
+
+slowly walk backwards # 0.0 # 6.63 # legs
+hop to the left # 6.63 # 11.89 # legs # spine
+wave with the right hand # 0.33 # 3.91 # right arm
+
+pick something with the left hand # 0.0 # 5.63 # left arm # legs # spine
+punch with the left hand # 5.63 # 11.7 # left arm
+turn right # 6.01 # 10.93 # legs
+
+jump backward # 0.0 # 6.03 # legs # spine
+eat something with the left arm # 6.03 # 11.81 # head # left arm
+walk backwards # 6.05 # 11.32 # legs
+
+applause # 0.0 # 5.93 # left arm # right arm
+walk in a circle counterclockwise # 5.93 # 14.49 # legs
+look right # 0.37 # 6.67 # head
+
+talk on phone with left hand # 0.0 # 5.56 # head # left arm
+perform a squat # 5.56 # 10.0 # legs # spine
+high kick with the right foot # 0.18 # 5.43 # legs
+
+turn right # 0.0 # 5.64 # legs
+quickly walk forwards # 5.64 # 12.71 # legs
+point with his left hand # 5.8 # 10.82 # left arm
+
+play the violin # 0.0 # 5.86 # left arm # right arm
+jumping jacks # 5.86 # 9.91 # left arm # legs # right arm # spine
+sit down # 0.71 # 5.81 # legs # spine
+
+jogs backwards # 0.0 # 4.62 # legs
+low kick with the left foot # 4.62 # 11.4 # legs
+wave with the left hand # 4.91 # 9.77 # left arm
+
+high kick with the left foot # 0.0 # 5.81 # legs
+jogs backwards # 5.81 # 10.82 # legs
+play the violin # 2.48 # 8.46 # left arm # right arm
+
+jumping jacks # 0.0 # 6.19 # left arm # legs # right arm # spine
+jump backward # 6.19 # 11.76 # legs # spine
+look left # 1.12 # 7.12 # head
+
+slowly walk backwards # 0.0 # 6.22 # legs
+pick something with the left hand # 6.22 # 13.59 # left arm # legs # spine
+touches back of head with right hand # 6.54 # 10.87 # head # right arm
+
+play the guitar # 0.0 # 7.11 # left arm # right arm
+turn right # 7.11 # 12.82 # legs
+turn 180 degrees to the left on the left foot # 0.44 # 5.51 # legs
+
+low kick with the left foot # 0.0 # 5.55 # legs
+eat something with the left arm # 5.55 # 9.0 # head # left arm
+throw something with right hand # 0.52 # 7.21 # right arm
+
+turn 180 degrees to the left on the left foot # 0.0 # 8.52 # legs
+look left # 8.52 # 12.77 # head
+touches back of head with right hand # 0.12 # 7.47 # head # right arm
+
+pick something with the right hand # 0.0 # 5.05 # legs # right arm # spine
+quickly walk forwards # 5.05 # 12.34 # legs
+raise the left arm # 5.37 # 11.52 # left arm
+
+high kick with the left foot # 0.0 # 4.73 # legs
+hop to the left # 4.73 # 9.26 # legs # spine
+raise both arms in the air # 0.77 # 4.58 # left arm # right arm
+
+hop to the left # 0.0 # 8.55 # legs # spine
+walk in a circle clockwise # 8.55 # 14.74 # legs
+play the violin # 0.21 # 5.27 # left arm # right arm
+
+walk forwards # 0.0 # 6.82 # legs
+raise the right arm # 6.82 # 13.07 # right arm
+look right # 0.52 # 6.21 # head
+
+wipe with the left hand # 0.0 # 5.78 # left arm
+pick something with the left hand # 5.78 # 11.08 # left arm # legs # spine
+walk backwards # 0.06 # 5.34 # legs
+
+run # 0.0 # 6.04 # legs
+jumping jacks # 6.04 # 11.95 # left arm # legs # right arm # spine
+punch with the right hand # 0.49 # 4.88 # right arm
+
+jumping jacks # 0.0 # 5.34 # left arm # legs # right arm # spine
+touches back of head with right hand # 5.34 # 10.76 # head # right arm
+turn 180 degrees to the left on the right foot # 5.45 # 10.61 # legs
+
+high kick with the left foot # 0.0 # 7.88 # legs
+pick something with the right hand # 7.88 # 13.97 # legs # right arm # spine
+wave with both hands # 3.48 # 7.86 # left arm # right arm
+
+quickly walk forwards # 0.0 # 6.14 # legs
+jogs backwards # 6.14 # 11.34 # legs
+eat something with the left arm # 0.07 # 6.03 # head # left arm
+
+drink with the left arm # 0.0 # 5.99 # head # left arm
+wipe with the left hand # 5.99 # 10.57 # left arm
+jump backward # 0.69 # 7.69 # legs # spine
+
+punch with the left hand # 0.0 # 5.34 # left arm
+low kick with the left foot # 5.34 # 11.79 # legs
+drink with the right arm # 0.83 # 5.27 # head # right arm
+
+pick something with the left hand # 0.0 # 6.88 # left arm # legs # spine
+jogs forwards # 6.88 # 10.7 # legs
+raise the right arm # 0.92 # 5.72 # right arm
+
+quickly walk forwards # 0.0 # 4.61 # legs
+hop to the right # 4.61 # 12.02 # legs # spine
+punch with the left hand # 4.93 # 11.48 # left arm
+
+run # 0.0 # 6.29 # legs
+jumping jacks # 6.29 # 11.23 # left arm # legs # right arm # spine
+eat something with the right arm # 0.36 # 3.81 # head # right arm
+
+jumping jacks # 0.0 # 5.2 # left arm # legs # right arm # spine
+raise both arms in the air # 5.2 # 12.61 # left arm # right arm
+slowly walk forwards # 5.56 # 12.0 # legs
+
+walk in a circle counterclockwise # 0.0 # 4.24 # legs
+high kick with the right foot # 4.24 # 11.4 # legs
+punch with the right hand # 5.28 # 8.99 # right arm
+
+high kick with the left foot # 0.0 # 4.13 # legs
+jumping jacks # 4.13 # 9.02 # left arm # legs # right arm # spine
+look right # 4.13 # 8.86 # head
+
+walk in a quarter circle to the left # 0.0 # 6.23 # legs
+pick something with the right hand # 6.23 # 13.24 # legs # right arm # spine
+wave with the left hand # 6.58 # 13.23 # left arm
+
+slowly walk backwards # 0.0 # 8.19 # legs
+walk in a quarter circle to the right # 8.19 # 13.25 # legs
+touches back of head with right hand # 0.55 # 7.4 # head # right arm
+
+walk forwards # 0.0 # 5.05 # legs
+walk in a quarter circle to the left # 5.05 # 11.07 # legs
+touches back of head with right hand # 5.12 # 10.74 # head # right arm
+
+high kick with the right foot # 0.0 # 5.89 # legs
+turn 180 degrees to the left on the right foot # 5.89 # 12.89 # legs
+punch with the left hand # 6.17 # 12.63 # left arm
+
+sit down # 0.0 # 7.74 # legs # spine
+turn left # 7.74 # 14.16 # legs
+throw something with right hand # 8.07 # 14.07 # right arm
+
+run # 0.0 # 7.15 # legs
+jogs backwards # 7.15 # 14.42 # legs
+wipe with the right hand # 7.78 # 12.09 # right arm
+
+walk in a circle counterclockwise # 0.0 # 5.34 # legs
+walk forwards # 5.34 # 10.3 # legs
+applause # 0.18 # 5.31 # left arm # right arm
+
+turn 180 degrees to the left on the left foot # 0.0 # 4.86 # legs
+low kick with the right foot # 4.86 # 10.81 # legs
+play the violin # 0.53 # 4.77 # left arm # right arm
+
+low kick with the left foot # 0.0 # 6.65 # legs
+pick something with the left hand # 6.65 # 13.11 # left arm # legs # spine
+look left # 0.89 # 7.9 # head
+
+low kick with the left foot # 0.0 # 5.05 # legs
+slowly walk forwards # 5.05 # 11.67 # legs
+punch with the left hand # 5.26 # 11.14 # left arm
+
+walk in a quarter circle to the right # 0.0 # 4.87 # legs
+pick something with the right hand # 4.87 # 10.52 # legs # right arm # spine
+raise the left arm # 5.68 # 10.42 # left arm
+
+walk backwards # 0.0 # 4.8 # legs
+bow # 4.8 # 8.8 # head # spine
+eat something with the right arm # 1.07 # 4.02 # head # right arm
+
+hop to the right # 0.0 # 6.56 # legs # spine
+high kick with the right foot # 6.56 # 11.53 # legs
+look right # 0.43 # 5.43 # head
+
+pick something with the right hand # 0.0 # 8.16 # legs # right arm # spine
+turn left # 8.16 # 14.26 # legs
+raise both arms in the air # 9.05 # 14.03 # left arm # right arm
+
+run # 0.0 # 5.76 # legs
+raise both arms in the air # 5.76 # 12.63 # left arm # right arm
+turn right # 6.07 # 9.69 # legs
+
+wave with the left hand # 0.0 # 7.66 # left arm
+quickly walk backwards # 7.66 # 14.17 # legs
+touches back of head with right hand # 1.18 # 7.5 # head # right arm
+
+jogs forwards # 0.0 # 3.86 # legs
+sit down # 3.86 # 10.98 # legs # spine
+drink with the right arm # 4.38 # 10.82 # head # right arm
+
+quickly walk forwards # 0.0 # 7.21 # legs
+drink with the left arm # 7.21 # 14.16 # head # left arm
+wipe with the right hand # 2.06 # 6.48 # right arm
+
+pick something with the left hand # 0.0 # 6.25 # left arm # legs # spine
+jumping jacks # 6.25 # 11.84 # left arm # legs # right arm # spine
+drink with the right arm # 0.26 # 5.88 # head # right arm
+
+raise the right arm # 0.0 # 5.81 # right arm
+drink with the left arm # 5.81 # 11.48 # head # left arm
+quickly walk forwards # 7.41 # 10.99 # legs
+
+bow # 0.0 # 4.84 # head # spine
+wipe with the right hand # 4.84 # 10.7 # right arm
+high kick with the left foot # 5.17 # 9.62 # legs
+
+touches back of head with left hand # 0.0 # 4.96 # head # left arm
+hop to the left # 4.96 # 11.34 # legs # spine
+look left # 4.98 # 11.28 # head
+
+slowly walk forwards # 0.0 # 6.2 # legs
+raise the left arm # 6.2 # 12.64 # left arm
+walk in a circle counterclockwise # 6.76 # 10.18 # legs
+
+turn 180 degrees to the left on the left foot # 0.0 # 7.63 # legs
+play golf # 7.63 # 12.85 # head # left arm # legs # right arm # spine
+throw something with left hand # 0.97 # 7.2 # left arm
+
+perform a squat # 0.0 # 8.14 # legs # spine
+walk in a quarter circle to the right # 8.14 # 12.73 # legs
+raise the right arm # 8.9 # 12.61 # right arm
+
+dodge a hit to his head # 0.0 # 5.25 # head # spine
+touches back of head with right hand # 5.25 # 12.71 # head # right arm
+low kick with the right foot # 5.87 # 11.57 # legs
+
+walk in a quarter circle to the left # 0.0 # 4.72 # legs
+jump backward # 4.72 # 10.97 # legs # spine
+point with his right hand # 5.2 # 10.77 # right arm
+
+walk backwards # 0.0 # 6.54 # legs
+turn left # 6.54 # 10.75 # legs
+look right # 0.27 # 6.18 # head
+
+drink with the left arm # 0.0 # 4.79 # head # left arm
+dodge a hit to his head # 4.79 # 9.21 # head # spine
+low kick with the right foot # 1.71 # 7.59 # legs
+
+walk forwards # 0.0 # 7.88 # legs
+slowly walk forwards # 7.88 # 16.6 # legs
+wave with the right hand # 9.05 # 15.78 # right arm
+
+low kick with the left foot # 0.0 # 5.97 # legs
+turn left # 5.97 # 9.85 # legs
+play the violin # 0.93 # 7.05 # left arm # right arm
+
+wipe with the left hand # 0.0 # 6.58 # left arm
+hop to the right # 6.58 # 11.55 # legs # spine
+pick something with the right hand # 1.04 # 5.76 # legs # right arm # spine
+
+low kick with the left foot # 0.0 # 5.24 # legs
+jump backward # 5.24 # 10.08 # legs # spine
+wave with the left hand # 0.01 # 5.06 # left arm
+
+walk backwards # 0.0 # 6.4 # legs
+quickly walk backwards # 6.4 # 12.83 # legs
+look right # 6.72 # 12.22 # head
+
+talk on phone with left hand # 0.0 # 4.84 # head # left arm
+high kick with the left foot # 4.84 # 11.18 # legs
+wave with the right hand # 2.4 # 7.18 # right arm
+
+pick something with the left hand # 0.0 # 6.93 # left arm # legs # spine
+perform a squat # 6.93 # 11.48 # legs # spine
+raise the right arm # 0.44 # 6.15 # right arm
+
+jump forward # 0.0 # 7.19 # legs # spine
+high kick with the right foot # 7.19 # 12.04 # legs
+look right # 1.37 # 6.87 # head
+
+jump backward # 0.0 # 8.49 # legs # spine
+low kick with the left foot # 8.49 # 15.16 # legs
+touches back of head with left hand # 8.59 # 15.14 # head # left arm
+
+throw something with right hand # 0.0 # 4.49 # right arm
+pick something with the right hand # 4.49 # 9.62 # legs # right arm # spine
+touches back of head with left hand # 2.4 # 7.74 # head # left arm
+
+play the guitar # 0.0 # 6.32 # left arm # right arm
+walk in a quarter circle to the left # 6.32 # 13.62 # legs
+raise the right arm # 8.82 # 12.23 # right arm
+
+run # 0.0 # 7.29 # legs
+hop to the right # 7.29 # 13.43 # legs # spine
+talk on phone with right hand # 0.25 # 4.24 # head # right arm
+
+walk backwards # 0.0 # 6.54 # legs
+turn left # 6.54 # 11.23 # legs
+eat something with the left arm # 0.39 # 6.09 # head # left arm
+
+slowly walk backwards # 0.0 # 7.92 # legs
+talk on phone with left hand # 7.92 # 16.1 # head # left arm
+turn 180 degrees to the left on the left foot # 7.94 # 12.28 # legs
+
+slowly walk backwards # 0.0 # 7.08 # legs
+touches back of head with right hand # 7.08 # 12.65 # head # right arm
+raise the left arm # 1.0 # 6.18 # left arm
+
+turn left # 0.0 # 6.39 # legs
+walk in a circle counterclockwise # 6.39 # 13.66 # legs
+look right # 9.09 # 13.26 # head
+
+walk forwards # 0.0 # 5.45 # legs
+turn 180 degrees to the left on the right foot # 5.45 # 10.54 # legs
+look left # 0.45 # 5.31 # head
+
+drink with the left arm # 0.0 # 6.11 # head # left arm
+low kick with the left foot # 6.11 # 12.84 # legs
+throw something with right hand # 6.28 # 12.54 # right arm
+
+play the guitar # 0.0 # 7.41 # left arm # right arm
+low kick with the right foot # 7.41 # 15.0 # legs
+eat something with the right arm # 8.9 # 14.21 # head # right arm
+
+walk in a quarter circle to the left # 0.0 # 4.71 # legs
+dodge a hit to his head # 4.71 # 11.44 # head # spine
+turn right # 5.0 # 11.05 # legs
+
+talk on phone with left hand # 0.0 # 5.6 # head # left arm
+hop to the right # 5.6 # 10.21 # legs # spine
+jump backward # 0.46 # 5.34 # legs # spine
+
+play golf # 0.0 # 4.59 # head # left arm # legs # right arm # spine
+touches back of head with right hand # 4.59 # 11.29 # head # right arm
+high kick with the right foot # 4.95 # 10.37 # legs
+
+jump backward # 0.0 # 7.08 # legs # spine
+walk in a circle clockwise # 7.08 # 15.29 # legs
+drink with the right arm # 0.21 # 6.99 # head # right arm
+
+bow # 0.0 # 6.23 # head # spine
+jumping jacks # 6.23 # 12.44 # left arm # legs # right arm # spine
+look right # 6.82 # 10.68 # head
+
+eat something with the right arm # 0.0 # 6.06 # head # right arm
+talk on phone with right hand # 6.06 # 15.04 # head # right arm
+wave with the left hand # 9.99 # 14.09 # left arm
+
+jogs forwards # 0.0 # 4.92 # legs
+slowly walk backwards # 4.92 # 10.48 # legs
+look right # 5.42 # 9.8 # head
+
+turn left # 0.0 # 5.91 # legs
+high kick with the right foot # 5.91 # 13.22 # legs
+talk on phone with right hand # 0.96 # 6.8 # head # right arm
+
+eat something with the right arm # 0.0 # 6.64 # head # right arm
+walk in a circle counterclockwise # 6.64 # 12.85 # legs
+wipe with the left hand # 1.71 # 8.12 # left arm
+
+pick something with the left hand # 0.0 # 5.71 # left arm # legs # spine
+slowly walk forwards # 5.71 # 11.77 # legs
+talk on phone with right hand # 2.57 # 8.95 # head # right arm
+
+wave with the left hand # 0.0 # 5.87 # left arm
+drink with the right arm # 5.87 # 12.34 # head # right arm
+quickly walk forwards # 0.53 # 8.0 # legs
+
+jump backward # 0.0 # 6.39 # legs # spine
+walk in a circle clockwise # 6.39 # 13.12 # legs
+throw something with right hand # 8.4 # 12.44 # right arm
+
+sit down # 0.0 # 7.75 # legs # spine
+jump backward # 7.75 # 14.38 # legs # spine
+look left # 7.79 # 14.35 # head
+
+walk in a quarter circle to the right # 0.0 # 4.94 # legs
+pick something with the right hand # 4.94 # 9.98 # legs # right arm # spine
+punch with the left hand # 3.07 # 9.01 # left arm
+
+quickly walk backwards # 0.0 # 5.2 # legs
+touches back of head with left hand # 5.2 # 12.52 # head # left arm
+wipe with the right hand # 6.77 # 11.3 # right arm
+
+hop to the right # 0.0 # 7.27 # legs # spine
+talk on phone with right hand # 7.27 # 15.14 # head # right arm
+low kick with the left foot # 7.36 # 13.45 # legs
+
+low kick with the left foot # 0.0 # 6.48 # legs
+raise the right arm # 6.48 # 11.42 # right arm
+bow # 6.49 # 11.42 # head # spine
+
+pick something with the left hand # 0.0 # 7.37 # left arm # legs # spine
+hop to the right # 7.37 # 12.25 # legs # spine
+look left # 0.35 # 7.33 # head
+
+throw something with left hand # 0.0 # 7.4 # left arm
+drink with the left arm # 7.4 # 11.76 # head # left arm
+turn 180 degrees to the left on the right foot # 2.8 # 7.4 # legs
+
+play the violin # 0.0 # 6.2 # left arm # right arm
+dodge a hit to his head # 6.2 # 13.18 # head # spine
+run # 6.24 # 11.93 # legs
+
+quickly walk forwards # 0.0 # 7.64 # legs
+slowly walk backwards # 7.64 # 13.21 # legs
+drink with the left arm # 0.72 # 7.23 # head # left arm
+
+talk on phone with right hand # 0.0 # 5.74 # head # right arm
+play the guitar # 5.74 # 13.11 # left arm # right arm
+walk in a circle clockwise # 6.38 # 12.84 # legs
+
+walk in a circle clockwise # 0.0 # 5.99 # legs
+applause # 5.99 # 12.73 # left arm # right arm
+slowly walk backwards # 8.61 # 12.37 # legs
+
+low kick with the left foot # 0.0 # 7.99 # legs
+slowly walk forwards # 7.99 # 13.92 # legs
+raise the left arm # 0.44 # 7.91 # left arm
+
+drink with the left arm # 0.0 # 7.59 # head # left arm
+jumping jacks # 7.59 # 13.55 # left arm # legs # right arm # spine
+turn 180 degrees to the left on the right foot # 0.74 # 6.62 # legs
+
+high kick with the left foot # 0.0 # 6.8 # legs
+punch with the left hand # 6.8 # 14.34 # left arm
+throw something with right hand # 8.83 # 14.22 # right arm
+
+high kick with the right foot # 0.0 # 7.9 # legs
+raise the right arm # 7.9 # 14.92 # right arm
+slowly walk forwards # 8.1 # 14.85 # legs
+
+perform a squat # 0.0 # 6.21 # legs # spine
+quickly walk backwards # 6.21 # 12.25 # legs
+raise the right arm # 1.38 # 8.12 # right arm
+
+high kick with the right foot # 0.0 # 7.22 # legs
+high kick with the right foot # 7.22 # 12.37 # legs
+bow # 1.71 # 7.88 # head # spine
+
+quickly walk backwards # 0.0 # 7.36 # legs
+bow # 7.36 # 14.68 # head # spine
+throw something with right hand # 0.67 # 6.67 # right arm
+
+raise the right arm # 0.0 # 6.09 # right arm
+high kick with the right foot # 6.09 # 12.34 # legs
+wipe with the left hand # 1.45 # 7.29 # left arm
+
+turn right # 0.0 # 3.29 # legs
+jogs backwards # 3.29 # 9.18 # legs
+eat something with the left arm # 3.3 # 9.08 # head # left arm
+
+pick something with the right hand # 0.0 # 6.58 # legs # right arm # spine
+quickly walk forwards # 6.58 # 11.62 # legs
+bow # 7.06 # 10.51 # head # spine
+
+slowly walk backwards # 0.0 # 5.58 # legs
+drink with the right arm # 5.58 # 13.02 # head # right arm
+throw something with left hand # 7.2 # 12.72 # left arm
+
+touches back of head with right hand # 0.0 # 6.29 # head # right arm
+play the violin # 6.29 # 12.38 # left arm # right arm
+turn 180 degrees to the left on the left foot # 0.19 # 6.19 # legs
+
+turn left # 0.0 # 7.12 # legs
+slowly walk forwards # 7.12 # 10.81 # legs
+point with his right hand # 0.0 # 7.12 # right arm
+
+walk backwards # 0.0 # 5.86 # legs
+drink with the left arm # 5.86 # 10.32 # head # left arm
+drink with the right arm # 0.1 # 5.58 # head # right arm
+
+walk in a circle counterclockwise # 0.0 # 5.6 # legs
+play golf # 5.6 # 10.35 # head # left arm # legs # right arm # spine
+touches back of head with right hand # 0.22 # 5.23 # head # right arm
+
+play the violin # 0.0 # 7.44 # left arm # right arm
+run # 7.44 # 11.44 # legs
+bow # 0.18 # 6.52 # head # spine
+
+raise the right arm # 0.0 # 6.82 # right arm
+wipe with the right hand # 6.82 # 12.64 # right arm
+hop to the left # 9.1 # 12.55 # legs # spine
+
+wave with both hands # 0.0 # 5.05 # left arm # right arm
+drink with the right arm # 5.05 # 13.5 # head # right arm
+jogs forwards # 0.21 # 4.93 # legs
+
+pick something with the right hand # 0.0 # 7.7 # legs # right arm # spine
+turn right # 7.7 # 12.54 # legs
+drink with the left arm # 0.09 # 7.33 # head # left arm
+
+quickly walk forwards # 0.0 # 6.45 # legs
+walk backwards # 6.45 # 12.57 # legs
+point with his left hand # 1.75 # 6.21 # left arm
+
+turn 180 degrees to the left on the right foot # 0.0 # 5.99 # legs
+play the guitar # 5.99 # 11.42 # left arm # right arm
+punch with the right hand # 0.35 # 5.47 # right arm
+
+turn 180 degrees to the left on the left foot # 0.0 # 7.23 # legs
+jump backward # 7.23 # 13.79 # legs # spine
+play the guitar # 0.39 # 3.46 # left arm # right arm
+
+jogs forwards # 0.0 # 7.58 # legs
+hop to the right # 7.58 # 14.33 # legs # spine
+wave with both hands # 0.6 # 6.81 # left arm # right arm
+
+slowly walk backwards # 0.0 # 6.35 # legs
+turn right # 6.35 # 13.36 # legs
+eat something with the left arm # 0.6 # 6.31 # head # left arm
+
+low kick with the right foot # 0.0 # 7.38 # legs
+walk backwards # 7.38 # 12.35 # legs
+raise the right arm # 2.87 # 9.01 # right arm
+
+walk in a quarter circle to the left # 0.0 # 4.25 # legs
+run # 4.25 # 11.5 # legs
+applause # 5.05 # 11.17 # left arm # right arm
+
+high kick with the left foot # 0.0 # 4.51 # legs
+punch with the right hand # 4.51 # 11.39 # right arm
+jump backward # 4.69 # 11.36 # legs # spine
+
+jump forward # 0.0 # 5.5 # legs # spine
+low kick with the left foot # 5.5 # 10.47 # legs
+play the violin # 0.67 # 4.18 # left arm # right arm
+
+walk in a quarter circle to the left # 0.0 # 5.6 # legs
+jogs forwards # 5.6 # 9.89 # legs
+look left # 0.43 # 5.02 # head
+
+turn left # 0.0 # 8.05 # legs
+throw something with left hand # 8.05 # 15.01 # left arm
+raise the left arm # 2.02 # 7.88 # left arm
+
+wipe with the left hand # 0.0 # 3.6 # left arm
+dodge a hit to his head # 3.6 # 9.89 # head # spine
+walk in a circle counterclockwise # 1.25 # 7.36 # legs
+
+eat something with the left arm # 0.0 # 6.59 # head # left arm
+throw something with right hand # 6.59 # 13.33 # right arm
+high kick with the right foot # 0.16 # 5.4 # legs
+
+walk in a quarter circle to the left # 0.0 # 3.82 # legs
+jogs forwards # 3.82 # 10.33 # legs
+talk on phone with left hand # 4.2 # 9.62 # head # left arm
+
+walk backwards # 0.0 # 3.49 # legs
+walk in a circle counterclockwise # 3.49 # 9.92 # legs
+throw something with right hand # 6.71 # 9.77 # right arm
+
+jumping jacks # 0.0 # 5.69 # left arm # legs # right arm # spine
+jumping jacks # 5.69 # 11.35 # left arm # legs # right arm # spine
+look left # 5.78 # 11.09 # head
+
+jogs forwards # 0.0 # 6.57 # legs
+eat something with the left arm # 6.57 # 12.91 # head # left arm
+wipe with the left hand # 1.28 # 6.29 # left arm
+
+turn 180 degrees to the left on the left foot # 0.0 # 8.58 # legs
+raise the left arm # 8.58 # 13.3 # left arm
+point with his right hand # 0.64 # 8.0 # right arm
+
+quickly walk backwards # 0.0 # 6.98 # legs
+bow # 6.98 # 10.9 # head # spine
+look left # 1.48 # 6.52 # head
+
+jump forward # 0.0 # 6.3 # legs # spine
+walk in a circle counterclockwise # 6.3 # 12.35 # legs
+look left # 2.02 # 7.74 # head
+
+hop to the left # 0.0 # 4.8 # legs # spine
+wave with both hands # 4.8 # 13.3 # left arm # right arm
+quickly walk backwards # 5.93 # 12.88 # legs
+
+turn 180 degrees to the left on the left foot # 0.0 # 5.34 # legs
+point with his right hand # 5.34 # 13.99 # right arm
+punch with the left hand # 6.0 # 12.86 # left arm
+
+pick something with the right hand # 0.0 # 7.41 # legs # right arm # spine
+drink with the right arm # 7.41 # 12.34 # head # right arm
+throw something with left hand # 1.28 # 5.2 # left arm
+
+walk in a quarter circle to the right # 0.0 # 5.46 # legs
+quickly walk forwards # 5.46 # 12.0 # legs
+look left # 0.21 # 6.45 # head
+
+quickly walk backwards # 0.0 # 5.52 # legs
+slowly walk backwards # 5.52 # 12.59 # legs
+point with his right hand # 0.02 # 4.8 # right arm
+
+walk in a circle clockwise # 0.0 # 8.13 # legs
+jumping jacks # 8.13 # 15.13 # left arm # legs # right arm # spine
+wave with the left hand # 0.49 # 6.78 # left arm
+
+throw something with right hand # 0.0 # 6.0 # right arm
+wave with the left hand # 6.0 # 11.1 # left arm
+sit down # 0.3 # 5.77 # legs # spine
+
+eat something with the right arm # 0.0 # 7.81 # head # right arm
+jump backward # 7.81 # 14.39 # legs # spine
+point with his left hand # 3.83 # 8.76 # left arm
+
+raise both arms in the air # 0.0 # 3.69 # left arm # right arm
+eat something with the right arm # 3.69 # 9.91 # head # right arm
+walk backwards # 1.55 # 9.11 # legs
+
+look left # 0.0 # 8.07 # head
+walk in a quarter circle to the left # 8.07 # 16.0 # legs
+throw something with left hand # 8.72 # 15.6 # left arm
+
+run # 0.0 # 6.19 # legs
+wave with both hands # 6.19 # 12.63 # left arm # right arm
+jump backward # 6.7 # 12.52 # legs # spine
+
+high kick with the left foot # 0.0 # 4.09 # legs
+low kick with the right foot # 4.09 # 9.19 # legs
+drink with the right arm # 2.7 # 6.25 # head # right arm
+
+touches back of head with right hand # 0.0 # 4.43 # head # right arm
+talk on phone with left hand # 4.43 # 11.54 # head # left arm
+sit down # 4.57 # 11.4 # legs # spine
+
+low kick with the right foot # 0.0 # 8.44 # legs
+high kick with the right foot # 8.44 # 13.02 # legs
+wave with the left hand # 0.27 # 5.5 # left arm
+
+touches back of head with right hand # 0.0 # 6.65 # head # right arm
+perform a squat # 6.65 # 13.05 # legs # spine
+wave with the left hand # 1.83 # 6.64 # left arm
+
+jump backward # 0.0 # 4.69 # legs # spine
+high kick with the right foot # 4.69 # 11.42 # legs
+throw something with left hand # 0.52 # 9.05 # left arm
+
+quickly walk backwards # 0.0 # 6.37 # legs
+jump backward # 6.37 # 13.56 # legs # spine
+wipe with the left hand # 0.28 # 6.86 # left arm
+
+high kick with the right foot # 0.0 # 5.3 # legs
+low kick with the left foot # 5.3 # 12.71 # legs
+raise the left arm # 6.67 # 12.25 # left arm
+
+talk on phone with left hand # 0.0 # 5.97 # head # left arm
+high kick with the left foot # 5.97 # 12.61 # legs
+wipe with the right hand # 2.22 # 9.15 # right arm
+
+walk backwards # 0.0 # 6.47 # legs
+jumping jacks # 6.47 # 14.01 # left arm # legs # right arm # spine
+look right # 6.58 # 13.88 # head
+
+walk in a quarter circle to the left # 0.0 # 5.97 # legs
+walk in a quarter circle to the right # 5.97 # 11.33 # legs
+throw something with left hand # 0.14 # 5.92 # left arm
+
+point with his right hand # 0.0 # 9.06 # right arm
+eat something with the left arm # 9.06 # 14.49 # head # left arm
+low kick with the right foot # 0.25 # 6.23 # legs
+
+high kick with the left foot # 0.0 # 6.52 # legs
+perform a squat # 6.52 # 12.82 # legs # spine
+drink with the left arm # 6.57 # 12.11 # head # left arm
+
+turn right # 0.0 # 5.28 # legs
+walk in a quarter circle to the left # 5.28 # 11.18 # legs
+eat something with the right arm # 0.95 # 4.63 # head # right arm
+
+bow # 0.0 # 9.16 # head # spine
+run # 9.16 # 16.86 # legs
+throw something with left hand # 1.63 # 9.03 # left arm
+
+sit down # 0.0 # 5.32 # legs # spine
+jumping jacks # 5.32 # 10.63 # left arm # legs # right arm # spine
+look right # 5.5 # 10.29 # head
+
+pick something with the right hand # 0.0 # 6.76 # legs # right arm # spine
+walk in a quarter circle to the right # 6.76 # 13.64 # legs
+look right # 0.33 # 8.96 # head
+
+drink with the right arm # 0.0 # 7.01 # head # right arm
+perform a squat # 7.01 # 11.7 # legs # spine
+pick something with the left hand # 0.31 # 4.9 # left arm # legs # spine
+
+jogs forwards # 0.0 # 6.66 # legs
+jump backward # 6.66 # 13.65 # legs # spine
+drink with the left arm # 6.95 # 12.66 # head # left arm
+
+jumping jacks # 0.0 # 5.51 # left arm # legs # right arm # spine
+eat something with the left arm # 5.51 # 13.74 # head # left arm
+hop to the right # 6.85 # 12.48 # legs # spine
+
+raise the left arm # 0.0 # 7.25 # left arm
+high kick with the left foot # 7.25 # 12.33 # legs
+punch with the right hand # 0.26 # 8.28 # right arm
+
+wipe with the left hand # 0.0 # 7.01 # left arm
+walk in a quarter circle to the right # 7.01 # 13.8 # legs
+eat something with the right arm # 1.79 # 6.96 # head # right arm
+
+turn 180 degrees to the left on the right foot # 0.0 # 6.8 # legs
+dodge a hit to his head # 6.8 # 11.44 # head # spine
+raise the left arm # 2.78 # 8.67 # left arm
+
+turn right # 0.0 # 5.81 # legs
+run # 5.81 # 11.17 # legs
+point with his left hand # 5.94 # 10.78 # left arm
+
+run # 0.0 # 5.73 # legs
+walk in a circle clockwise # 5.73 # 13.31 # legs
+throw something with right hand # 8.3 # 12.21 # right arm
+
+jumping jacks # 0.0 # 7.28 # left arm # legs # right arm # spine
+touches back of head with right hand # 7.28 # 13.34 # head # right arm
+look right # 2.27 # 5.82 # head
+
+hop to the left # 0.0 # 4.55 # legs # spine
+walk in a circle clockwise # 4.55 # 9.84 # legs
+throw something with right hand # 4.47 # 8.6 # right arm
+
+jogs forwards # 0.0 # 6.49 # legs
+talk on phone with left hand # 6.49 # 12.76 # head # left arm
+look left # 0.7 # 6.19 # head
+
+jumping jacks # 0.0 # 5.86 # left arm # legs # right arm # spine
+high kick with the right foot # 5.86 # 9.72 # legs
+look right # 2.61 # 5.83 # head
+
+low kick with the right foot # 0.0 # 5.89 # legs
+turn 180 degrees to the left on the left foot # 5.89 # 10.89 # legs
+talk on phone with right hand # 2.0 # 8.5 # head # right arm
+
+low kick with the right foot # 0.0 # 7.04 # legs
+hop to the right # 7.04 # 15.8 # legs # spine
+talk on phone with left hand # 7.62 # 14.51 # head # left arm
+
+slowly walk backwards # 0.0 # 6.06 # legs
+jumping jacks # 6.06 # 11.42 # left arm # legs # right arm # spine
+point with his right hand # 0.7 # 5.51 # right arm
+
+low kick with the right foot # 0.0 # 6.87 # legs
+sit down # 6.87 # 14.1 # legs # spine
+applause # 2.69 # 7.01 # left arm # right arm
+
+pick something with the left hand # 0.0 # 5.99 # left arm # legs # spine
+walk backwards # 5.99 # 12.42 # legs
+wave with the right hand # 0.19 # 5.11 # right arm
+
+jogs backwards # 0.0 # 6.18 # legs
+walk in a circle clockwise # 6.18 # 13.25 # legs
+point with his right hand # 7.46 # 12.99 # right arm
+
+walk in a quarter circle to the right # 0.0 # 5.3 # legs
+sit down # 5.3 # 11.49 # legs # spine
+drink with the right arm # 1.63 # 7.41 # head # right arm
+
+play golf # 0.0 # 6.13 # head # left arm # legs # right arm # spine
+quickly walk forwards # 6.13 # 12.8 # legs
+raise the left arm # 6.53 # 11.55 # left arm
+
+walk in a circle counterclockwise # 0.0 # 6.1 # legs
+touches back of head with left hand # 6.1 # 12.12 # head # left arm
+hop to the left # 6.11 # 12.0 # legs # spine
+
+look left # 0.0 # 5.73 # head
+throw something with right hand # 5.73 # 13.53 # right arm
+hop to the right # 7.36 # 13.06 # legs # spine
+
+wipe with the left hand # 0.0 # 6.93 # left arm
+raise both arms in the air # 6.93 # 12.71 # left arm # right arm
+bow # 0.33 # 6.27 # head # spine
+
+low kick with the left foot # 0.0 # 7.85 # legs
+high kick with the right foot # 7.85 # 14.17 # legs
+talk on phone with right hand # 1.34 # 9.11 # head # right arm
+
+sit down # 0.0 # 7.52 # legs # spine
+turn right # 7.52 # 12.21 # legs
+play the violin # 0.02 # 5.69 # left arm # right arm
+
+play the guitar # 0.0 # 4.32 # left arm # right arm
+play the violin # 4.32 # 10.56 # left arm # right arm
+slowly walk backwards # 7.85 # 10.51 # legs
+
+jumping jacks # 0.0 # 5.08 # left arm # legs # right arm # spine
+turn right # 5.08 # 10.62 # legs
+raise both arms in the air # 5.35 # 9.3 # left arm # right arm
+
+pick something with the left hand # 0.0 # 6.34 # left arm # legs # spine
+jumping jacks # 6.34 # 14.45 # left arm # legs # right arm # spine
+look left # 0.94 # 8.4 # head
+
+drink with the right arm # 0.0 # 5.89 # head # right arm
+eat something with the left arm # 5.89 # 12.98 # head # left arm
+high kick with the left foot # 0.09 # 5.21 # legs
+
+punch with the right hand # 0.0 # 8.84 # right arm
+hop to the right # 8.84 # 14.87 # legs # spine
+slowly walk forwards # 0.47 # 7.36 # legs
+
+jump forward # 0.0 # 6.62 # legs # spine
+turn left # 6.62 # 13.12 # legs
+play the guitar # 0.97 # 6.09 # left arm # right arm
+
+walk forwards # 0.0 # 5.18 # legs
+slowly walk forwards # 5.18 # 9.89 # legs
+point with his left hand # 2.65 # 7.91 # left arm
+
+throw something with left hand # 0.0 # 6.26 # left arm
+low kick with the left foot # 6.26 # 13.49 # legs
+eat something with the right arm # 0.63 # 5.2 # head # right arm
+
+punch with the right hand # 0.0 # 8.46 # right arm
+run # 8.46 # 16.6 # legs
+wipe with the left hand # 1.3 # 8.68 # left arm
+
+sit down # 0.0 # 4.96 # legs # spine
+slowly walk backwards # 4.96 # 11.67 # legs
+look right # 1.14 # 4.67 # head
+
+perform a squat # 0.0 # 6.25 # legs # spine
+talk on phone with right hand # 6.25 # 12.72 # head # right arm
+low kick with the right foot # 7.19 # 11.9 # legs
+
+quickly walk forwards # 0.0 # 7.18 # legs
+wipe with the left hand # 7.18 # 13.48 # left arm
+punch with the right hand # 0.69 # 7.09 # right arm
+
+touches back of head with left hand # 0.0 # 5.19 # head # left arm
+walk in a quarter circle to the right # 5.19 # 11.38 # legs
+punch with the right hand # 5.56 # 11.35 # right arm
+
+throw something with right hand # 0.0 # 4.15 # right arm
+pick something with the right hand # 4.15 # 10.69 # legs # right arm # spine
+wave with the left hand # 4.34 # 10.18 # left arm
+
+quickly walk backwards # 0.0 # 5.05 # legs
+turn 180 degrees to the left on the right foot # 5.05 # 11.68 # legs
+touches back of head with right hand # 6.19 # 11.62 # head # right arm
+
+eat something with the right arm # 0.0 # 5.34 # head # right arm
+drink with the left arm # 5.34 # 11.32 # head # left arm
+quickly walk forwards # 6.38 # 10.02 # legs
+
+play the violin # 0.0 # 5.71 # left arm # right arm
+walk in a circle counterclockwise # 5.71 # 13.66 # legs
+wave with the right hand # 6.0 # 13.46 # right arm
+
+jump backward # 0.0 # 5.11 # legs # spine
+eat something with the right arm # 5.11 # 10.65 # head # right arm
+point with his left hand # 1.58 # 6.52 # left arm
+
+walk in a circle counterclockwise # 0.0 # 7.02 # legs
+low kick with the left foot # 7.02 # 10.95 # legs
+punch with the right hand # 0.69 # 5.48 # right arm
+
+applause # 0.0 # 6.05 # left arm # right arm
+run # 6.05 # 12.35 # legs
+raise both arms in the air # 6.43 # 10.8 # left arm # right arm
+
+jump backward # 0.0 # 6.46 # legs # spine
+hop to the right # 6.46 # 12.17 # legs # spine
+raise the right arm # 0.3 # 6.42 # right arm
+
+eat something with the left arm # 0.0 # 6.01 # head # left arm
+pick something with the right hand # 6.01 # 12.64 # legs # right arm # spine
+wave with the left hand # 7.74 # 12.57 # left arm
+
+turn right # 0.0 # 7.67 # legs
+turn 180 degrees to the left on the right foot # 7.67 # 12.88 # legs
+punch with the left hand # 1.07 # 6.38 # left arm
+
+jump backward # 0.0 # 4.18 # legs # spine
+walk in a quarter circle to the left # 4.18 # 10.05 # legs
+applause # 4.71 # 9.21 # left arm # right arm
+
+pick something with the right hand # 0.0 # 6.11 # legs # right arm # spine
+pick something with the left hand # 6.11 # 15.16 # left arm # legs # spine
+look right # 3.47 # 8.46 # head
+
+turn right # 0.0 # 7.88 # legs
+play the violin # 7.88 # 15.66 # left arm # right arm
+look left # 0.57 # 6.56 # head
+
+turn left # 0.0 # 5.5 # legs
+pick something with the right hand # 5.5 # 9.61 # legs # right arm # spine
+touches back of head with right hand # 0.4 # 5.5 # head # right arm
+
+sit down # 0.0 # 6.72 # legs # spine
+pick something with the left hand # 6.72 # 11.67 # left arm # legs # spine
+eat something with the right arm # 0.27 # 6.15 # head # right arm
+
+jump backward # 0.0 # 6.21 # legs # spine
+jumping jacks # 6.21 # 13.27 # left arm # legs # right arm # spine
+look left # 3.93 # 7.77 # head
+
+low kick with the right foot # 0.0 # 6.51 # legs
+quickly walk backwards # 6.51 # 12.61 # legs
+wave with the left hand # 0.01 # 5.96 # left arm
+
+eat something with the right arm # 0.0 # 7.5 # head # right arm
+high kick with the left foot # 7.5 # 13.32 # legs
+pick something with the left hand # 0.15 # 7.46 # left arm # legs # spine
+
+jump forward # 0.0 # 8.34 # legs # spine
+walk in a circle clockwise # 8.34 # 13.89 # legs
+wipe with the right hand # 3.54 # 8.3 # right arm
+
+walk in a circle clockwise # 0.0 # 5.55 # legs
+jogs forwards # 5.55 # 9.69 # legs
+bow # 0.53 # 6.8 # head # spine
+
+high kick with the left foot # 0.0 # 6.89 # legs
+jogs backwards # 6.89 # 12.23 # legs
+raise the left arm # 0.31 # 6.0 # left arm
+
+walk backwards # 0.0 # 8.09 # legs
+dodge a hit to his head # 8.09 # 12.13 # head # spine
+wave with the right hand # 1.83 # 6.27 # right arm
+
+wipe with the right hand # 0.0 # 5.89 # right arm
+walk backwards # 5.89 # 13.01 # legs
+wave with the left hand # 2.54 # 9.09 # left arm
+
+turn right # 0.0 # 4.17 # legs
+low kick with the left foot # 4.17 # 11.69 # legs
+punch with the left hand # 4.4 # 10.71 # left arm
+
+low kick with the right foot # 0.0 # 7.13 # legs
+bow # 7.13 # 12.52 # head # spine
+wave with the right hand # 1.13 # 6.0 # right arm
+
+look right # 0.0 # 5.93 # head
+play the violin # 5.93 # 13.05 # left arm # right arm
+jump backward # 7.29 # 12.75 # legs # spine
+
+bow # 0.0 # 8.94 # head # spine
+turn left # 8.94 # 15.73 # legs
+dodge a hit to his head # 9.17 # 15.42 # head # spine
+
+touches back of head with right hand # 0.0 # 5.22 # head # right arm
+turn left # 5.22 # 10.35 # legs
+throw something with left hand # 0.26 # 5.02 # left arm
+
+pick something with the right hand # 0.0 # 6.1 # legs # right arm # spine
+hop to the right # 6.1 # 10.53 # legs # spine
+look left # 0.65 # 7.81 # head
+
+walk backwards # 0.0 # 6.35 # legs
+walk in a quarter circle to the left # 6.35 # 14.16 # legs
+raise the right arm # 1.48 # 8.97 # right arm
+
+touches back of head with left hand # 0.0 # 4.63 # head # left arm
+dodge a hit to his head # 4.63 # 11.26 # head # spine
+walk backwards # 1.39 # 8.97 # legs
+
+turn left # 0.0 # 4.83 # legs
+look right # 4.83 # 9.8 # head
+raise the right arm # 0.95 # 8.59 # right arm
+
+dodge a hit to his head # 0.0 # 5.78 # head # spine
+bow # 5.78 # 12.4 # head # spine
+punch with the right hand # 6.01 # 12.23 # right arm
+
+jump backward # 0.0 # 4.71 # legs # spine
+sit down # 4.71 # 11.47 # legs # spine
+play the guitar # 5.53 # 10.88 # left arm # right arm
+
+touches back of head with right hand # 0.0 # 6.24 # head # right arm
+walk in a quarter circle to the right # 6.24 # 12.27 # legs
+walk in a quarter circle to the left # 0.13 # 5.85 # legs
+
+run # 0.0 # 6.96 # legs
+slowly walk forwards # 6.96 # 9.14 # legs
+point with his right hand # 0.33 # 5.31 # right arm
+
+quickly walk forwards # 0.0 # 5.18 # legs
+throw something with left hand # 5.18 # 10.11 # left arm
+look right # 2.93 # 8.84 # head
+
+talk on phone with right hand # 0.0 # 6.06 # head # right arm
+drink with the left arm # 6.06 # 11.48 # head # left arm
+perform a squat # 6.52 # 11.39 # legs # spine
+
+quickly walk backwards # 0.0 # 7.8 # legs
+low kick with the left foot # 7.8 # 13.54 # legs
+wave with the left hand # 0.15 # 7.74 # left arm
+
+wipe with the left hand # 0.0 # 5.75 # left arm
+play golf # 5.75 # 11.48 # head # left arm # legs # right arm # spine
+walk in a quarter circle to the left # 0.2 # 4.84 # legs
+
+walk in a circle counterclockwise # 0.0 # 5.12 # legs
+play the guitar # 5.12 # 11.68 # left arm # right arm
+jump backward # 5.39 # 9.27 # legs # spine
+
+pick something with the right hand # 0.0 # 3.78 # legs # right arm # spine
+jump forward # 3.78 # 9.07 # legs # spine
+point with his left hand # 1.72 # 8.77 # left arm
+
+jump forward # 0.0 # 6.81 # legs # spine
+turn 180 degrees to the left on the left foot # 6.81 # 13.71 # legs
+throw something with right hand # 3.41 # 8.08 # right arm
+
+walk backwards # 0.0 # 5.22 # legs
+raise the left arm # 5.22 # 10.14 # left arm
+talk on phone with right hand # 5.87 # 10.01 # head # right arm
+
+point with his right hand # 0.0 # 7.55 # right arm
+walk in a circle clockwise # 7.55 # 14.73 # legs
+walk in a circle counterclockwise # 0.49 # 5.83 # legs
+
+high kick with the left foot # 0.0 # 8.01 # legs
+sit down # 8.01 # 16.57 # legs # spine
+play the guitar # 1.08 # 7.91 # left arm # right arm
+
+turn right # 0.0 # 6.57 # legs
+walk in a circle counterclockwise # 6.57 # 13.87 # legs
+wave with both hands # 6.7 # 12.43 # left arm # right arm
+
+sit down # 0.0 # 7.1 # legs # spine
+jumping jacks # 7.1 # 13.52 # left arm # legs # right arm # spine
+look right # 1.1 # 7.04 # head
+
+raise both arms in the air # 0.0 # 5.34 # left arm # right arm
+slowly walk backwards # 5.34 # 12.25 # legs
+quickly walk forwards # 0.14 # 4.43 # legs
+
+high kick with the right foot # 0.0 # 5.48 # legs
+walk backwards # 5.48 # 9.21 # legs
+point with his left hand # 0.13 # 5.04 # left arm
+
+walk backwards # 0.0 # 6.26 # legs
+low kick with the left foot # 6.26 # 12.54 # legs
+look right # 2.81 # 8.51 # head
+
+point with his left hand # 0.0 # 7.71 # left arm
+touches back of head with right hand # 7.71 # 12.79 # head # right arm
+point with his right hand # 1.95 # 7.51 # right arm
+
+eat something with the left arm # 0.0 # 4.8 # head # left arm
+hop to the right # 4.8 # 10.94 # legs # spine
+wipe with the right hand # 5.17 # 10.52 # right arm
+
+applause # 0.0 # 3.92 # left arm # right arm
+turn 180 degrees to the left on the right foot # 3.92 # 9.42 # legs
+throw something with right hand # 4.16 # 9.05 # right arm
+
+point with his right hand # 0.0 # 7.86 # right arm
+wave with the right hand # 7.86 # 12.35 # right arm
+quickly walk backwards # 8.67 # 12.18 # legs
+
+talk on phone with right hand # 0.0 # 6.6 # head # right arm
+high kick with the left foot # 6.6 # 12.8 # legs
+walk in a circle counterclockwise # 1.07 # 5.18 # legs
+
+walk in a quarter circle to the left # 0.0 # 4.87 # legs
+hop to the left # 4.87 # 11.02 # legs # spine
+raise the right arm # 5.18 # 10.96 # right arm
+
+turn left # 0.0 # 7.61 # legs
+jump backward # 7.61 # 12.97 # legs # spine
+point with his right hand # 0.07 # 6.27 # right arm
+
+run # 0.0 # 5.94 # legs
+slowly walk forwards # 5.94 # 9.59 # legs
+talk on phone with left hand # 0.13 # 5.66 # head # left arm
+
+turn left # 0.0 # 3.63 # legs
+point with his right hand # 3.63 # 10.25 # right arm
+look left # 4.65 # 9.86 # head
+
+walk in a quarter circle to the right # 0.0 # 5.08 # legs
+raise the left arm # 5.08 # 12.17 # left arm
+jump backward # 5.39 # 11.46 # legs # spine
+
+low kick with the right foot # 0.0 # 5.78 # legs
+turn left # 5.78 # 13.4 # legs
+touches back of head with right hand # 0.67 # 5.75 # head # right arm
+
+pick something with the right hand # 0.0 # 4.41 # legs # right arm # spine
+turn 180 degrees to the left on the left foot # 4.41 # 10.12 # legs
+raise the left arm # 4.54 # 9.78 # left arm
+
+walk in a circle clockwise # 0.0 # 6.26 # legs
+quickly walk forwards # 6.26 # 11.5 # legs
+look right # 0.14 # 6.02 # head
+
+hop to the left # 0.0 # 6.11 # legs # spine
+pick something with the left hand # 6.11 # 12.66 # left arm # legs # spine
+wave with the right hand # 6.81 # 11.71 # right arm
+
+high kick with the left foot # 0.0 # 6.05 # legs
+wave with the right hand # 6.05 # 11.64 # right arm
+drink with the right arm # 0.63 # 5.67 # head # right arm
+
+point with his left hand # 0.0 # 4.25 # left arm
+jogs backwards # 4.25 # 11.35 # legs
+drink with the left arm # 7.2 # 11.32 # head # left arm
+
+pick something with the left hand # 0.0 # 9.19 # left arm # legs # spine
+play golf # 9.19 # 17.5 # head # left arm # legs # right arm # spine
+look right # 1.27 # 8.23 # head
+
+pick something with the left hand # 0.0 # 6.34 # left arm # legs # spine
+wipe with the left hand # 6.34 # 11.87 # left arm
+raise the right arm # 6.42 # 10.78 # right arm
+
+low kick with the right foot # 0.0 # 7.8 # legs
+throw something with left hand # 7.8 # 13.86 # left arm
+play the guitar # 0.0 # 7.7 # left arm # right arm
+
+high kick with the left foot # 0.0 # 4.72 # legs
+drink with the right arm # 4.72 # 12.63 # head # right arm
+throw something with left hand # 3.91 # 8.36 # left arm
+
+walk in a circle counterclockwise # 0.0 # 6.39 # legs
+walk in a quarter circle to the right # 6.39 # 10.25 # legs
+eat something with the left arm # 0.37 # 9.14 # head # left arm
+
+touches back of head with right hand # 0.0 # 5.85 # head # right arm
+turn 180 degrees to the left on the left foot # 5.85 # 10.88 # legs
+point with his left hand # 3.23 # 5.83 # left arm
+
+play the violin # 0.0 # 6.03 # left arm # right arm
+sit down # 6.03 # 12.21 # legs # spine
+look left # 1.55 # 7.51 # head
+
+play the guitar # 0.0 # 7.27 # left arm # right arm
+perform a squat # 7.27 # 12.76 # legs # spine
+turn right # 0.77 # 5.97 # legs
+
+slowly walk backwards # 0.0 # 4.86 # legs
+turn 180 degrees to the left on the right foot # 4.86 # 10.82 # legs
+touches back of head with right hand # 4.99 # 10.22 # head # right arm
+
+wave with both hands # 0.0 # 6.89 # left arm # right arm
+quickly walk forwards # 6.89 # 14.91 # legs
+raise the left arm # 7.52 # 14.79 # left arm
+
+wave with both hands # 0.0 # 8.19 # left arm # right arm
+drink with the left arm # 8.19 # 13.57 # head # left arm
+slowly walk forwards # 1.03 # 7.09 # legs
+
+low kick with the left foot # 0.0 # 4.61 # legs
+high kick with the left foot # 4.61 # 10.38 # legs
+throw something with left hand # 5.05 # 9.57 # left arm
+
+turn right # 0.0 # 4.65 # legs
+pick something with the right hand # 4.65 # 9.86 # legs # right arm # spine
+drink with the left arm # 4.84 # 8.89 # head # left arm
+
+sit down # 0.0 # 3.65 # legs # spine
+look left # 3.65 # 8.69 # head
+punch with the left hand # 0.93 # 8.64 # left arm
+
+jump backward # 0.0 # 8.36 # legs # spine
+hop to the right # 8.36 # 13.73 # legs # spine
+talk on phone with right hand # 0.5 # 6.76 # head # right arm
+
+jumping jacks # 0.0 # 7.93 # left arm # legs # right arm # spine
+jump backward # 7.93 # 14.26 # legs # spine
+look left # 0.28 # 7.36 # head
+
+look left # 0.0 # 6.01 # head
+quickly walk forwards # 6.01 # 10.67 # legs
+walk forwards # 1.5 # 5.68 # legs
+
+jumping jacks # 0.0 # 6.21 # left arm # legs # right arm # spine
+talk on phone with left hand # 6.21 # 13.38 # head # left arm
+look right # 0.22 # 5.59 # head
+
+hop to the left # 0.0 # 6.16 # legs # spine
+jogs forwards # 6.16 # 11.73 # legs
+play the guitar # 0.01 # 6.11 # left arm # right arm
+
+high kick with the left foot # 0.0 # 4.69 # legs
+wipe with the right hand # 4.69 # 10.88 # right arm
+drink with the left arm # 4.88 # 9.92 # head # left arm
+
+walk in a quarter circle to the left # 0.0 # 6.55 # legs
+jogs backwards # 6.55 # 13.67 # legs
+raise the left arm # 6.64 # 13.46 # left arm
+
+walk backwards # 0.0 # 7.09 # legs
+turn 180 degrees to the left on the right foot # 7.09 # 15.11 # legs
+wave with the right hand # 9.47 # 14.89 # right arm
+
+bow # 0.0 # 5.25 # head # spine
+run # 5.25 # 11.09 # legs
+drink with the left arm # 5.34 # 10.75 # head # left arm
+
+jumping jacks # 0.0 # 7.35 # left arm # legs # right arm # spine
+eat something with the right arm # 7.35 # 13.14 # head # right arm
+look left # 0.19 # 7.12 # head
+
+touches back of head with left hand # 0.0 # 5.68 # head # left arm
+eat something with the left arm # 5.68 # 12.93 # head # left arm
+point with his right hand # 6.29 # 11.71 # right arm
+
+walk in a quarter circle to the left # 0.0 # 8.02 # legs
+quickly walk forwards # 8.02 # 14.17 # legs
+eat something with the right arm # 1.89 # 6.85 # head # right arm
+
+quickly walk forwards # 0.0 # 7.15 # legs
+jump backward # 7.15 # 10.97 # legs # spine
+drink with the left arm # 0.22 # 7.55 # head # left arm
+
+touches back of head with left hand # 0.0 # 5.36 # head # left arm
+point with his left hand # 5.36 # 10.9 # left arm
+high kick with the left foot # 0.02 # 6.23 # legs
+
+low kick with the right foot # 0.0 # 6.77 # legs
+jump backward # 6.77 # 14.38 # legs # spine
+talk on phone with right hand # 6.93 # 12.05 # head # right arm
+
+touches back of head with right hand # 0.0 # 6.31 # head # right arm
+dodge a hit to his head # 6.31 # 10.98 # head # spine
+high kick with the right foot # 0.38 # 5.23 # legs
+
+turn left # 0.0 # 7.28 # legs
+turn 180 degrees to the left on the right foot # 7.28 # 13.92 # legs
+look right # 1.75 # 6.81 # head
+
+wave with the right hand # 0.0 # 7.35 # right arm
+pick something with the right hand # 7.35 # 14.29 # legs # right arm # spine
+drink with the left arm # 8.71 # 14.19 # head # left arm
+
+walk in a quarter circle to the left # 0.0 # 6.27 # legs
+perform a squat # 6.27 # 10.94 # legs # spine
+play the guitar # 3.13 # 7.97 # left arm # right arm
+
+raise the left arm # 0.0 # 5.58 # left arm
+high kick with the right foot # 5.58 # 13.61 # legs
+look right # 8.11 # 13.5 # head
+
+walk backwards # 0.0 # 3.64 # legs
+jump forward # 3.64 # 9.4 # legs # spine
+raise the left arm # 0.45 # 6.6 # left arm
+
+perform a squat # 0.0 # 6.46 # legs # spine
+walk in a quarter circle to the right # 6.46 # 13.72 # legs
+touches back of head with right hand # 6.5 # 13.62 # head # right arm
+
+walk backwards # 0.0 # 5.53 # legs
+turn left # 5.53 # 9.46 # legs
+wave with both hands # 0.84 # 7.94 # left arm # right arm
+
+wipe with the right hand # 0.0 # 5.89 # right arm
+quickly walk backwards # 5.89 # 11.1 # legs
+punch with the left hand # 0.62 # 8.44 # left arm
+
+hop to the left # 0.0 # 6.23 # legs # spine
+walk forwards # 6.23 # 13.77 # legs
+talk on phone with left hand # 1.14 # 5.91 # head # left arm
+
+high kick with the left foot # 0.0 # 4.76 # legs
+jump backward # 4.76 # 10.11 # legs # spine
+play the violin # 4.36 # 9.18 # left arm # right arm
+
+touches back of head with left hand # 0.0 # 5.74 # head # left arm
+look left # 5.74 # 13.38 # head
+run # 0.61 # 5.38 # legs
+
+turn 180 degrees to the left on the left foot # 0.0 # 6.41 # legs
+drink with the right arm # 6.41 # 12.7 # head # right arm
+look right # 0.14 # 6.1 # head
+
+wipe with the right hand # 0.0 # 7.55 # right arm
+punch with the right hand # 7.55 # 13.85 # right arm
+pick something with the left hand # 0.44 # 4.28 # left arm # legs # spine
+
+pick something with the left hand # 0.0 # 6.44 # left arm # legs # spine
+high kick with the left foot # 6.44 # 13.44 # legs
+play the guitar # 6.94 # 13.38 # left arm # right arm
+
+turn 180 degrees to the left on the right foot # 0.0 # 4.46 # legs
+low kick with the right foot # 4.46 # 12.29 # legs
+wave with both hands # 5.51 # 9.69 # left arm # right arm
+
+high kick with the right foot # 0.0 # 5.72 # legs
+turn 180 degrees to the left on the left foot # 5.72 # 12.82 # legs
+talk on phone with right hand # 0.05 # 5.61 # head # right arm
+
+quickly walk backwards # 0.0 # 5.79 # legs
+pick something with the left hand # 5.79 # 12.57 # left arm # legs # spine
+drink with the right arm # 5.95 # 12.06 # head # right arm
+
+talk on phone with right hand # 0.0 # 6.42 # head # right arm
+low kick with the left foot # 6.42 # 11.24 # legs
+play the guitar # 6.45 # 11.15 # left arm # right arm
+
+walk forwards # 0.0 # 7.16 # legs
+turn left # 7.16 # 13.91 # legs
+play the violin # 0.0 # 7.06 # left arm # right arm
+
+perform a squat # 0.0 # 6.48 # legs # spine
+play the violin # 6.48 # 11.02 # left arm # right arm
+drink with the left arm # 1.9 # 5.86 # head # left arm
+
+walk in a quarter circle to the right # 0.0 # 8.02 # legs
+eat something with the right arm # 8.02 # 16.25 # head # right arm
+wipe with the left hand # 8.69 # 14.16 # left arm
+
+pick something with the left hand # 0.0 # 8.01 # left arm # legs # spine
+raise the left arm # 8.01 # 13.07 # left arm
+eat something with the right arm # 1.13 # 7.43 # head # right arm
+
+wave with the right hand # 0.0 # 7.78 # right arm
+perform a squat # 7.78 # 12.4 # legs # spine
+slowly walk forwards # 0.09 # 4.93 # legs
+
+talk on phone with right hand # 0.0 # 6.51 # head # right arm
+walk in a quarter circle to the right # 6.51 # 12.08 # legs
+raise the left arm # 1.32 # 8.06 # left arm
+
+walk in a circle clockwise # 0.0 # 5.31 # legs
+turn right # 5.31 # 11.04 # legs
+raise both arms in the air # 5.57 # 10.59 # left arm # right arm
+
+pick something with the left hand # 0.0 # 5.73 # left arm # legs # spine
+play the guitar # 5.73 # 11.82 # left arm # right arm
+bow # 6.25 # 11.03 # head # spine
+
+walk in a circle clockwise # 0.0 # 6.16 # legs
+quickly walk forwards # 6.16 # 10.9 # legs
+look left # 2.11 # 6.86 # head
+
+jump backward # 0.0 # 5.49 # legs # spine
+sit down # 5.49 # 12.41 # legs # spine
+play the guitar # 5.8 # 11.75 # left arm # right arm
+
+play golf # 0.0 # 6.74 # head # left arm # legs # right arm # spine
+hop to the right # 6.74 # 13.77 # legs # spine
+point with his right hand # 8.08 # 13.44 # right arm
+
+turn 180 degrees to the left on the left foot # 0.0 # 6.3 # legs
+jump forward # 6.3 # 12.83 # legs # spine
+drink with the left arm # 3.93 # 8.25 # head # left arm
+
+play the violin # 0.0 # 8.4 # left arm # right arm
+walk backwards # 8.4 # 15.56 # legs
+walk in a quarter circle to the right # 0.1 # 5.54 # legs
+
+jump forward # 0.0 # 7.85 # legs # spine
+point with his left hand # 7.85 # 13.57 # left arm
+eat something with the right arm # 1.19 # 7.65 # head # right arm
+
+walk backwards # 0.0 # 6.96 # legs
+jumping jacks # 6.96 # 9.57 # left arm # legs # right arm # spine
+look left # 0.27 # 8.86 # head
+
+walk backwards # 0.0 # 6.84 # legs
+wipe with the left hand # 6.84 # 12.32 # left arm
+throw something with right hand # 5.07 # 8.76 # right arm
+
+jump forward # 0.0 # 7.58 # legs # spine
+pick something with the right hand # 7.58 # 14.86 # legs # right arm # spine
+throw something with left hand # 4.4 # 8.26 # left arm
+
+turn 180 degrees to the left on the right foot # 0.0 # 5.69 # legs
+wave with the left hand # 5.69 # 12.05 # left arm
+look right # 0.32 # 4.91 # head
+
+talk on phone with left hand # 0.0 # 6.63 # head # left arm
+hop to the left # 6.63 # 13.33 # legs # spine
+eat something with the left arm # 7.42 # 11.85 # head # left arm
+
+sit down # 0.0 # 6.62 # legs # spine
+slowly walk forwards # 6.62 # 12.98 # legs
+look right # 1.37 # 4.34 # head
+
+hop to the right # 0.0 # 7.59 # legs # spine
+low kick with the right foot # 7.59 # 13.36 # legs
+applause # 1.32 # 7.43 # left arm # right arm
+
+jump backward # 0.0 # 6.98 # legs # spine
+play the guitar # 6.98 # 11.87 # left arm # right arm
+raise the right arm # 1.25 # 6.9 # right arm
+
+throw something with left hand # 0.0 # 6.82 # left arm
+jogs forwards # 6.82 # 11.47 # legs
+talk on phone with right hand # 0.43 # 6.05 # head # right arm
+
+low kick with the right foot # 0.0 # 4.51 # legs
+point with his left hand # 4.51 # 10.64 # left arm
+pick something with the right hand # 5.63 # 10.21 # legs # right arm # spine
+
+drink with the left arm # 0.0 # 8.4 # head # left arm
+touches back of head with left hand # 8.4 # 13.06 # head # left arm
+wave with the right hand # 1.41 # 6.26 # right arm
+
+quickly walk forwards # 0.0 # 4.82 # legs
+slowly walk backwards # 4.82 # 10.59 # legs
+raise both arms in the air # 4.94 # 10.58 # left arm # right arm
+
+jumping jacks # 0.0 # 7.18 # left arm # legs # right arm # spine
+jump forward # 7.18 # 12.95 # legs # spine
+throw something with right hand # 8.02 # 11.5 # right arm
+
+touches back of head with right hand # 0.0 # 6.72 # head # right arm
+touches back of head with left hand # 6.72 # 12.54 # head # left arm
+walk backwards # 0.0 # 6.56 # legs
+
+high kick with the left foot # 0.0 # 5.33 # legs
+talk on phone with right hand # 5.33 # 14.0 # head # right arm
+raise the left arm # 3.84 # 7.05 # left arm
+
+walk backwards # 0.0 # 6.12 # legs
+quickly walk forwards # 6.12 # 10.68 # legs
+wipe with the right hand # 0.34 # 5.17 # right arm
+
+jogs backwards # 0.0 # 5.05 # legs
+walk in a quarter circle to the right # 5.05 # 12.35 # legs
+punch with the right hand # 5.17 # 10.62 # right arm
+
+walk backwards # 0.0 # 5.5 # legs
+walk in a circle clockwise # 5.5 # 10.62 # legs
+touches back of head with left hand # 3.33 # 9.09 # head # left arm
+
+high kick with the right foot # 0.0 # 7.49 # legs
+quickly walk forwards # 7.49 # 10.67 # legs
+wipe with the left hand # 0.26 # 7.08 # left arm
+
+low kick with the left foot # 0.0 # 5.64 # legs
+slowly walk backwards # 5.64 # 12.2 # legs
+raise the left arm # 2.45 # 8.52 # left arm
+
+touches back of head with right hand # 0.0 # 5.72 # head # right arm
+raise the left arm # 5.72 # 12.19 # left arm
+bow # 5.83 # 11.04 # head # spine
+

@@ -1,0 +1,4 @@
+turn left # 0.0 # 0.02 # legs
+turn left while wave with both hands # 0.02 # 5.48 # left arm # legs # right arm
+turn left # 5.48 # 5.72 # legs
+play golf # 5.72 # 10.96 # head # left arm # legs # right arm # spine

@@ -1,0 +1,4 @@
+hop to the right # 0.0 # 1.12 # legs # spine
+hop to the right while raise both arms in the air # 1.12 # 4.98 # left arm # legs # right arm # spine
+perform a squat while raise both arms in the air # 4.98 # 6.62 # left arm # legs # right arm # spine
+perform a squat # 6.62 # 11.81 # legs # spine

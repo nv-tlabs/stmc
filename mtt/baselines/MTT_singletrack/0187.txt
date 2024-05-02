@@ -1,0 +1,4 @@
+hop to the right # 0.0 # 0.43 # legs # spine
+hop to the right while look right # 0.43 # 5.43 # head # legs # spine
+hop to the right # 5.43 # 6.56 # legs # spine
+high kick with the right foot # 6.56 # 11.53 # legs

@@ -1,0 +1,4 @@
+high kick with the right foot # 0.0 # 0.96 # legs
+high kick with the right foot while raise the left arm # 0.96 # 4.79 # left arm # legs
+jogs backwards while raise the left arm # 4.79 # 8.5 # left arm # legs
+jogs backwards # 8.5 # 9.74 # legs

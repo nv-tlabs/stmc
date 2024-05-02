@@ -1,0 +1,1 @@
+pick something with the left hand and then walk backwards while wave with the right hand # 0.0 # 9.8 # left arm # legs # right arm # spine

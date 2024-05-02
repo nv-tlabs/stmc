@@ -1,0 +1,3 @@
+walk in a quarter circle to the left # 0.0 # 4.71 # legs
+hop to the left # 4.71 # 12.89 # legs # spine
+raise both arms in the air # 5.05 # 12.72 # left arm # right arm

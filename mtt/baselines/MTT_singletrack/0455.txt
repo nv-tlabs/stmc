@@ -1,0 +1,4 @@
+hop to the left # 0.0 # 1.14 # legs # spine
+hop to the left while talk on phone with left hand # 1.14 # 5.91 # head # left arm # legs # spine
+hop to the left # 5.91 # 6.23 # legs # spine
+walk forwards # 6.23 # 13.77 # legs

@@ -1,0 +1,4 @@
+jump forward # 0.0 # 1.37 # legs # spine
+jump forward while look right # 1.37 # 6.87 # head # legs # spine
+jump forward # 6.87 # 7.19 # legs # spine
+high kick with the right foot # 7.19 # 12.04 # legs

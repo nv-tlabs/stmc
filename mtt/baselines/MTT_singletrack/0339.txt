@@ -1,0 +1,4 @@
+pick something with the left hand # 0.0 # 0.94 # left arm # legs # spine
+pick something with the left hand while look left # 0.94 # 6.34 # head # left arm # legs # spine
+jumping jacks while look left # 6.34 # 8.4 # head # left arm # legs # right arm # spine
+jumping jacks # 8.4 # 14.45 # left arm # legs # right arm # spine

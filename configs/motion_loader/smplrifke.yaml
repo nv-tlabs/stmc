@@ -1,0 +1,9 @@
+# @package __global__
+
+data:
+  motion_loader:
+    _target_: src.data.motion.AMASSMotionLoader
+    base_dir: datasets/motions/AMASS_20.0_fps_nh_smplrifke
+    fps: 20.0
+    nfeats: 205
+    disable: false

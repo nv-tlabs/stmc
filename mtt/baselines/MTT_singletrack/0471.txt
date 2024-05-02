@@ -1,0 +1,4 @@
+walk in a circle clockwise # 0.0 # 5.31 # legs
+turn right # 5.31 # 5.57 # legs
+turn right while raise both arms in the air # 5.57 # 10.59 # left arm # legs # right arm
+turn right # 10.59 # 11.04 # legs

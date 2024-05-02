@@ -1,0 +1,4 @@
+turn 180 degrees to the left on the left foot # 0.0 # 0.68 # legs
+turn 180 degrees to the left on the left foot while look left # 0.68 # 4.44 # head # legs
+point with his right hand while look left # 4.44 # 5.77 # head # right arm
+point with his right hand # 5.77 # 11.37 # right arm

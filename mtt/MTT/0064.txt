@@ -1,0 +1,3 @@
+high kick with the right foot # 0.0 # 8.14 # legs
+run # 8.14 # 13.05 # legs
+bow # 1.7 # 8.02 # head # spine

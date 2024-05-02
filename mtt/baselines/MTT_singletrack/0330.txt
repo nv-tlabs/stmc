@@ -1,0 +1,4 @@
+walk in a quarter circle to the right # 0.0 # 1.63 # legs
+walk in a quarter circle to the right while drink with the right arm # 1.63 # 5.3 # head # legs # right arm
+sit down while drink with the right arm # 5.3 # 7.41 # head # legs # right arm # spine
+sit down # 7.41 # 11.49 # legs # spine

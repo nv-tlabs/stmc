@@ -1,0 +1,4 @@
+slowly walk backwards # 0.0 # 7.92 # legs
+talk on phone with left hand # 7.92 # 7.94 # head # left arm
+talk on phone with left hand while turn 180 degrees to the left on the left foot # 7.94 # 12.28 # head # left arm # legs
+talk on phone with left hand # 12.28 # 16.1 # head # left arm

@@ -1,0 +1,3 @@
+walk backwards # 0.0 # 6.26 # legs
+low kick with the left foot # 6.26 # 12.54 # legs
+look right # 2.81 # 8.51 # head

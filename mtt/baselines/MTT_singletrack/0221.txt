@@ -1,0 +1,4 @@
+drink with the left arm # 0.0 # 6.11 # head # left arm
+low kick with the left foot # 6.11 # 6.28 # legs
+low kick with the left foot while throw something with right hand # 6.28 # 12.54 # legs # right arm
+low kick with the left foot # 12.54 # 12.84 # legs

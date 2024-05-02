@@ -1,0 +1,4 @@
+slowly walk backwards # 0.0 # 0.6 # legs
+slowly walk backwards while eat something with the left arm # 0.6 # 6.31 # head # left arm # legs
+slowly walk backwards # 6.31 # 6.35 # legs
+turn right # 6.35 # 13.36 # legs

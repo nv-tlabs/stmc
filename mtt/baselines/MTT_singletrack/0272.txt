@@ -1,0 +1,4 @@
+high kick with the left foot # 0.0 # 4.51 # legs
+punch with the right hand # 4.51 # 4.69 # right arm
+punch with the right hand while jump backward # 4.69 # 11.36 # legs # right arm # spine
+punch with the right hand # 11.36 # 11.39 # right arm

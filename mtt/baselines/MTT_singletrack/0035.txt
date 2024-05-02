@@ -1,0 +1,4 @@
+low kick with the left foot # 0.0 # 4.46 # legs
+quickly walk backwards # 4.46 # 6.44 # legs
+quickly walk backwards while drink with the right arm # 6.44 # 10.45 # head # legs # right arm
+quickly walk backwards # 10.45 # 11.74 # legs

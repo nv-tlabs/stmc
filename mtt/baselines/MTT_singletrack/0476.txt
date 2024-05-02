@@ -1,0 +1,4 @@
+turn 180 degrees to the left on the left foot # 0.0 # 3.93 # legs
+turn 180 degrees to the left on the left foot while drink with the left arm # 3.93 # 6.3 # head # left arm # legs
+jump forward while drink with the left arm # 6.3 # 8.25 # head # left arm # legs # spine
+jump forward # 8.25 # 12.83 # legs # spine

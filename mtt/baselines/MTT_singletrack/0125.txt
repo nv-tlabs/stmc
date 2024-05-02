@@ -1,0 +1,4 @@
+punch with the right hand # 0.0 # 0.43 # right arm
+punch with the right hand while look right # 0.43 # 6.33 # head # right arm
+punch with the right hand # 6.33 # 7.51 # right arm
+high kick with the left foot # 7.51 # 14.35 # legs

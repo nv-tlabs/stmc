@@ -1,0 +1,4 @@
+wave with both hands # 0.0 # 1.03 # left arm # right arm
+wave with both hands while slowly walk forwards # 1.03 # 7.09 # left arm # legs # right arm
+wave with both hands # 7.09 # 8.19 # left arm # right arm
+drink with the left arm # 8.19 # 13.57 # head # left arm

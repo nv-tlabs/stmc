@@ -1,0 +1,4 @@
+look left # 0.0 # 0.01 # head
+look left while walk forwards # 0.01 # 6.8 # head # legs
+look left # 6.8 # 6.88 # head
+drink with the left arm # 6.88 # 13.26 # head # left arm

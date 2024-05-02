@@ -1,0 +1,4 @@
+quickly walk backwards # 0.0 # 5.2 # legs
+touches back of head with left hand # 5.2 # 6.77 # head # left arm
+touches back of head with left hand while wipe with the right hand # 6.77 # 11.3 # head # left arm # right arm
+touches back of head with left hand # 11.3 # 12.52 # head # left arm

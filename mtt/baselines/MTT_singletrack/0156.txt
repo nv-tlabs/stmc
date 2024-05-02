@@ -1,0 +1,4 @@
+low kick with the left foot # 0.0 # 0.52 # legs
+low kick with the left foot while throw something with right hand # 0.52 # 5.55 # legs # right arm
+eat something with the left arm while throw something with right hand # 5.55 # 7.21 # head # left arm # right arm
+eat something with the left arm # 7.21 # 9.0 # head # left arm

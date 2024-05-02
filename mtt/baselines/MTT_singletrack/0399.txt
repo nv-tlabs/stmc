@@ -1,0 +1,4 @@
+high kick with the right foot # 0.0 # 0.13 # legs
+high kick with the right foot while point with his left hand # 0.13 # 5.04 # left arm # legs
+high kick with the right foot # 5.04 # 5.48 # legs
+walk backwards # 5.48 # 9.21 # legs

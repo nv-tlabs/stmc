@@ -1,0 +1,3 @@
+walk in a quarter circle to the right # 0.0 # 4.45 # legs
+throw something with right hand # 4.45 # 11.83 # right arm
+turn right # 5.49 # 11.0 # legs

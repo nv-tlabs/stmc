@@ -1,0 +1,4 @@
+turn 180 degrees to the left on the left foot # 0.0 # 5.34 # legs
+point with his right hand # 5.34 # 6.0 # right arm
+point with his right hand while punch with the left hand # 6.0 # 12.86 # left arm # right arm
+point with his right hand # 12.86 # 13.99 # right arm

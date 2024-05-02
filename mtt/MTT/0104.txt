@@ -1,0 +1,3 @@
+quickly walk backwards # 0.0 # 6.88 # legs
+walk in a circle clockwise # 6.88 # 12.8 # legs
+bow # 1.71 # 6.34 # head # spine

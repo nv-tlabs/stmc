@@ -1,0 +1,1 @@
+jump backward and then walk in a circle clockwise while drink with the right arm # 0.0 # 9.8 # head # legs # right arm # spine

@@ -1,0 +1,4 @@
+pick something with the left hand # 0.0 # 0.44 # left arm # legs # spine
+pick something with the left hand while raise the right arm # 0.44 # 6.15 # left arm # legs # right arm # spine
+pick something with the left hand # 6.15 # 6.93 # left arm # legs # spine
+perform a squat # 6.93 # 11.48 # legs # spine

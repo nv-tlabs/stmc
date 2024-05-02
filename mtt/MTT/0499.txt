@@ -1,0 +1,3 @@
+touches back of head with right hand # 0.0 # 5.72 # head # right arm
+raise the left arm # 5.72 # 12.19 # left arm
+bow # 5.83 # 11.04 # head # spine

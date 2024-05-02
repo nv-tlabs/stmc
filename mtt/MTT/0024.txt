@@ -1,0 +1,3 @@
+touches back of head with right hand # 0.0 # 5.71 # head # right arm
+sit down # 5.71 # 12.12 # legs # spine
+punch with the left hand # 0.37 # 7.95 # left arm

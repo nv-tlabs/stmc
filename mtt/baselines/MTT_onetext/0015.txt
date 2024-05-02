@@ -1,0 +1,1 @@
+turn 180 degrees to the left on the left foot and then point with his right hand while look left # 0.0 # 9.8 # head # legs # right arm

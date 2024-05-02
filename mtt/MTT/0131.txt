@@ -1,0 +1,3 @@
+jumping jacks # 0.0 # 4.87 # left arm # legs # right arm # spine
+bow # 4.87 # 12.52 # head # spine
+jogs backwards # 5.18 # 11.47 # legs

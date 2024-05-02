@@ -1,0 +1,4 @@
+walk backwards # 0.0 # 1.48 # legs
+walk backwards while raise the right arm # 1.48 # 6.35 # legs # right arm
+walk in a quarter circle to the left while raise the right arm # 6.35 # 8.97 # legs # right arm
+walk in a quarter circle to the left # 8.97 # 14.16 # legs

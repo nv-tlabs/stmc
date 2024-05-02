@@ -1,0 +1,4 @@
+pick something with the left hand # 0.0 # 6.34 # left arm # legs # spine
+wipe with the left hand # 6.34 # 6.42 # left arm
+wipe with the left hand while raise the right arm # 6.42 # 10.78 # left arm # right arm
+wipe with the left hand # 10.78 # 11.87 # left arm

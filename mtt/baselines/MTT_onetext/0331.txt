@@ -1,0 +1,1 @@
+play golf and then quickly walk forwards while raise the left arm # 0.0 # 9.8 # head # left arm # legs # right arm # spine

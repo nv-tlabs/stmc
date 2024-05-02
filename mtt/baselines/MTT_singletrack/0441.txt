@@ -1,0 +1,4 @@
+touches back of head with left hand # 0.0 # 5.68 # head # left arm
+eat something with the left arm # 5.68 # 6.29 # head # left arm
+eat something with the left arm while point with his right hand # 6.29 # 11.71 # head # left arm # right arm
+eat something with the left arm # 11.71 # 12.93 # head # left arm

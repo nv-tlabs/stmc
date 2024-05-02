@@ -1,0 +1,4 @@
+walk in a quarter circle to the left # 0.0 # 4.72 # legs
+jump backward # 4.72 # 5.2 # legs # spine
+jump backward while point with his right hand # 5.2 # 10.77 # legs # right arm # spine
+jump backward # 10.77 # 10.97 # legs # spine

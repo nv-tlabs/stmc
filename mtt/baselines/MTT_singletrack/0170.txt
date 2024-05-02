@@ -1,0 +1,4 @@
+quickly walk forwards # 0.0 # 4.61 # legs
+hop to the right # 4.61 # 4.93 # legs # spine
+hop to the right while punch with the left hand # 4.93 # 11.48 # left arm # legs # spine
+hop to the right # 11.48 # 12.02 # legs # spine

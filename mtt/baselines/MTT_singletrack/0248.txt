@@ -1,0 +1,4 @@
+high kick with the left foot # 0.0 # 6.8 # legs
+punch with the left hand # 6.8 # 8.83 # left arm
+punch with the left hand while throw something with right hand # 8.83 # 14.22 # left arm # right arm
+punch with the left hand # 14.22 # 14.34 # left arm

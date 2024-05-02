@@ -1,0 +1,4 @@
+walk backwards # 0.0 # 2.81 # legs
+walk backwards while look right # 2.81 # 6.26 # head # legs
+low kick with the left foot while look right # 6.26 # 8.51 # head # legs
+low kick with the left foot # 8.51 # 12.54 # legs

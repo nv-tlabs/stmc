@@ -1,0 +1,1 @@
+walk forwards and then raise the right arm while look right # 0.0 # 9.8 # head # legs # right arm

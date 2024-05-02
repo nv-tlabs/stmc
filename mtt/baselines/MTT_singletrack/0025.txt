@@ -1,0 +1,4 @@
+jump forward # 0.0 # 1.13 # legs # spine
+jump forward while look right # 1.13 # 5.48 # head # legs # spine
+jump forward # 5.48 # 6.18 # legs # spine
+hop to the left # 6.18 # 11.46 # legs # spine

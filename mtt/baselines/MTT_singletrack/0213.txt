@@ -1,0 +1,4 @@
+throw something with right hand # 0.0 # 2.4 # right arm
+throw something with right hand while touches back of head with left hand # 2.4 # 4.49 # head # left arm # right arm
+pick something with the right hand while touches back of head with left hand # 4.49 # 7.74 # head # left arm # legs # right arm # spine
+pick something with the right hand # 7.74 # 9.62 # legs # right arm # spine

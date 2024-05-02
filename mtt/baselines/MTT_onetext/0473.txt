@@ -1,0 +1,1 @@
+walk in a circle clockwise and then quickly walk forwards while look left # 0.0 # 9.8 # head # legs

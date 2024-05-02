@@ -1,0 +1,3 @@
+talk on phone with right hand # 0.0 # 5.74 # head # right arm
+play the guitar # 5.74 # 13.11 # left arm # right arm
+walk in a circle clockwise # 6.38 # 12.84 # legs

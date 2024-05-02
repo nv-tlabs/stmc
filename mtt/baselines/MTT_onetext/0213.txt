@@ -1,0 +1,1 @@
+throw something with right hand and then pick something with the right hand while touches back of head with left hand # 0.0 # 9.62 # head # left arm # legs # right arm # spine

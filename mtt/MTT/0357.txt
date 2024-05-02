@@ -1,0 +1,3 @@
+jump backward # 0.0 # 6.46 # legs # spine
+hop to the right # 6.46 # 12.17 # legs # spine
+raise the right arm # 0.3 # 6.42 # right arm

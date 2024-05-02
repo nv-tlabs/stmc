@@ -1,0 +1,3 @@
+talk on phone with left hand # 0.0 # 5.56 # head # left arm
+perform a squat # 5.56 # 10.0 # legs # spine
+high kick with the right foot # 0.18 # 5.43 # legs

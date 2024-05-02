@@ -1,0 +1,4 @@
+touches back of head with left hand # 0.0 # 0.02 # head # left arm
+touches back of head with left hand while high kick with the left foot # 0.02 # 5.36 # head # left arm # legs
+point with his left hand while high kick with the left foot # 5.36 # 6.23 # left arm # legs
+point with his left hand # 6.23 # 10.9 # left arm

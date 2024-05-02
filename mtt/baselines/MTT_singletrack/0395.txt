@@ -1,0 +1,4 @@
+high kick with the left foot # 0.0 # 1.08 # legs
+high kick with the left foot while play the guitar # 1.08 # 7.91 # left arm # legs # right arm
+high kick with the left foot # 7.91 # 8.01 # legs
+sit down # 8.01 # 16.57 # legs # spine

@@ -1,0 +1,4 @@
+walk in a quarter circle to the left # 0.0 # 0.14 # legs
+walk in a quarter circle to the left while throw something with left hand # 0.14 # 5.92 # left arm # legs
+walk in a quarter circle to the left # 5.92 # 5.97 # legs
+walk in a quarter circle to the right # 5.97 # 11.33 # legs

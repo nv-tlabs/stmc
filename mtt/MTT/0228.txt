@@ -1,0 +1,3 @@
+eat something with the right arm # 0.0 # 6.06 # head # right arm
+talk on phone with right hand # 6.06 # 15.04 # head # right arm
+wave with the left hand # 9.99 # 14.09 # left arm

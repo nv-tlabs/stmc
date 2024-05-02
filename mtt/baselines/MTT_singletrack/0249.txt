@@ -1,0 +1,4 @@
+high kick with the right foot # 0.0 # 7.9 # legs
+raise the right arm # 7.9 # 8.1 # right arm
+raise the right arm while slowly walk forwards # 8.1 # 14.85 # legs # right arm
+raise the right arm # 14.85 # 14.92 # right arm

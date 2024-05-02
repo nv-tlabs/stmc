@@ -1,0 +1,3 @@
+point with his right hand # 0.0 # 7.55 # right arm
+walk in a circle clockwise # 7.55 # 14.73 # legs
+walk in a circle counterclockwise # 0.49 # 5.83 # legs

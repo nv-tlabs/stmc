@@ -1,0 +1,4 @@
+low kick with the right foot # 0.0 # 6.1 # legs
+run # 6.1 # 6.13 # legs
+run while raise the left arm # 6.13 # 10.44 # left arm # legs
+run # 10.44 # 10.6 # legs

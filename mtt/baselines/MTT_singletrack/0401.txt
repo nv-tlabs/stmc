@@ -1,0 +1,4 @@
+point with his left hand # 0.0 # 1.95 # left arm
+point with his left hand while point with his right hand # 1.95 # 7.51 # left arm # right arm
+point with his left hand # 7.51 # 7.71 # left arm
+touches back of head with right hand # 7.71 # 12.79 # head # right arm

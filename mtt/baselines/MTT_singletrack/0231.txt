@@ -1,0 +1,4 @@
+eat something with the right arm # 0.0 # 1.71 # head # right arm
+eat something with the right arm while wipe with the left hand # 1.71 # 6.64 # head # left arm # right arm
+walk in a circle counterclockwise while wipe with the left hand # 6.64 # 8.12 # left arm # legs
+walk in a circle counterclockwise # 8.12 # 12.85 # legs

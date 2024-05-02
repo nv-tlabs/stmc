@@ -1,0 +1,4 @@
+jogs forwards # 0.0 # 0.6 # legs
+jogs forwards while wave with both hands # 0.6 # 6.81 # left arm # legs # right arm
+jogs forwards # 6.81 # 7.58 # legs
+hop to the right # 7.58 # 14.33 # legs # spine

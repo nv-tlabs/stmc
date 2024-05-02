@@ -1,0 +1,4 @@
+jump backward # 0.0 # 6.39 # legs # spine
+walk in a circle clockwise # 6.39 # 8.4 # legs
+walk in a circle clockwise while throw something with right hand # 8.4 # 12.44 # legs # right arm
+walk in a circle clockwise # 12.44 # 13.12 # legs

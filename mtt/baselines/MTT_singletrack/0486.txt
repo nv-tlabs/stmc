@@ -1,0 +1,4 @@
+jump backward # 0.0 # 1.25 # legs # spine
+jump backward while raise the right arm # 1.25 # 6.9 # legs # right arm # spine
+jump backward # 6.9 # 6.98 # legs # spine
+play the guitar # 6.98 # 11.87 # left arm # right arm

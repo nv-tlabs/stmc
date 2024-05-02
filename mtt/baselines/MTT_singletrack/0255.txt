@@ -1,0 +1,4 @@
+pick something with the right hand # 0.0 # 6.58 # legs # right arm # spine
+quickly walk forwards # 6.58 # 7.06 # legs
+quickly walk forwards while bow # 7.06 # 10.51 # head # legs # spine
+quickly walk forwards # 10.51 # 11.62 # legs

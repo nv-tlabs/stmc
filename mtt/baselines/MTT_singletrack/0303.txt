@@ -1,0 +1,4 @@
+talk on phone with left hand # 0.0 # 2.22 # head # left arm
+talk on phone with left hand while wipe with the right hand # 2.22 # 5.97 # head # left arm # right arm
+high kick with the left foot while wipe with the right hand # 5.97 # 9.15 # legs # right arm
+high kick with the left foot # 9.15 # 12.61 # legs

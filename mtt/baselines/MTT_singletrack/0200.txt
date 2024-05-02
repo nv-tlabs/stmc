@@ -1,0 +1,4 @@
+dodge a hit to his head # 0.0 # 5.25 # head # spine
+touches back of head with right hand # 5.25 # 5.87 # head # right arm
+touches back of head with right hand while low kick with the right foot # 5.87 # 11.57 # head # legs # right arm
+touches back of head with right hand # 11.57 # 12.71 # head # right arm

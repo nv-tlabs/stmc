@@ -1,0 +1,4 @@
+talk on phone with right hand # 0.0 # 6.06 # head # right arm
+drink with the left arm # 6.06 # 6.52 # head # left arm
+drink with the left arm while perform a squat # 6.52 # 11.39 # head # left arm # legs # spine
+drink with the left arm # 11.39 # 11.48 # head # left arm

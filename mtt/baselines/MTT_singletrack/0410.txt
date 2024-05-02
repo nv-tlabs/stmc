@@ -1,0 +1,4 @@
+walk in a quarter circle to the right # 0.0 # 5.08 # legs
+raise the left arm # 5.08 # 5.39 # left arm
+raise the left arm while jump backward # 5.39 # 11.46 # left arm # legs # spine
+raise the left arm # 11.46 # 12.17 # left arm

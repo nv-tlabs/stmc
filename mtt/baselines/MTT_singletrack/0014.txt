@@ -1,0 +1,4 @@
+play golf # 0.0 # 3.86 # head # left arm # legs # right arm # spine
+turn right # 3.86 # 4.45 # legs
+turn right while wipe with the left hand # 4.45 # 9.49 # left arm # legs
+turn right # 9.49 # 9.94 # legs

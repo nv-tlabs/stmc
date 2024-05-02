@@ -1,0 +1,4 @@
+pick something with the right hand # 0.0 # 4.41 # legs # right arm # spine
+turn 180 degrees to the left on the left foot # 4.41 # 4.54 # legs
+turn 180 degrees to the left on the left foot while raise the left arm # 4.54 # 9.78 # left arm # legs
+turn 180 degrees to the left on the left foot # 9.78 # 10.12 # legs

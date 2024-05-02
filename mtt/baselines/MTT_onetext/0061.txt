@@ -1,0 +1,1 @@
+jump forward and then look right while throw something with right hand # 0.0 # 9.49 # head # legs # right arm # spine

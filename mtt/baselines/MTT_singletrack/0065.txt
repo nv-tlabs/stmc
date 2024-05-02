@@ -1,0 +1,4 @@
+high kick with the right foot # 0.0 # 5.4 # legs
+sit down # 5.4 # 5.94 # legs # spine
+sit down while touches back of head with right hand # 5.94 # 12.42 # head # legs # right arm # spine
+sit down # 12.42 # 12.55 # legs # spine

@@ -1,0 +1,3 @@
+turn right # 0.0 # 7.67 # legs
+turn 180 degrees to the left on the right foot # 7.67 # 12.88 # legs
+punch with the left hand # 1.07 # 6.38 # left arm

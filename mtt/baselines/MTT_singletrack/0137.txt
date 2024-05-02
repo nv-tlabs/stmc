@@ -1,0 +1,4 @@
+talk on phone with left hand # 0.0 # 0.45 # head # left arm
+talk on phone with left hand while throw something with right hand # 0.45 # 6.11 # head # left arm # right arm
+hop to the right while throw something with right hand # 6.11 # 9.13 # legs # right arm # spine
+hop to the right # 9.13 # 12.41 # legs # spine

@@ -1,0 +1,4 @@
+turn left # 0.0 # 0.96 # legs
+turn left while talk on phone with right hand # 0.96 # 5.91 # head # legs # right arm
+high kick with the right foot while talk on phone with right hand # 5.91 # 6.8 # head # legs # right arm
+high kick with the right foot # 6.8 # 13.22 # legs

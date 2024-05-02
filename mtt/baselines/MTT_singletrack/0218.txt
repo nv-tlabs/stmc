@@ -1,0 +1,4 @@
+slowly walk backwards # 0.0 # 1.0 # legs
+slowly walk backwards while raise the left arm # 1.0 # 6.18 # left arm # legs
+slowly walk backwards # 6.18 # 7.08 # legs
+touches back of head with right hand # 7.08 # 12.65 # head # right arm

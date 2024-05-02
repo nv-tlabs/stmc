@@ -1,0 +1,3 @@
+jogs backwards # 0.0 # 6.16 # legs
+walk backwards # 6.16 # 11.57 # legs
+eat something with the right arm # 6.32 # 11.5 # head # right arm

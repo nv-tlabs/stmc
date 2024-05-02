@@ -1,0 +1,4 @@
+walk backwards # 0.0 # 2.5 # legs
+walk backwards while wipe with the right hand # 2.5 # 5.88 # legs # right arm
+high kick with the left foot while wipe with the right hand # 5.88 # 9.03 # legs # right arm
+high kick with the left foot # 9.03 # 11.04 # legs

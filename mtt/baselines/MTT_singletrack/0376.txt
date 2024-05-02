@@ -1,0 +1,4 @@
+bow # 0.0 # 8.94 # head # spine
+turn left # 8.94 # 9.17 # legs
+turn left while dodge a hit to his head # 9.17 # 15.42 # head # legs # spine
+turn left # 15.42 # 15.73 # legs

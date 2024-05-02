@@ -1,0 +1,4 @@
+slowly walk backwards # 0.0 # 0.55 # legs
+slowly walk backwards while touches back of head with right hand # 0.55 # 7.4 # head # legs # right arm
+slowly walk backwards # 7.4 # 8.19 # legs
+walk in a quarter circle to the right # 8.19 # 13.25 # legs

@@ -1,0 +1,29 @@
+resume_dir: null
+ckpt: last
+
+# store the names
+motion_features: ${hydra:runtime.choices.motion_loader}
+text_features: ${hydra:runtime.choices.text_encoder}
+
+run_dir: outputs/mdm-smpl_${text_features}_${motion_features}_${dataset}
+
+dataloader:
+  _target_: torch.utils.data.DataLoader
+  batch_size: 128
+  num_workers: 16
+
+dataset: humanml3d
+
+defaults:
+  - text_encoder: clip
+  - motion_loader: smplrifke
+  - mdm_smpl
+  - trainer
+  - defaults
+  - _self_
+
+# Make it fail if it try to load a text model at train time
+# as all the text embeddings should already be precomputed
+data:
+  text_encoder:
+    no_model: True

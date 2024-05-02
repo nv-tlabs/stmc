@@ -1,0 +1,1 @@
+pick something with the right hand and then walk in a quarter circle to the right while look right # 0.0 # 9.8 # head # legs # right arm # spine

@@ -1,0 +1,4 @@
+walk in a quarter circle to the left # 0.0 # 0.43 # legs
+walk in a quarter circle to the left while look left # 0.43 # 5.02 # head # legs
+walk in a quarter circle to the left # 5.02 # 5.6 # legs
+jogs forwards # 5.6 # 9.89 # legs

@@ -1,0 +1,3 @@
+wipe with the left hand # 0.0 # 5.75 # left arm
+play golf # 5.75 # 11.48 # head # left arm # legs # right arm # spine
+walk in a quarter circle to the left # 0.2 # 4.84 # legs

@@ -1,0 +1,4 @@
+turn left # 0.0 # 7.33 # legs
+jogs backwards # 7.33 # 8.73 # legs
+jogs backwards while look left # 8.73 # 14.03 # head # legs
+jogs backwards # 14.03 # 15.23 # legs

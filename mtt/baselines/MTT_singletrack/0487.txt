@@ -1,0 +1,4 @@
+throw something with left hand # 0.0 # 0.43 # left arm
+throw something with left hand while talk on phone with right hand # 0.43 # 6.05 # head # left arm # right arm
+throw something with left hand # 6.05 # 6.82 # left arm
+jogs forwards # 6.82 # 11.47 # legs

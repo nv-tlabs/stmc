@@ -1,0 +1,4 @@
+bow # 0.0 # 4.84 # head # spine
+wipe with the right hand # 4.84 # 5.17 # right arm
+wipe with the right hand while high kick with the left foot # 5.17 # 9.62 # legs # right arm
+wipe with the right hand # 9.62 # 10.7 # right arm

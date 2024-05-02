@@ -1,0 +1,4 @@
+walk backwards # 0.0 # 0.17 # legs
+walk backwards while punch with the right hand # 0.17 # 5.32 # legs # right arm
+walk backwards # 5.32 # 5.38 # legs
+pick something with the right hand # 5.38 # 10.79 # legs # right arm # spine

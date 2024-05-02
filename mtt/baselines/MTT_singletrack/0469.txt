@@ -1,0 +1,4 @@
+wave with the right hand # 0.0 # 0.09 # right arm
+wave with the right hand while slowly walk forwards # 0.09 # 4.93 # legs # right arm
+wave with the right hand # 4.93 # 7.78 # right arm
+perform a squat # 7.78 # 12.4 # legs # spine

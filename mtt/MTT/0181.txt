@@ -1,0 +1,3 @@
+walk in a circle counterclockwise # 0.0 # 5.34 # legs
+walk forwards # 5.34 # 10.3 # legs
+applause # 0.18 # 5.31 # left arm # right arm

@@ -1,0 +1,4 @@
+quickly walk forwards # 0.0 # 2.06 # legs
+quickly walk forwards while wipe with the right hand # 2.06 # 6.48 # legs # right arm
+quickly walk forwards # 6.48 # 7.21 # legs
+drink with the left arm # 7.21 # 14.16 # head # left arm

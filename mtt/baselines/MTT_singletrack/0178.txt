@@ -1,0 +1,4 @@
+high kick with the right foot # 0.0 # 5.89 # legs
+turn 180 degrees to the left on the right foot # 5.89 # 6.17 # legs
+turn 180 degrees to the left on the right foot while punch with the left hand # 6.17 # 12.63 # left arm # legs
+turn 180 degrees to the left on the right foot # 12.63 # 12.89 # legs

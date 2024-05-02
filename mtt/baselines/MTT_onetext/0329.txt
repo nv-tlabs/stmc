@@ -1,0 +1,1 @@
+jogs backwards and then walk in a circle clockwise while point with his right hand # 0.0 # 9.8 # legs # right arm

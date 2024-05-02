@@ -1,0 +1,4 @@
+touches back of head with right hand # 0.0 # 0.13 # head # right arm
+touches back of head with right hand while walk in a quarter circle to the left # 0.13 # 5.85 # head # legs # right arm
+touches back of head with right hand # 5.85 # 6.24 # head # right arm
+walk in a quarter circle to the right # 6.24 # 12.27 # legs

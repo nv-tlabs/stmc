@@ -1,0 +1,4 @@
+high kick with the left foot # 0.0 # 2.48 # legs
+high kick with the left foot while play the violin # 2.48 # 5.81 # left arm # legs # right arm
+jogs backwards while play the violin # 5.81 # 8.46 # left arm # legs # right arm
+jogs backwards # 8.46 # 10.82 # legs

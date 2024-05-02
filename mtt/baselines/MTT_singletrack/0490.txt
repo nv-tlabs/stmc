@@ -1,0 +1,4 @@
+quickly walk forwards # 0.0 # 4.82 # legs
+slowly walk backwards # 4.82 # 4.94 # legs
+slowly walk backwards while raise both arms in the air # 4.94 # 10.58 # left arm # legs # right arm
+slowly walk backwards # 10.58 # 10.59 # legs

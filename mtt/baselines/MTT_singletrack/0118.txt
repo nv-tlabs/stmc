@@ -1,0 +1,4 @@
+high kick with the left foot # 0.0 # 4.0 # legs
+run # 4.0 # 5.11 # legs
+run while throw something with left hand # 5.11 # 10.82 # left arm # legs
+run # 10.82 # 10.92 # legs

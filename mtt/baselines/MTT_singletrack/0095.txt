@@ -1,0 +1,4 @@
+raise both arms in the air # 0.0 # 0.09 # left arm # right arm
+raise both arms in the air while hop to the right # 0.09 # 6.11 # left arm # legs # right arm # spine
+raise both arms in the air # 6.11 # 6.31 # left arm # right arm
+quickly walk forwards # 6.31 # 10.89 # legs

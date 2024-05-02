@@ -1,0 +1,4 @@
+low kick with the right foot # 0.0 # 6.77 # legs
+jump backward # 6.77 # 6.93 # legs # spine
+jump backward while talk on phone with right hand # 6.93 # 12.05 # head # legs # right arm # spine
+jump backward # 12.05 # 14.38 # legs # spine

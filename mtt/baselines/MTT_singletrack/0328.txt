@@ -1,0 +1,4 @@
+pick something with the left hand # 0.0 # 0.19 # left arm # legs # spine
+pick something with the left hand while wave with the right hand # 0.19 # 5.11 # left arm # legs # right arm # spine
+pick something with the left hand # 5.11 # 5.99 # left arm # legs # spine
+walk backwards # 5.99 # 12.42 # legs

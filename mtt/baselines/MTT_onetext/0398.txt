@@ -1,0 +1,1 @@
+raise both arms in the air and then slowly walk backwards while quickly walk forwards # 0.0 # 9.8 # left arm # legs # right arm

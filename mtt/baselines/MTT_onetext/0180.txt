@@ -1,0 +1,1 @@
+run and then jogs backwards while wipe with the right hand # 0.0 # 9.8 # legs # right arm

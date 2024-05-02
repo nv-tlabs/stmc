@@ -1,0 +1,4 @@
+hop to the right # 0.0 # 1.32 # legs # spine
+hop to the right while applause # 1.32 # 7.43 # left arm # legs # right arm # spine
+hop to the right # 7.43 # 7.59 # legs # spine
+low kick with the right foot # 7.59 # 13.36 # legs

@@ -1,0 +1,4 @@
+walk in a circle clockwise # 0.0 # 2.11 # legs
+walk in a circle clockwise while look left # 2.11 # 6.16 # head # legs
+quickly walk forwards while look left # 6.16 # 6.86 # head # legs
+quickly walk forwards # 6.86 # 10.9 # legs

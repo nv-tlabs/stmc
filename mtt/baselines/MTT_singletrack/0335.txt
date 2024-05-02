@@ -1,0 +1,4 @@
+low kick with the left foot # 0.0 # 1.34 # legs
+low kick with the left foot while talk on phone with right hand # 1.34 # 7.85 # head # legs # right arm
+high kick with the right foot while talk on phone with right hand # 7.85 # 9.11 # head # legs # right arm
+high kick with the right foot # 9.11 # 14.17 # legs

@@ -1,0 +1,4 @@
+walk backwards # 0.0 # 6.47 # legs
+jumping jacks # 6.47 # 6.58 # left arm # legs # right arm # spine
+jumping jacks while look right # 6.58 # 13.88 # head # left arm # legs # right arm # spine
+jumping jacks # 13.88 # 14.01 # left arm # legs # right arm # spine

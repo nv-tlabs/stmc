@@ -1,0 +1,4 @@
+touches back of head with right hand # 0.0 # 0.26 # head # right arm
+touches back of head with right hand while throw something with left hand # 0.26 # 5.02 # head # left arm # right arm
+touches back of head with right hand # 5.02 # 5.22 # head # right arm
+turn left # 5.22 # 10.35 # legs

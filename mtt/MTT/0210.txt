@@ -1,0 +1,3 @@
+pick something with the left hand # 0.0 # 6.93 # left arm # legs # spine
+perform a squat # 6.93 # 11.48 # legs # spine
+raise the right arm # 0.44 # 6.15 # right arm

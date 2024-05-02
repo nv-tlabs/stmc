@@ -1,0 +1,4 @@
+jump forward # 0.0 # 2.02 # legs # spine
+jump forward while look left # 2.02 # 6.3 # head # legs # spine
+walk in a circle counterclockwise while look left # 6.3 # 7.74 # head # legs
+walk in a circle counterclockwise # 7.74 # 12.35 # legs

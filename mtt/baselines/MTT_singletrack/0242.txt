@@ -1,0 +1,4 @@
+play the violin # 0.0 # 6.2 # left arm # right arm
+dodge a hit to his head # 6.2 # 6.24 # head # spine
+dodge a hit to his head while run # 6.24 # 11.93 # head # legs # spine
+dodge a hit to his head # 11.93 # 13.18 # head # spine

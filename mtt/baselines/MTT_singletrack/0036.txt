@@ -1,0 +1,4 @@
+pick something with the left hand # 0.0 # 1.31 # left arm # legs # spine
+pick something with the left hand while touches back of head with right hand # 1.31 # 6.89 # head # left arm # legs # right arm # spine
+hop to the left while touches back of head with right hand # 6.89 # 8.23 # head # legs # right arm # spine
+hop to the left # 8.23 # 11.73 # legs # spine

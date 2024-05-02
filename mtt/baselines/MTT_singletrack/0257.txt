@@ -1,0 +1,4 @@
+touches back of head with right hand # 0.0 # 0.19 # head # right arm
+touches back of head with right hand while turn 180 degrees to the left on the left foot # 0.19 # 6.19 # head # legs # right arm
+touches back of head with right hand # 6.19 # 6.29 # head # right arm
+play the violin # 6.29 # 12.38 # left arm # right arm

@@ -1,0 +1,4 @@
+punch with the right hand # 0.0 # 7.38 # right arm
+turn right # 7.38 # 7.5 # legs
+turn right while raise the left arm # 7.5 # 13.84 # left arm # legs
+turn right # 13.84 # 14.04 # legs

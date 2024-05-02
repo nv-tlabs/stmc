@@ -1,0 +1,4 @@
+touches back of head with right hand # 0.0 # 3.23 # head # right arm
+touches back of head with right hand while point with his left hand # 3.23 # 5.83 # head # left arm # right arm
+touches back of head with right hand # 5.83 # 5.85 # head # right arm
+turn 180 degrees to the left on the left foot # 5.85 # 10.88 # legs

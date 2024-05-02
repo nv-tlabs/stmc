@@ -1,0 +1,4 @@
+walk in a circle clockwise # 0.0 # 0.53 # legs
+walk in a circle clockwise while bow # 0.53 # 5.55 # head # legs # spine
+jogs forwards while bow # 5.55 # 6.8 # head # legs # spine
+jogs forwards # 6.8 # 9.69 # legs

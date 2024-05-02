@@ -1,0 +1,4 @@
+play the guitar # 0.0 # 0.02 # left arm # right arm
+play the guitar while sit down # 0.02 # 5.9 # left arm # legs # right arm # spine
+play the guitar # 5.9 # 6.46 # left arm # right arm
+high kick with the right foot # 6.46 # 13.05 # legs

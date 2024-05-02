@@ -1,0 +1,4 @@
+walk in a quarter circle to the left # 0.0 # 1.79 # legs
+walk in a quarter circle to the left while eat something with the right arm # 1.79 # 5.95 # head # legs # right arm
+walk in a quarter circle to the left # 5.95 # 9.19 # legs
+dodge a hit to his head # 9.19 # 16.04 # head # spine

@@ -1,0 +1,4 @@
+point with his right hand # 0.0 # 5.74 # right arm
+drink with the right arm # 5.74 # 6.96 # head # right arm
+drink with the right arm while walk in a quarter circle to the left # 6.96 # 11.5 # head # legs # right arm
+drink with the right arm # 11.5 # 13.16 # head # right arm

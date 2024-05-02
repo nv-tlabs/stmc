@@ -1,0 +1,4 @@
+wave with the left hand # 0.0 # 1.18 # left arm
+wave with the left hand while touches back of head with right hand # 1.18 # 7.5 # head # left arm # right arm
+wave with the left hand # 7.5 # 7.66 # left arm
+quickly walk backwards # 7.66 # 14.17 # legs

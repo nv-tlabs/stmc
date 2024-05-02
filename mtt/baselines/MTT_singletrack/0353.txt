@@ -1,0 +1,4 @@
+play the violin # 0.0 # 5.71 # left arm # right arm
+walk in a circle counterclockwise # 5.71 # 6.0 # legs
+walk in a circle counterclockwise while wave with the right hand # 6.0 # 13.46 # legs # right arm
+walk in a circle counterclockwise # 13.46 # 13.66 # legs

@@ -1,0 +1,4 @@
+touches back of head with right hand # 0.0 # 6.01 # head # right arm
+hop to the right # 6.01 # 6.62 # legs # spine
+hop to the right while talk on phone with left hand # 6.62 # 12.91 # head # left arm # legs # spine
+hop to the right # 12.91 # 13.61 # legs # spine

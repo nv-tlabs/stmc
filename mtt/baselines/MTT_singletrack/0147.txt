@@ -1,0 +1,4 @@
+applause # 0.0 # 0.37 # left arm # right arm
+applause while look right # 0.37 # 5.93 # head # left arm # right arm
+walk in a circle counterclockwise while look right # 5.93 # 6.67 # head # legs
+walk in a circle counterclockwise # 6.67 # 14.49 # legs

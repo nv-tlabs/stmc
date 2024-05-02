@@ -1,0 +1,1 @@
+touches back of head with right hand and then walk in a quarter circle to the right while walk in a quarter circle to the left # 0.0 # 9.8 # head # legs # right arm

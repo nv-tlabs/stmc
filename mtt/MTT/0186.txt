@@ -1,0 +1,3 @@
+walk backwards # 0.0 # 4.8 # legs
+bow # 4.8 # 8.8 # head # spine
+eat something with the right arm # 1.07 # 4.02 # head # right arm

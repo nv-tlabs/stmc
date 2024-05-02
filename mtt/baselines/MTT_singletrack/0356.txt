@@ -1,0 +1,4 @@
+applause # 0.0 # 6.05 # left arm # right arm
+run # 6.05 # 6.43 # legs
+run while raise both arms in the air # 6.43 # 10.8 # left arm # legs # right arm
+run # 10.8 # 12.35 # legs

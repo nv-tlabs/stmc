@@ -1,0 +1,4 @@
+high kick with the left foot # 0.0 # 3.48 # legs
+high kick with the left foot while wave with both hands # 3.48 # 7.86 # left arm # legs # right arm
+high kick with the left foot # 7.86 # 7.88 # legs
+pick something with the right hand # 7.88 # 13.97 # legs # right arm # spine

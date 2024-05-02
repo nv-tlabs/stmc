@@ -1,0 +1,4 @@
+talk on phone with right hand # 0.0 # 6.42 # head # right arm
+low kick with the left foot # 6.42 # 6.45 # legs
+low kick with the left foot while play the guitar # 6.45 # 11.15 # left arm # legs # right arm
+low kick with the left foot # 11.15 # 11.24 # legs

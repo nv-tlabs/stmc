@@ -1,0 +1,1 @@
+walk in a quarter circle to the left and then dodge a hit to his head while turn right # 0.0 # 9.8 # head # legs # spine

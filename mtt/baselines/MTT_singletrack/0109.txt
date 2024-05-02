@@ -1,0 +1,4 @@
+pick something with the left hand # 0.0 # 5.2 # left arm # legs # spine
+eat something with the left arm # 5.2 # 6.36 # head # left arm
+eat something with the left arm while raise the right arm # 6.36 # 11.79 # head # left arm # right arm
+eat something with the left arm # 11.79 # 11.91 # head # left arm

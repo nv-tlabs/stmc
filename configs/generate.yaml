@@ -1,0 +1,19 @@
+defaults:
+  - joints_renderer: matplotlib
+  - smpl_renderer: humor
+  - defaults
+  - _self_
+
+run_dir: ???
+timeline: ???
+input_type: auto # timeline / text
+fast: false # render or not with smpl
+gender: male
+
+guidance: 2.5
+baseline: none
+
+overlap_s: 0.5
+ckpt: last
+device: cuda
+value_from: smpl

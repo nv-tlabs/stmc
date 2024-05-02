@@ -1,0 +1,3 @@
+walk in a quarter circle to the left # 0.0 # 8.02 # legs
+quickly walk forwards # 8.02 # 14.17 # legs
+eat something with the right arm # 1.89 # 6.85 # head # right arm

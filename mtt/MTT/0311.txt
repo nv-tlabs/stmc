@@ -1,0 +1,3 @@
+pick something with the right hand # 0.0 # 6.76 # legs # right arm # spine
+walk in a quarter circle to the right # 6.76 # 13.64 # legs
+look right # 0.33 # 8.96 # head

@@ -1,0 +1,4 @@
+raise the left arm # 0.0 # 5.58 # left arm
+high kick with the right foot # 5.58 # 8.11 # legs
+high kick with the right foot while look right # 8.11 # 13.5 # head # legs
+high kick with the right foot # 13.5 # 13.61 # legs

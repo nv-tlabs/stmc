@@ -1,0 +1,3 @@
+jump forward # 0.0 # 4.96 # legs # spine
+look right # 4.96 # 9.49 # head
+throw something with right hand # 1.67 # 6.85 # right arm

@@ -1,0 +1,4 @@
+raise both arms in the air # 0.0 # 4.51 # left arm # right arm
+hop to the left # 4.51 # 5.09 # legs # spine
+hop to the left while punch with the left hand # 5.09 # 10.49 # left arm # legs # spine
+hop to the left # 10.49 # 11.62 # legs # spine

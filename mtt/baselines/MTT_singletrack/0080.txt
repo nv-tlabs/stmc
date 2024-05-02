@@ -1,0 +1,4 @@
+walk in a circle counterclockwise # 0.0 # 7.11 # legs
+touches back of head with right hand # 7.11 # 8.38 # head # right arm
+touches back of head with right hand while jump forward # 8.38 # 11.78 # head # legs # right arm # spine
+touches back of head with right hand # 11.78 # 11.94 # head # right arm

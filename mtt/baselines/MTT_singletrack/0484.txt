@@ -1,0 +1,4 @@
+sit down # 0.0 # 1.37 # legs # spine
+sit down while look right # 1.37 # 4.34 # head # legs # spine
+sit down # 4.34 # 6.62 # legs # spine
+slowly walk forwards # 6.62 # 12.98 # legs

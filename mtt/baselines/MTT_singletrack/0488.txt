@@ -1,0 +1,4 @@
+low kick with the right foot # 0.0 # 4.51 # legs
+point with his left hand # 4.51 # 5.63 # left arm
+point with his left hand while pick something with the right hand # 5.63 # 10.21 # left arm # legs # right arm # spine
+point with his left hand # 10.21 # 10.64 # left arm

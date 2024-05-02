@@ -1,0 +1,4 @@
+hop to the left # 0.0 # 4.47 # legs # spine
+hop to the left while throw something with right hand # 4.47 # 4.55 # legs # right arm # spine
+walk in a circle clockwise while throw something with right hand # 4.55 # 8.6 # legs # right arm
+walk in a circle clockwise # 8.6 # 9.84 # legs

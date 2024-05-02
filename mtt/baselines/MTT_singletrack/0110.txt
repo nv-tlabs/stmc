@@ -1,0 +1,4 @@
+walk forwards # 0.0 # 0.13 # legs
+walk forwards while eat something with the left arm # 0.13 # 5.07 # head # left arm # legs
+walk forwards # 5.07 # 5.73 # legs
+pick something with the right hand # 5.73 # 10.1 # legs # right arm # spine

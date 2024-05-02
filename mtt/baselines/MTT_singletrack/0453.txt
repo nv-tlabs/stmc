@@ -1,0 +1,4 @@
+walk backwards # 0.0 # 0.84 # legs
+walk backwards while wave with both hands # 0.84 # 5.53 # left arm # legs # right arm
+turn left while wave with both hands # 5.53 # 7.94 # left arm # legs # right arm
+turn left # 7.94 # 9.46 # legs

@@ -1,0 +1,3 @@
+drink with the left arm # 0.0 # 5.99 # head # left arm
+wipe with the left hand # 5.99 # 10.57 # left arm
+jump backward # 0.69 # 7.69 # legs # spine

@@ -1,0 +1,4 @@
+drink with the left arm # 0.0 # 0.17 # head # left arm
+drink with the left arm while punch with the right hand # 0.17 # 3.41 # head # left arm # right arm
+drink with the left arm # 3.41 # 8.05 # head # left arm
+pick something with the left hand # 8.05 # 14.7 # left arm # legs # spine

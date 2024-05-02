@@ -1,0 +1,4 @@
+low kick with the left foot # 0.0 # 5.05 # legs
+slowly walk forwards # 5.05 # 5.26 # legs
+slowly walk forwards while punch with the left hand # 5.26 # 11.14 # left arm # legs
+slowly walk forwards # 11.14 # 11.67 # legs

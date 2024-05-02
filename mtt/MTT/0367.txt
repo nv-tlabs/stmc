@@ -1,0 +1,3 @@
+eat something with the right arm # 0.0 # 7.5 # head # right arm
+high kick with the left foot # 7.5 # 13.32 # legs
+pick something with the left hand # 0.15 # 7.46 # left arm # legs # spine

@@ -1,0 +1,1 @@
+wipe with the left hand and then dodge a hit to his head while walk in a circle counterclockwise # 0.0 # 9.8 # head # left arm # legs # spine

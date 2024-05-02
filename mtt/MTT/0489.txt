@@ -1,0 +1,3 @@
+drink with the left arm # 0.0 # 8.4 # head # left arm
+touches back of head with left hand # 8.4 # 13.06 # head # left arm
+wave with the right hand # 1.41 # 6.26 # right arm

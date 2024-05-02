@@ -1,0 +1,4 @@
+slowly walk backwards # 0.0 # 0.05 # legs
+slowly walk backwards while punch with the left hand # 0.05 # 4.04 # left arm # legs
+slowly walk backwards # 4.04 # 6.94 # legs
+slowly walk backwards # 6.94 # 11.47 # legs

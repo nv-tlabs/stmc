@@ -1,0 +1,4 @@
+quickly walk forwards # 0.0 # 0.05 # legs
+quickly walk forwards while look right # 0.05 # 5.44 # head # legs
+quickly walk forwards # 5.44 # 5.6 # legs
+jump forward # 5.6 # 10.98 # legs # spine

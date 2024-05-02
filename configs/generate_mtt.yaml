@@ -1,0 +1,13 @@
+defaults:
+  - defaults
+  - _self_
+
+run_dir: ???
+
+guidance: 2.5
+baseline: none
+
+overlap_s: 0.5
+ckpt: last
+device: cuda
+value_from: joints

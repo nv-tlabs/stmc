@@ -1,0 +1,4 @@
+slowly walk backwards # 0.0 # 6.22 # legs
+pick something with the left hand # 6.22 # 6.54 # left arm # legs # spine
+pick something with the left hand while touches back of head with right hand # 6.54 # 10.87 # head # left arm # legs # right arm # spine
+pick something with the left hand # 10.87 # 13.59 # left arm # legs # spine

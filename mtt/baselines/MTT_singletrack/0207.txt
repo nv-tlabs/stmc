@@ -1,0 +1,4 @@
+low kick with the left foot # 0.0 # 0.01 # legs
+low kick with the left foot while wave with the left hand # 0.01 # 5.06 # left arm # legs
+low kick with the left foot # 5.06 # 5.24 # legs
+jump backward # 5.24 # 10.08 # legs # spine

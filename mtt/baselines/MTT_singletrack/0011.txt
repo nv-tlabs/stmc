@@ -1,0 +1,4 @@
+walk forwards # 0.0 # 6.85 # legs
+dodge a hit to his head # 6.85 # 11.1 # head # spine
+dodge a hit to his head while raise both arms in the air # 11.1 # 14.88 # head # left arm # right arm # spine
+dodge a hit to his head # 14.88 # 15.2 # head # spine

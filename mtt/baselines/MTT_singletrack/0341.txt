@@ -1,0 +1,4 @@
+punch with the right hand # 0.0 # 0.47 # right arm
+punch with the right hand while slowly walk forwards # 0.47 # 7.36 # legs # right arm
+punch with the right hand # 7.36 # 8.84 # right arm
+hop to the right # 8.84 # 14.87 # legs # spine

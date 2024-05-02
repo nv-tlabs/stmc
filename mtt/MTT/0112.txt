@@ -1,0 +1,3 @@
+walk in a quarter circle to the right # 0.0 # 7.09 # legs
+point with his left hand # 7.09 # 11.5 # left arm
+eat something with the left arm # 1.29 # 6.93 # head # left arm

@@ -1,0 +1,4 @@
+walk backwards # 0.0 # 3.49 # legs
+walk in a circle counterclockwise # 3.49 # 6.71 # legs
+walk in a circle counterclockwise while throw something with right hand # 6.71 # 9.77 # legs # right arm
+walk in a circle counterclockwise # 9.77 # 9.92 # legs

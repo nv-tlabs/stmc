@@ -1,0 +1,3 @@
+touches back of head with right hand # 0.0 # 6.65 # head # right arm
+perform a squat # 6.65 # 13.05 # legs # spine
+wave with the left hand # 1.83 # 6.64 # left arm

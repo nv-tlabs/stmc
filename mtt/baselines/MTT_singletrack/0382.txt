@@ -1,0 +1,4 @@
+dodge a hit to his head # 0.0 # 5.78 # head # spine
+bow # 5.78 # 6.01 # head # spine
+bow while punch with the right hand # 6.01 # 12.23 # head # right arm # spine
+bow # 12.23 # 12.4 # head # spine

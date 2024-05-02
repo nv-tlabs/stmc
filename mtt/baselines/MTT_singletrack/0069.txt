@@ -1,0 +1,4 @@
+jump forward # 0.0 # 3.59 # legs # spine
+jump forward while eat something with the left arm # 3.59 # 6.71 # head # left arm # legs # spine
+turn 180 degrees to the left on the left foot while eat something with the left arm # 6.71 # 9.05 # head # left arm # legs
+turn 180 degrees to the left on the left foot # 9.05 # 14.19 # legs

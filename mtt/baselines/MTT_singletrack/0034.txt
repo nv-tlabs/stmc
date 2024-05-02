@@ -1,0 +1,4 @@
+jumping jacks # 0.0 # 5.15 # left arm # legs # right arm # spine
+run # 5.15 # 7.31 # legs
+run while touches back of head with left hand # 7.31 # 11.09 # head # left arm # legs
+run # 11.09 # 12.0 # legs

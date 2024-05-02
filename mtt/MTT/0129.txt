@@ -1,0 +1,3 @@
+turn 180 degrees to the left on the right foot # 0.0 # 4.88 # legs
+hop to the left # 4.88 # 12.23 # legs # spine
+drink with the left arm # 4.88 # 12.2 # head # left arm

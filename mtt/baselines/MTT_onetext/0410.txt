@@ -1,0 +1,1 @@
+walk in a quarter circle to the right and then raise the left arm while jump backward # 0.0 # 9.8 # left arm # legs # spine

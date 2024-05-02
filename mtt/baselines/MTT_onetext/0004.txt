@@ -1,0 +1,1 @@
+perform a squat and then bow while turn 180 degrees to the left on the left foot # 0.0 # 9.8 # head # legs # spine

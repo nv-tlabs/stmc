@@ -1,0 +1,4 @@
+jump forward # 0.0 # 0.67 # legs # spine
+jump forward while play the violin # 0.67 # 4.18 # left arm # legs # right arm # spine
+jump forward # 4.18 # 5.5 # legs # spine
+low kick with the left foot # 5.5 # 10.47 # legs

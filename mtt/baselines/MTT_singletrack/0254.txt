@@ -1,0 +1,4 @@
+turn right # 0.0 # 3.29 # legs
+jogs backwards # 3.29 # 3.3 # legs
+jogs backwards while eat something with the left arm # 3.3 # 9.08 # head # left arm # legs
+jogs backwards # 9.08 # 9.18 # legs

@@ -1,0 +1,3 @@
+low kick with the left foot # 0.0 # 4.38 # legs
+punch with the right hand # 4.38 # 11.16 # right arm
+walk in a quarter circle to the right # 5.72 # 10.8 # legs

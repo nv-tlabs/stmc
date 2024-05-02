@@ -1,0 +1,4 @@
+walk backwards # 0.0 # 5.22 # legs
+raise the left arm # 5.22 # 5.87 # left arm
+raise the left arm while talk on phone with right hand # 5.87 # 10.01 # head # left arm # right arm
+raise the left arm # 10.01 # 10.14 # left arm

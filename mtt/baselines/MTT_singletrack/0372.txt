@@ -1,0 +1,4 @@
+wipe with the right hand # 0.0 # 2.54 # right arm
+wipe with the right hand while wave with the left hand # 2.54 # 5.89 # left arm # right arm
+walk backwards while wave with the left hand # 5.89 # 9.09 # left arm # legs
+walk backwards # 9.09 # 13.01 # legs

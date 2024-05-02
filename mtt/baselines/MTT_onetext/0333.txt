@@ -1,0 +1,1 @@
+look left and then throw something with right hand while hop to the right # 0.0 # 9.8 # head # legs # right arm # spine

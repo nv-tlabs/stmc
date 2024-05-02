@@ -1,0 +1,1 @@
+jogs backwards and then wipe with the left hand while punch with the right hand # 0.0 # 9.8 # left arm # legs # right arm

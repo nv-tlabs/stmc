@@ -1,0 +1,4 @@
+jumping jacks # 0.0 # 0.91 # left arm # legs # right arm # spine
+jumping jacks while look left # 0.91 # 5.61 # head # left arm # legs # right arm # spine
+low kick with the left foot while look left # 5.61 # 8.08 # head # legs
+low kick with the left foot # 8.08 # 12.2 # legs

@@ -1,0 +1,4 @@
+throw something with left hand # 0.0 # 0.41 # left arm
+throw something with left hand while look left # 0.41 # 4.26 # head # left arm
+throw something with left hand # 4.26 # 7.06 # left arm
+walk in a circle clockwise # 7.06 # 11.53 # legs

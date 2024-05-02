@@ -1,0 +1,4 @@
+walk in a quarter circle to the right # 0.0 # 3.07 # legs
+walk in a quarter circle to the right while punch with the left hand # 3.07 # 4.94 # left arm # legs
+pick something with the right hand while punch with the left hand # 4.94 # 9.01 # left arm # legs # right arm # spine
+pick something with the right hand # 9.01 # 9.98 # legs # right arm # spine

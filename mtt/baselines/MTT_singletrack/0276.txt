@@ -1,0 +1,4 @@
+wipe with the left hand # 0.0 # 1.25 # left arm
+wipe with the left hand while walk in a circle counterclockwise # 1.25 # 3.6 # left arm # legs
+dodge a hit to his head while walk in a circle counterclockwise # 3.6 # 7.36 # head # legs # spine
+dodge a hit to his head # 7.36 # 9.89 # head # spine

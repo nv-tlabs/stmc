@@ -1,0 +1,3 @@
+dodge a hit to his head # 0.0 # 7.35 # head # spine
+turn right # 7.35 # 12.75 # legs
+turn 180 degrees to the left on the left foot # 0.03 # 7.34 # legs

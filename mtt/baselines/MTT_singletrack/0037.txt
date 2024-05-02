@@ -1,0 +1,4 @@
+pick something with the left hand # 0.0 # 0.11 # left arm # legs # spine
+pick something with the left hand while throw something with right hand # 0.11 # 7.1 # left arm # legs # right arm # spine
+pick something with the left hand # 7.1 # 7.54 # left arm # legs # spine
+quickly walk backwards # 7.54 # 13.88 # legs

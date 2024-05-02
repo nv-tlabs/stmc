@@ -1,0 +1,4 @@
+jumping jacks # 0.0 # 0.22 # left arm # legs # right arm # spine
+jumping jacks while look right # 0.22 # 5.59 # head # left arm # legs # right arm # spine
+jumping jacks # 5.59 # 6.21 # left arm # legs # right arm # spine
+talk on phone with left hand # 6.21 # 13.38 # head # left arm

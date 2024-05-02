@@ -1,0 +1,4 @@
+run # 0.0 # 4.66 # legs
+hop to the right # 4.66 # 4.82 # legs # spine
+hop to the right while throw something with right hand # 4.82 # 10.68 # legs # right arm # spine
+hop to the right # 10.68 # 11.04 # legs # spine

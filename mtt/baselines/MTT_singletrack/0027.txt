@@ -1,0 +1,4 @@
+walk in a circle counterclockwise # 0.0 # 6.24 # legs
+perform a squat # 6.24 # 7.67 # legs # spine
+perform a squat while throw something with left hand # 7.67 # 11.42 # left arm # legs # spine
+perform a squat # 11.42 # 12.6 # legs # spine

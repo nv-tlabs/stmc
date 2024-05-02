@@ -1,0 +1,4 @@
+talk on phone with left hand # 0.0 # 0.46 # head # left arm
+talk on phone with left hand while jump backward # 0.46 # 5.34 # head # left arm # legs # spine
+talk on phone with left hand # 5.34 # 5.6 # head # left arm
+hop to the right # 5.6 # 10.21 # legs # spine

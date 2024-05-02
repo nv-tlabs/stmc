@@ -1,0 +1,1 @@
+eat something with the left arm and then hop to the right while wipe with the right hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine

@@ -1,0 +1,3 @@
+jogs forwards # 0.0 # 3.86 # legs
+sit down # 3.86 # 10.98 # legs # spine
+drink with the right arm # 4.38 # 10.82 # head # right arm

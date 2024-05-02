@@ -1,0 +1,4 @@
+touches back of head with left hand # 0.0 # 1.39 # head # left arm
+touches back of head with left hand while walk backwards # 1.39 # 4.63 # head # left arm # legs
+dodge a hit to his head while walk backwards # 4.63 # 8.97 # head # legs # spine
+dodge a hit to his head # 8.97 # 11.26 # head # spine

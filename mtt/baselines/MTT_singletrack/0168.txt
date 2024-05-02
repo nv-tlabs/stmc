@@ -1,0 +1,4 @@
+punch with the left hand # 0.0 # 0.83 # left arm
+punch with the left hand while drink with the right arm # 0.83 # 5.27 # head # left arm # right arm
+punch with the left hand # 5.27 # 5.34 # left arm
+low kick with the left foot # 5.34 # 11.79 # legs

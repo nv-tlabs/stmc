@@ -1,0 +1,1 @@
+walk forwards and then dodge a hit to his head while raise both arms in the air # 0.0 # 9.8 # head # left arm # legs # right arm # spine

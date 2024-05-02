@@ -1,0 +1,4 @@
+pick something with the left hand # 0.0 # 0.85 # left arm # legs # spine
+pick something with the left hand while drink with the right arm # 0.85 # 6.75 # head # left arm # legs # right arm # spine
+pick something with the left hand # 6.75 # 7.87 # left arm # legs # spine
+play golf # 7.87 # 14.15 # head # left arm # legs # right arm # spine

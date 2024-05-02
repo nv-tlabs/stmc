@@ -1,0 +1,1 @@
+jump forward and then walk in a circle clockwise while wipe with the right hand # 0.0 # 9.8 # legs # right arm # spine

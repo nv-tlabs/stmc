@@ -1,0 +1,1 @@
+dodge a hit to his head and then turn right while turn 180 degrees to the left on the left foot # 0.0 # 9.8 # head # legs # spine

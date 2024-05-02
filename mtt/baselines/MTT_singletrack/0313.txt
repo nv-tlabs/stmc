@@ -1,0 +1,4 @@
+jogs forwards # 0.0 # 6.66 # legs
+jump backward # 6.66 # 6.95 # legs # spine
+jump backward while drink with the left arm # 6.95 # 12.66 # head # left arm # legs # spine
+jump backward # 12.66 # 13.65 # legs # spine

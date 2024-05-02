@@ -1,0 +1,3 @@
+jump forward # 0.0 # 7.26 # legs # spine
+jump backward # 7.26 # 14.14 # legs # spine
+punch with the right hand # 0.22 # 6.33 # right arm

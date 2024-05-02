@@ -1,0 +1,3 @@
+drink with the left arm # 0.0 # 4.79 # head # left arm
+dodge a hit to his head # 4.79 # 9.21 # head # spine
+low kick with the right foot # 1.71 # 7.59 # legs

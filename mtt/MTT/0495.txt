@@ -1,0 +1,3 @@
+jogs backwards # 0.0 # 5.05 # legs
+walk in a quarter circle to the right # 5.05 # 12.35 # legs
+punch with the right hand # 5.17 # 10.62 # right arm

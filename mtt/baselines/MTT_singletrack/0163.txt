@@ -1,0 +1,4 @@
+run # 0.0 # 0.49 # legs
+run while punch with the right hand # 0.49 # 4.88 # legs # right arm
+run # 4.88 # 6.04 # legs
+jumping jacks # 6.04 # 11.95 # left arm # legs # right arm # spine

@@ -1,0 +1,4 @@
+perform a squat # 0.0 # 4.92 # legs # spine
+bow # 4.92 # 4.93 # head # spine
+bow while turn 180 degrees to the left on the left foot # 4.93 # 9.69 # head # legs # spine
+bow # 9.69 # 12.19 # head # spine

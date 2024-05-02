@@ -1,0 +1,4 @@
+turn right # 0.0 # 5.64 # legs
+quickly walk forwards # 5.64 # 5.8 # legs
+quickly walk forwards while point with his left hand # 5.8 # 10.82 # left arm # legs
+quickly walk forwards # 10.82 # 12.71 # legs

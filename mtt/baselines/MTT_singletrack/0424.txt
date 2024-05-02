@@ -1,0 +1,4 @@
+play the guitar # 0.0 # 0.77 # left arm # right arm
+play the guitar while turn right # 0.77 # 5.97 # left arm # legs # right arm
+play the guitar # 5.97 # 7.27 # left arm # right arm
+perform a squat # 7.27 # 12.76 # legs # spine

@@ -1,0 +1,4 @@
+low kick with the right foot # 0.0 # 0.67 # legs
+low kick with the right foot while touches back of head with right hand # 0.67 # 5.75 # head # legs # right arm
+low kick with the right foot # 5.75 # 5.78 # legs
+turn left # 5.78 # 13.4 # legs

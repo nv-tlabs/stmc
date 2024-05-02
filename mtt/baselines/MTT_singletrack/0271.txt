@@ -1,0 +1,4 @@
+walk in a quarter circle to the left # 0.0 # 4.25 # legs
+run # 4.25 # 5.05 # legs
+run while applause # 5.05 # 11.17 # left arm # legs # right arm
+run # 11.17 # 11.5 # legs

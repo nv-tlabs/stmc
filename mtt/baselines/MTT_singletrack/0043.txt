@@ -1,0 +1,4 @@
+high kick with the left foot # 0.0 # 0.28 # legs
+high kick with the left foot while wave with the right hand # 0.28 # 5.78 # legs # right arm
+high kick with the left foot # 5.78 # 6.91 # legs
+quickly walk backwards # 6.91 # 10.84 # legs

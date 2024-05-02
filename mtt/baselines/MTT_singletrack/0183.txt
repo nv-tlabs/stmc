@@ -1,0 +1,4 @@
+low kick with the left foot # 0.0 # 0.89 # legs
+low kick with the left foot while look left # 0.89 # 6.65 # head # legs
+pick something with the left hand while look left # 6.65 # 7.9 # head # left arm # legs # spine
+pick something with the left hand # 7.9 # 13.11 # left arm # legs # spine

@@ -1,0 +1,4 @@
+talk on phone with right hand # 0.0 # 1.07 # head # right arm
+talk on phone with right hand while walk in a circle counterclockwise # 1.07 # 5.18 # head # legs # right arm
+talk on phone with right hand # 5.18 # 6.6 # head # right arm
+high kick with the left foot # 6.6 # 12.8 # legs

@@ -1,0 +1,1 @@
+quickly walk backwards and then slowly walk backwards while point with his right hand # 0.0 # 9.8 # legs # right arm

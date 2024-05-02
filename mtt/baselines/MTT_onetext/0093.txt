@@ -1,0 +1,1 @@
+jogs backwards and then walk backwards while eat something with the right arm # 0.0 # 9.8 # head # legs # right arm

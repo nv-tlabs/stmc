@@ -1,0 +1,4 @@
+bow # 0.0 # 6.23 # head # spine
+jumping jacks # 6.23 # 6.82 # left arm # legs # right arm # spine
+jumping jacks while look right # 6.82 # 10.68 # head # left arm # legs # right arm # spine
+jumping jacks # 10.68 # 12.44 # left arm # legs # right arm # spine

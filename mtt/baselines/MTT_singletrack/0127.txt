@@ -1,0 +1,4 @@
+turn right # 0.0 # 0.59 # legs
+turn right while bow # 0.59 # 6.28 # head # legs # spine
+turn right # 6.28 # 7.4 # legs
+walk backwards # 7.4 # 11.7 # legs

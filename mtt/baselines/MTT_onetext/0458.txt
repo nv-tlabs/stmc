@@ -1,0 +1,1 @@
+turn 180 degrees to the left on the left foot and then drink with the right arm while look right # 0.0 # 9.8 # head # legs # right arm

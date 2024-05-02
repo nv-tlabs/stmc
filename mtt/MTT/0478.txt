@@ -1,0 +1,3 @@
+jump forward # 0.0 # 7.85 # legs # spine
+point with his left hand # 7.85 # 13.57 # left arm
+eat something with the right arm # 1.19 # 7.65 # head # right arm

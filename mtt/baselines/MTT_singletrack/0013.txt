@@ -1,0 +1,4 @@
+turn 180 degrees to the left on the left foot # 0.0 # 0.37 # legs
+turn 180 degrees to the left on the left foot while bow # 0.37 # 5.33 # head # legs # spine
+turn 180 degrees to the left on the left foot # 5.33 # 6.11 # legs
+run # 6.11 # 14.17 # legs

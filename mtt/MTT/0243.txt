@@ -1,0 +1,3 @@
+quickly walk forwards # 0.0 # 7.64 # legs
+slowly walk backwards # 7.64 # 13.21 # legs
+drink with the left arm # 0.72 # 7.23 # head # left arm

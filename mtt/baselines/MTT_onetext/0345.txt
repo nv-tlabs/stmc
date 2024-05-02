@@ -1,0 +1,1 @@
+punch with the right hand and then run while wipe with the left hand # 0.0 # 9.8 # left arm # legs # right arm

@@ -1,0 +1,4 @@
+wave with the right hand # 0.0 # 7.35 # right arm
+pick something with the right hand # 7.35 # 8.71 # legs # right arm # spine
+pick something with the right hand while drink with the left arm # 8.71 # 14.19 # head # left arm # legs # right arm # spine
+pick something with the right hand # 14.19 # 14.29 # legs # right arm # spine

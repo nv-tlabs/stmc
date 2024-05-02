@@ -1,0 +1,3 @@
+bow # 0.0 # 4.97 # head # spine
+pick something with the left hand # 4.97 # 10.7 # left arm # legs # spine
+point with his right hand # 0.03 # 6.49 # right arm

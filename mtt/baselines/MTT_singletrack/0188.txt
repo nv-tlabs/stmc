@@ -1,0 +1,4 @@
+pick something with the right hand # 0.0 # 8.16 # legs # right arm # spine
+turn left # 8.16 # 9.05 # legs
+turn left while raise both arms in the air # 9.05 # 14.03 # left arm # legs # right arm
+turn left # 14.03 # 14.26 # legs

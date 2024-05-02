@@ -1,0 +1,4 @@
+walk backwards # 0.0 # 1.83 # legs
+walk backwards while wave with the right hand # 1.83 # 6.27 # legs # right arm
+walk backwards # 6.27 # 8.09 # legs
+dodge a hit to his head # 8.09 # 12.13 # head # spine

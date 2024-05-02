@@ -1,0 +1,1 @@
+look left and then drink with the left arm while walk forwards # 0.0 # 9.8 # head # left arm # legs

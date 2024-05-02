@@ -1,0 +1,4 @@
+low kick with the right foot # 0.0 # 2.0 # legs
+low kick with the right foot while talk on phone with right hand # 2.0 # 5.89 # head # legs # right arm
+turn 180 degrees to the left on the left foot while talk on phone with right hand # 5.89 # 8.5 # head # legs # right arm
+turn 180 degrees to the left on the left foot # 8.5 # 10.89 # legs

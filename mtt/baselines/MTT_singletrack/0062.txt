@@ -1,0 +1,4 @@
+pick something with the right hand # 0.0 # 0.68 # legs # right arm # spine
+pick something with the right hand while eat something with the left arm # 0.68 # 7.23 # head # left arm # legs # right arm # spine
+pick something with the right hand # 7.23 # 9.19 # legs # right arm # spine
+hop to the right # 9.19 # 16.73 # legs # spine

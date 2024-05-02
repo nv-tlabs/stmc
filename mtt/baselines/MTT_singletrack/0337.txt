@@ -1,0 +1,4 @@
+play the guitar # 0.0 # 4.32 # left arm # right arm
+play the violin # 4.32 # 7.85 # left arm # right arm
+play the violin while slowly walk backwards # 7.85 # 10.51 # left arm # legs # right arm
+play the violin # 10.51 # 10.56 # left arm # right arm

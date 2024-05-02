@@ -1,0 +1,4 @@
+raise the right arm # 0.0 # 0.08 # right arm
+raise the right arm while slowly walk forwards # 0.08 # 6.07 # legs # right arm
+raise the right arm # 6.07 # 6.13 # right arm
+play golf # 6.13 # 10.54 # head # left arm # legs # right arm # spine

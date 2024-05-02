@@ -1,0 +1,4 @@
+walk in a quarter circle to the left # 0.0 # 6.55 # legs
+jogs backwards # 6.55 # 6.64 # legs
+jogs backwards while raise the left arm # 6.64 # 13.46 # left arm # legs
+jogs backwards # 13.46 # 13.67 # legs

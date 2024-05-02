@@ -1,0 +1,4 @@
+high kick with the right foot # 0.0 # 5.3 # legs
+low kick with the left foot # 5.3 # 6.67 # legs
+low kick with the left foot while raise the left arm # 6.67 # 12.25 # left arm # legs
+low kick with the left foot # 12.25 # 12.71 # legs

@@ -1,0 +1,3 @@
+wipe with the left hand # 0.0 # 5.78 # left arm
+pick something with the left hand # 5.78 # 11.08 # left arm # legs # spine
+walk backwards # 0.06 # 5.34 # legs

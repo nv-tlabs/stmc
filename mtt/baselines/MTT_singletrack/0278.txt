@@ -1,0 +1,4 @@
+walk in a quarter circle to the left # 0.0 # 3.82 # legs
+jogs forwards # 3.82 # 4.2 # legs
+jogs forwards while talk on phone with left hand # 4.2 # 9.62 # head # left arm # legs
+jogs forwards # 9.62 # 10.33 # legs

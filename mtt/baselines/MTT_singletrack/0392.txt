@@ -1,0 +1,4 @@
+jump forward # 0.0 # 3.41 # legs # spine
+jump forward while throw something with right hand # 3.41 # 6.81 # legs # right arm # spine
+turn 180 degrees to the left on the left foot while throw something with right hand # 6.81 # 8.08 # legs # right arm
+turn 180 degrees to the left on the left foot # 8.08 # 13.71 # legs

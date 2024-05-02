@@ -1,0 +1,4 @@
+jumping jacks # 0.0 # 5.35 # left arm # legs # right arm # spine
+low kick with the left foot # 5.35 # 7.79 # legs
+low kick with the left foot while raise the left arm # 7.79 # 11.44 # left arm # legs
+low kick with the left foot # 11.44 # 11.85 # legs

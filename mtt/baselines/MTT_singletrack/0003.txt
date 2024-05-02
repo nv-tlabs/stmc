@@ -1,0 +1,4 @@
+hop to the right # 0.0 # 0.8 # legs # spine
+hop to the right while point with his right hand # 0.8 # 5.96 # legs # right arm # spine
+hop to the right # 5.96 # 8.15 # legs # spine
+touches back of head with right hand # 8.15 # 14.79 # head # right arm

@@ -1,0 +1,4 @@
+perform a squat # 0.0 # 6.25 # legs # spine
+talk on phone with right hand # 6.25 # 7.19 # head # right arm
+talk on phone with right hand while low kick with the right foot # 7.19 # 11.9 # head # legs # right arm
+talk on phone with right hand # 11.9 # 12.72 # head # right arm

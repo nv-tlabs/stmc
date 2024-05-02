@@ -1,0 +1,4 @@
+walk backwards # 0.0 # 0.34 # legs
+walk backwards while wipe with the right hand # 0.34 # 5.17 # legs # right arm
+walk backwards # 5.17 # 6.12 # legs
+quickly walk forwards # 6.12 # 10.68 # legs

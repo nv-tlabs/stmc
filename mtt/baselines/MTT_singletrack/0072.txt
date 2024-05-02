@@ -1,0 +1,4 @@
+pick something with the right hand # 0.0 # 0.89 # legs # right arm # spine
+pick something with the right hand while drink with the left arm # 0.89 # 7.04 # head # left arm # legs # right arm # spine
+pick something with the right hand # 7.04 # 7.56 # legs # right arm # spine
+sit down # 7.56 # 13.91 # legs # spine

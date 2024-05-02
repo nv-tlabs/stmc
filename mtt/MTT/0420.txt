@@ -1,0 +1,3 @@
+high kick with the left foot # 0.0 # 4.72 # legs
+drink with the right arm # 4.72 # 12.63 # head # right arm
+throw something with left hand # 3.91 # 8.36 # left arm

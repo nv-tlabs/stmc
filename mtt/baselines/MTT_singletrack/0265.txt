@@ -1,0 +1,4 @@
+quickly walk forwards # 0.0 # 1.75 # legs
+quickly walk forwards while point with his left hand # 1.75 # 6.21 # left arm # legs
+quickly walk forwards # 6.21 # 6.45 # legs
+walk backwards # 6.45 # 12.57 # legs

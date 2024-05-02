@@ -1,0 +1,4 @@
+hop to the left # 0.0 # 5.19 # legs # spine
+touches back of head with right hand # 5.19 # 6.31 # head # right arm
+touches back of head with right hand while jump backward # 6.31 # 10.3 # head # legs # right arm # spine
+touches back of head with right hand # 10.3 # 10.68 # head # right arm

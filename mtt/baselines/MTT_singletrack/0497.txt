@@ -1,0 +1,4 @@
+high kick with the right foot # 0.0 # 0.26 # legs
+high kick with the right foot while wipe with the left hand # 0.26 # 7.08 # left arm # legs
+high kick with the right foot # 7.08 # 7.49 # legs
+quickly walk forwards # 7.49 # 10.67 # legs

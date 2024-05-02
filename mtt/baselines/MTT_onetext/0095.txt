@@ -1,0 +1,1 @@
+raise both arms in the air and then quickly walk forwards while hop to the right # 0.0 # 9.8 # left arm # legs # right arm # spine

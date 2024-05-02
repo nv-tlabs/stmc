@@ -1,0 +1,4 @@
+quickly walk forwards # 0.0 # 2.93 # legs
+quickly walk forwards while look right # 2.93 # 5.18 # head # legs
+throw something with left hand while look right # 5.18 # 8.84 # head # left arm
+throw something with left hand # 8.84 # 10.11 # left arm

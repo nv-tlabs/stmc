@@ -1,0 +1,4 @@
+eat something with the right arm # 0.0 # 5.34 # head # right arm
+drink with the left arm # 5.34 # 6.38 # head # left arm
+drink with the left arm while quickly walk forwards # 6.38 # 10.02 # head # left arm # legs
+drink with the left arm # 10.02 # 11.32 # head # left arm

@@ -1,0 +1,14 @@
+defaults:
+  - joints_renderer: matplotlib
+  - smpl_renderer: humor
+  - defaults
+  - _self_
+
+run_dir: ???
+input_type: auto # timeline / text
+
+guidance: 2.5
+overlap_s: 1.0
+
+ckpt: last
+device: cuda

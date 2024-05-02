@@ -1,0 +1,4 @@
+turn 180 degrees to the left on the left foot # 0.0 # 0.53 # legs
+turn 180 degrees to the left on the left foot while play the violin # 0.53 # 4.77 # left arm # legs # right arm
+turn 180 degrees to the left on the left foot # 4.77 # 4.86 # legs
+low kick with the right foot # 4.86 # 10.81 # legs

@@ -1,0 +1,4 @@
+slowly walk backwards # 0.0 # 0.33 # legs
+slowly walk backwards while wave with the right hand # 0.33 # 3.91 # legs # right arm
+slowly walk backwards # 3.91 # 6.63 # legs
+hop to the left # 6.63 # 11.89 # legs # spine

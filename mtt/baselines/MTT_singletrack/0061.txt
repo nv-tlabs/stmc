@@ -1,0 +1,4 @@
+jump forward # 0.0 # 1.67 # legs # spine
+jump forward while throw something with right hand # 1.67 # 4.96 # legs # right arm # spine
+look right while throw something with right hand # 4.96 # 6.85 # head # right arm
+look right # 6.85 # 9.49 # head

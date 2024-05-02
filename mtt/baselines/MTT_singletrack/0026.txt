@@ -1,0 +1,4 @@
+hop to the left # 0.0 # 1.17 # legs # spine
+hop to the left while look right # 1.17 # 6.32 # head # legs # spine
+hop to the left # 6.32 # 7.22 # legs # spine
+look left # 7.22 # 13.86 # head

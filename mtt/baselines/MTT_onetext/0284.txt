@@ -1,0 +1,1 @@
+jump forward and then walk in a circle counterclockwise while look left # 0.0 # 9.8 # head # legs # spine

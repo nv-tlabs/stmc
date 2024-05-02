@@ -1,0 +1,4 @@
+jump backward # 0.0 # 8.49 # legs # spine
+low kick with the left foot # 8.49 # 8.59 # legs
+low kick with the left foot while touches back of head with left hand # 8.59 # 15.14 # head # left arm # legs
+low kick with the left foot # 15.14 # 15.16 # legs

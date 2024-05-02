@@ -1,0 +1,4 @@
+walk in a quarter circle to the right # 0.0 # 4.87 # legs
+pick something with the right hand # 4.87 # 5.68 # legs # right arm # spine
+pick something with the right hand while raise the left arm # 5.68 # 10.42 # left arm # legs # right arm # spine
+pick something with the right hand # 10.42 # 10.52 # legs # right arm # spine

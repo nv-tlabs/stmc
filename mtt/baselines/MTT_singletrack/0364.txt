@@ -1,0 +1,4 @@
+sit down # 0.0 # 0.27 # legs # spine
+sit down while eat something with the right arm # 0.27 # 6.15 # head # legs # right arm # spine
+sit down # 6.15 # 6.72 # legs # spine
+pick something with the left hand # 6.72 # 11.67 # left arm # legs # spine

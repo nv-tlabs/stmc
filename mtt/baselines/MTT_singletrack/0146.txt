@@ -1,0 +1,4 @@
+jump backward # 0.0 # 6.03 # legs # spine
+eat something with the left arm # 6.03 # 6.05 # head # left arm
+eat something with the left arm while walk backwards # 6.05 # 11.32 # head # left arm # legs
+eat something with the left arm # 11.32 # 11.81 # head # left arm

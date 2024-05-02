@@ -1,0 +1,4 @@
+hop to the left # 0.0 # 0.21 # legs # spine
+hop to the left while play the violin # 0.21 # 5.27 # left arm # legs # right arm # spine
+hop to the left # 5.27 # 8.55 # legs # spine
+walk in a circle clockwise # 8.55 # 14.74 # legs

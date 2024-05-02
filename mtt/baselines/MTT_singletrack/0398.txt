@@ -1,0 +1,4 @@
+raise both arms in the air # 0.0 # 0.14 # left arm # right arm
+raise both arms in the air while quickly walk forwards # 0.14 # 4.43 # left arm # legs # right arm
+raise both arms in the air # 4.43 # 5.34 # left arm # right arm
+slowly walk backwards # 5.34 # 12.25 # legs

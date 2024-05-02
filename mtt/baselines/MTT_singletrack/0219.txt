@@ -1,0 +1,4 @@
+turn left # 0.0 # 6.39 # legs
+walk in a circle counterclockwise # 6.39 # 9.09 # legs
+walk in a circle counterclockwise while look right # 9.09 # 13.26 # head # legs
+walk in a circle counterclockwise # 13.26 # 13.66 # legs

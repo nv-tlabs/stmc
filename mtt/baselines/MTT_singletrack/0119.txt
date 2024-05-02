@@ -1,0 +1,4 @@
+dodge a hit to his head # 0.0 # 5.34 # head # spine
+touches back of head with left hand # 5.34 # 5.55 # head # left arm
+touches back of head with left hand while hop to the left # 5.55 # 10.76 # head # left arm # legs # spine
+touches back of head with left hand # 10.76 # 11.34 # head # left arm

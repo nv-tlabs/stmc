@@ -1,0 +1,4 @@
+drink with the right arm # 0.0 # 0.31 # head # right arm
+drink with the right arm while pick something with the left hand # 0.31 # 4.9 # head # left arm # legs # right arm # spine
+drink with the right arm # 4.9 # 7.01 # head # right arm
+perform a squat # 7.01 # 11.7 # legs # spine

@@ -1,0 +1,4 @@
+play golf # 0.0 # 5.96 # head # left arm # legs # right arm # spine
+quickly walk forwards # 5.96 # 6.01 # legs
+quickly walk forwards while touches back of head with right hand # 6.01 # 11.3 # head # legs # right arm
+quickly walk forwards # 11.3 # 11.59 # legs

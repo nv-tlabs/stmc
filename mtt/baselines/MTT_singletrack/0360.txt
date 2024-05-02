@@ -1,0 +1,4 @@
+jump backward # 0.0 # 4.18 # legs # spine
+walk in a quarter circle to the left # 4.18 # 4.71 # legs
+walk in a quarter circle to the left while applause # 4.71 # 9.21 # left arm # legs # right arm
+walk in a quarter circle to the left # 9.21 # 10.05 # legs

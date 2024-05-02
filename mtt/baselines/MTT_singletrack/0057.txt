@@ -1,0 +1,4 @@
+walk in a circle clockwise # 0.0 # 0.18 # legs
+walk in a circle clockwise while touches back of head with left hand # 0.18 # 6.55 # head # left arm # legs
+walk in a circle clockwise # 6.55 # 6.64 # legs
+point with his left hand # 6.64 # 14.23 # left arm

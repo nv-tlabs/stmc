@@ -1,0 +1,3 @@
+turn left # 0.0 # 3.63 # legs
+point with his right hand # 3.63 # 10.25 # right arm
+look left # 4.65 # 9.86 # head

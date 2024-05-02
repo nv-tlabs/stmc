@@ -1,0 +1,4 @@
+pick something with the left hand # 0.0 # 5.73 # left arm # legs # spine
+play the guitar # 5.73 # 6.25 # left arm # right arm
+play the guitar while bow # 6.25 # 11.03 # head # left arm # right arm # spine
+play the guitar # 11.03 # 11.82 # left arm # right arm

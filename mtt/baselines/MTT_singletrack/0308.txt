@@ -1,0 +1,4 @@
+turn right # 0.0 # 0.95 # legs
+turn right while eat something with the right arm # 0.95 # 4.63 # head # legs # right arm
+turn right # 4.63 # 5.28 # legs
+walk in a quarter circle to the left # 5.28 # 11.18 # legs

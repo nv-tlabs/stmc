@@ -1,0 +1,3 @@
+raise the left arm # 0.0 # 5.05 # left arm
+walk forwards # 5.05 # 11.71 # legs
+drink with the right arm # 5.93 # 11.29 # head # right arm

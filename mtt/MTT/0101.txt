@@ -1,0 +1,3 @@
+turn left # 0.0 # 5.24 # legs
+turn 180 degrees to the left on the right foot # 5.24 # 13.01 # legs
+bow # 5.27 # 11.62 # head # spine

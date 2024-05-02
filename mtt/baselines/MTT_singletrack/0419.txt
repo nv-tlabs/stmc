@@ -1,0 +1,3 @@
+low kick with the right foot while play the guitar # 0.0 # 7.7 # left arm # legs # right arm
+low kick with the right foot # 7.7 # 7.8 # legs
+throw something with left hand # 7.8 # 13.86 # left arm

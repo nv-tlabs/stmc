@@ -1,0 +1,4 @@
+play the violin # 0.0 # 0.18 # left arm # right arm
+play the violin while bow # 0.18 # 6.52 # head # left arm # right arm # spine
+play the violin # 6.52 # 7.44 # left arm # right arm
+run # 7.44 # 11.44 # legs

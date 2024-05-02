@@ -1,0 +1,4 @@
+quickly walk backwards # 0.0 # 0.02 # legs
+quickly walk backwards while point with his right hand # 0.02 # 4.8 # legs # right arm
+quickly walk backwards # 4.8 # 5.52 # legs
+slowly walk backwards # 5.52 # 12.59 # legs

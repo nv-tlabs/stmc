@@ -1,0 +1,4 @@
+throw something with left hand # 0.0 # 0.63 # left arm
+throw something with left hand while eat something with the right arm # 0.63 # 5.2 # head # left arm # right arm
+throw something with left hand # 5.2 # 6.26 # left arm
+low kick with the left foot # 6.26 # 13.49 # legs

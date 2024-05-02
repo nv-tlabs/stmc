@@ -1,0 +1,4 @@
+pick something with the left hand # 0.0 # 0.26 # left arm # legs # spine
+pick something with the left hand while drink with the right arm # 0.26 # 5.88 # head # left arm # legs # right arm # spine
+pick something with the left hand # 5.88 # 6.25 # left arm # legs # spine
+jumping jacks # 6.25 # 11.84 # left arm # legs # right arm # spine

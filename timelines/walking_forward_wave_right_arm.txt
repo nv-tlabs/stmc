@@ -1,0 +1,2 @@
+walking forward # 0.0 # 7.0 # legs
+wave the right hand # 3.0 # 5.0 # right arm

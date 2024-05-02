@@ -1,0 +1,4 @@
+slowly walk backwards # 0.0 # 5.58 # legs
+drink with the right arm # 5.58 # 7.2 # head # right arm
+drink with the right arm while throw something with left hand # 7.2 # 12.72 # head # left arm # right arm
+drink with the right arm # 12.72 # 13.02 # head # right arm

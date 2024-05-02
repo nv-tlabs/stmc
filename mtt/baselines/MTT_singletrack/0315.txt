@@ -1,0 +1,4 @@
+raise the left arm # 0.0 # 0.26 # left arm
+raise the left arm while punch with the right hand # 0.26 # 7.25 # left arm # right arm
+high kick with the left foot while punch with the right hand # 7.25 # 8.28 # legs # right arm
+high kick with the left foot # 8.28 # 12.33 # legs

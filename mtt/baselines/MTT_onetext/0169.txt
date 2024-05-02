@@ -1,0 +1,1 @@
+pick something with the left hand and then jogs forwards while raise the right arm # 0.0 # 9.8 # left arm # legs # right arm # spine

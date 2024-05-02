@@ -1,0 +1,3 @@
+walk backwards # 0.0 # 5.5 # legs
+walk in a circle clockwise # 5.5 # 10.62 # legs
+touches back of head with left hand # 3.33 # 9.09 # head # left arm

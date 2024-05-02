@@ -1,0 +1,4 @@
+jumping jacks # 0.0 # 7.18 # left arm # legs # right arm # spine
+jump forward # 7.18 # 8.02 # legs # spine
+jump forward while throw something with right hand # 8.02 # 11.5 # legs # right arm # spine
+jump forward # 11.5 # 12.95 # legs # spine

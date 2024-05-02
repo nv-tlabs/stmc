@@ -1,0 +1,4 @@
+walk in a quarter circle to the left # 0.0 # 0.79 # legs
+walk in a quarter circle to the left while bow # 0.79 # 3.81 # head # legs # spine
+walk in a quarter circle to the left # 3.81 # 5.62 # legs
+talk on phone with right hand # 5.62 # 12.02 # head # right arm

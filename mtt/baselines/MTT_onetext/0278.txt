@@ -1,0 +1,1 @@
+walk in a quarter circle to the left and then jogs forwards while talk on phone with left hand # 0.0 # 9.8 # head # left arm # legs

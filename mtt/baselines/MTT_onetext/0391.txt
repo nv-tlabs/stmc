@@ -1,0 +1,1 @@
+pick something with the right hand and then jump forward while point with his left hand # 0.0 # 9.07 # left arm # legs # right arm # spine

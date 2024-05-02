@@ -1,0 +1,4 @@
+look left # 0.0 # 5.73 # head
+throw something with right hand # 5.73 # 7.36 # right arm
+throw something with right hand while hop to the right # 7.36 # 13.06 # legs # right arm # spine
+throw something with right hand # 13.06 # 13.53 # right arm

@@ -1,0 +1,3 @@
+jump forward # 0.0 # 6.47 # legs # spine
+walk forwards # 6.47 # 15.59 # legs
+play the violin # 8.84 # 15.37 # left arm # right arm

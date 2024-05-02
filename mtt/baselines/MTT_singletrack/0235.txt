@@ -1,0 +1,4 @@
+sit down # 0.0 # 7.75 # legs # spine
+jump backward # 7.75 # 7.79 # legs # spine
+jump backward while look left # 7.79 # 14.35 # head # legs # spine
+jump backward # 14.35 # 14.38 # legs # spine

@@ -1,0 +1,1 @@
+walk in a quarter circle to the right and then pick something with the right hand while punch with the left hand # 0.0 # 9.8 # left arm # legs # right arm # spine

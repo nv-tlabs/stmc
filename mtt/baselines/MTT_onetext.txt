@@ -1,0 +1,1000 @@
+pick something with the right hand and then walk backwards while wave with the left hand # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+talk on phone with right hand and then jump backward while wipe with the left hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+low kick with the left foot and then turn 180 degrees to the left on the right foot while dodge a hit to his head # 0.0 # 8.42 # head # legs # spine
+
+hop to the right and then touches back of head with right hand while point with his right hand # 0.0 # 9.8 # head # legs # right arm # spine
+
+perform a squat and then bow while turn 180 degrees to the left on the left foot # 0.0 # 9.8 # head # legs # spine
+
+quickly walk forwards and then jump forward while look right # 0.0 # 9.8 # head # legs # spine
+
+walk in a quarter circle to the left and then talk on phone with right hand while bow # 0.0 # 9.8 # head # legs # right arm # spine
+
+quickly walk backwards and then punch with the right hand while throw something with left hand # 0.0 # 9.8 # left arm # legs # right arm
+
+jump forward and then jump forward while drink with the right arm # 0.0 # 9.8 # head # legs # right arm # spine
+
+high kick with the right foot and then jogs backwards while raise the left arm # 0.0 # 9.74 # left arm # legs
+
+punch with the left hand and then turn 180 degrees to the left on the right foot while eat something with the right arm # 0.0 # 9.8 # head # left arm # legs # right arm
+
+walk forwards and then dodge a hit to his head while raise both arms in the air # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+perform a squat and then hop to the right while wave with the right hand # 0.0 # 9.8 # legs # right arm # spine
+
+turn 180 degrees to the left on the left foot and then run while bow # 0.0 # 9.8 # head # legs # spine
+
+play golf and then turn right while wipe with the left hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+turn 180 degrees to the left on the left foot and then point with his right hand while look left # 0.0 # 9.8 # head # legs # right arm
+
+jogs forwards and then dodge a hit to his head while raise both arms in the air # 0.0 # 9.62 # head # left arm # legs # right arm # spine
+
+talk on phone with right hand and then perform a squat while punch with the right hand # 0.0 # 9.8 # head # legs # right arm # spine
+
+jump forward and then walk forwards while play the violin # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+touches back of head with left hand and then wave with both hands while slowly walk forwards # 0.0 # 9.8 # head # left arm # legs # right arm
+
+turn left and then play golf while wave with both hands # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+hop to the right and then touches back of head with left hand while wave with both hands # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+walk in a quarter circle to the left and then dodge a hit to his head while eat something with the right arm # 0.0 # 9.8 # head # legs # right arm # spine
+
+hop to the right and then turn 180 degrees to the left on the right foot while bow # 0.0 # 9.8 # head # legs # spine
+
+touches back of head with right hand and then sit down while punch with the left hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+jump forward and then hop to the left while look right # 0.0 # 9.8 # head # legs # spine
+
+hop to the left and then look left while look right # 0.0 # 9.8 # head # legs # spine
+
+walk in a circle counterclockwise and then perform a squat while throw something with left hand # 0.0 # 9.8 # left arm # legs # spine
+
+high kick with the left foot and then jogs forwards while look right # 0.0 # 9.8 # head # legs
+
+touches back of head with left hand and then throw something with right hand while hop to the left # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+jump forward and then jump backward while punch with the right hand # 0.0 # 9.8 # legs # right arm # spine
+
+look left and then play the violin while jump backward # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+punch with the right hand and then turn right while raise the left arm # 0.0 # 9.8 # left arm # legs # right arm
+
+perform a squat and then high kick with the right foot while touches back of head with right hand # 0.0 # 9.8 # head # legs # right arm # spine
+
+jumping jacks and then run while touches back of head with left hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+low kick with the left foot and then quickly walk backwards while drink with the right arm # 0.0 # 9.8 # head # legs # right arm
+
+pick something with the left hand and then hop to the left while touches back of head with right hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+pick something with the left hand and then quickly walk backwards while throw something with right hand # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+pick something with the right hand and then walk in a quarter circle to the left while wipe with the left hand # 0.0 # 9.48 # left arm # legs # right arm # spine
+
+low kick with the left foot and then eat something with the right arm while point with his left hand # 0.0 # 9.8 # head # left arm # legs # right arm
+
+turn 180 degrees to the left on the right foot and then raise both arms in the air while bow # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+play golf and then slowly walk backwards while touches back of head with right hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+raise the left arm and then run while wave with both hands # 0.0 # 9.8 # left arm # legs # right arm
+
+high kick with the left foot and then quickly walk backwards while wave with the right hand # 0.0 # 9.8 # legs # right arm
+
+hop to the right and then quickly walk forwards while throw something with left hand # 0.0 # 9.8 # left arm # legs # spine
+
+walk in a circle clockwise and then hop to the right while applause # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+pick something with the right hand and then low kick with the right foot while eat something with the left arm # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+touches back of head with right hand and then hop to the right while talk on phone with left hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+jumping jacks and then low kick with the left foot while raise the left arm # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+turn left and then drink with the right arm while touches back of head with left hand # 0.0 # 9.8 # head # left arm # legs # right arm
+
+eat something with the right arm and then walk in a quarter circle to the left while sit down # 0.0 # 9.8 # head # legs # right arm # spine
+
+play the guitar and then jogs forwards while eat something with the left arm # 0.0 # 9.8 # head # left arm # legs # right arm
+
+walk in a circle clockwise and then play the guitar while punch with the left hand # 0.0 # 9.8 # left arm # legs # right arm
+
+raise both arms in the air and then hop to the left while punch with the left hand # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+play the guitar and then walk forwards while slowly walk backwards # 0.0 # 9.8 # left arm # legs # right arm
+
+walk in a quarter circle to the right and then throw something with right hand while turn right # 0.0 # 9.8 # legs # right arm
+
+dodge a hit to his head and then turn right while turn 180 degrees to the left on the left foot # 0.0 # 9.8 # head # legs # spine
+
+walk in a circle clockwise and then point with his left hand while touches back of head with left hand # 0.0 # 9.8 # head # left arm # legs
+
+walk forwards and then play the violin while dodge a hit to his head # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+wipe with the right hand and then turn right while drink with the left arm # 0.0 # 9.02 # head # left arm # legs # right arm
+
+quickly walk forwards and then drink with the left arm while low kick with the left foot # 0.0 # 9.8 # head # left arm # legs
+
+jump forward and then look right while throw something with right hand # 0.0 # 9.49 # head # legs # right arm # spine
+
+pick something with the right hand and then hop to the right while eat something with the left arm # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+raise the left arm and then walk forwards while drink with the right arm # 0.0 # 9.8 # head # left arm # legs # right arm
+
+high kick with the right foot and then run while bow # 0.0 # 9.8 # head # legs # spine
+
+high kick with the right foot and then sit down while touches back of head with right hand # 0.0 # 9.8 # head # legs # right arm # spine
+
+jumping jacks and then low kick with the left foot while look left # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+run and then hop to the right while throw something with right hand # 0.0 # 9.8 # legs # right arm # spine
+
+turn left and then jogs backwards while look left # 0.0 # 9.8 # head # legs
+
+jump forward and then turn 180 degrees to the left on the left foot while eat something with the left arm # 0.0 # 9.8 # head # left arm # legs # spine
+
+slowly walk forwards and then jump forward while applause # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+perform a squat and then slowly walk backwards while talk on phone with left hand # 0.0 # 9.8 # head # left arm # legs # spine
+
+pick something with the right hand and then sit down while drink with the left arm # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+run and then jogs forwards while talk on phone with right hand # 0.0 # 9.8 # head # legs # right arm
+
+pick something with the left hand and then hop to the right while look right # 0.0 # 9.8 # head # left arm # legs # spine
+
+walk in a quarter circle to the right and then eat something with the left arm while dodge a hit to his head # 0.0 # 9.8 # head # left arm # legs # spine
+
+turn 180 degrees to the left on the right foot and then touches back of head with right hand while eat something with the left arm # 0.0 # 9.8 # head # left arm # legs # right arm
+
+turn 180 degrees to the left on the right foot and then walk in a circle clockwise while touches back of head with right hand # 0.0 # 9.8 # head # legs # right arm
+
+bow and then pick something with the left hand while point with his right hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+pick something with the left hand and then play golf while drink with the right arm # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+walk in a circle counterclockwise and then touches back of head with right hand while jump forward # 0.0 # 9.8 # head # legs # right arm # spine
+
+low kick with the right foot and then touches back of head with right hand while walk in a circle clockwise # 0.0 # 9.8 # head # legs # right arm
+
+walk forwards and then play golf while wipe with the right hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+walk in a quarter circle to the left and then perform a squat while talk on phone with right hand # 0.0 # 9.8 # head # legs # right arm # spine
+
+talk on phone with left hand and then turn 180 degrees to the left on the left foot while eat something with the left arm # 0.0 # 9.8 # head # left arm # legs
+
+pick something with the right hand and then touches back of head with right hand while touches back of head with left hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+jumping jacks and then wave with both hands while jogs forwards # 0.0 # 8.03 # left arm # legs # right arm # spine
+
+walk backwards and then high kick with the left foot while wipe with the right hand # 0.0 # 9.8 # legs # right arm
+
+hop to the left and then touches back of head with right hand while jump backward # 0.0 # 9.8 # head # legs # right arm # spine
+
+pick something with the right hand and then play golf while point with his left hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+turn right and then walk forwards while touches back of head with right hand # 0.0 # 9.8 # head # legs # right arm
+
+jogs backwards and then wipe with the left hand while punch with the right hand # 0.0 # 9.8 # left arm # legs # right arm
+
+point with his right hand and then drink with the right arm while walk in a quarter circle to the left # 0.0 # 9.8 # head # legs # right arm
+
+jogs backwards and then walk backwards while eat something with the right arm # 0.0 # 9.8 # head # legs # right arm
+
+wipe with the right hand and then quickly walk backwards while wave with the right hand # 0.0 # 9.8 # legs # right arm
+
+raise both arms in the air and then quickly walk forwards while hop to the right # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+perform a squat and then turn 180 degrees to the left on the right foot while wave with the left hand # 0.0 # 9.8 # left arm # legs # spine
+
+jogs forwards and then jogs backwards while talk on phone with left hand # 0.0 # 9.8 # head # left arm # legs
+
+perform a squat and then slowly walk backwards while talk on phone with right hand # 0.0 # 9.8 # head # legs # right arm # spine
+
+low kick with the right foot and then run while raise the left arm # 0.0 # 9.8 # left arm # legs
+
+high kick with the right foot and then hop to the right while throw something with left hand # 0.0 # 9.8 # left arm # legs # spine
+
+turn left and then turn 180 degrees to the left on the right foot while bow # 0.0 # 9.8 # head # legs # spine
+
+pick something with the right hand and then walk backwards while look right # 0.0 # 9.8 # head # legs # right arm # spine
+
+perform a squat and then hop to the left while raise the right arm # 0.0 # 9.8 # legs # right arm # spine
+
+quickly walk backwards and then walk in a circle clockwise while bow # 0.0 # 9.8 # head # legs # spine
+
+look left and then drink with the left arm while walk forwards # 0.0 # 9.8 # head # left arm # legs
+
+raise the left arm and then touches back of head with right hand while sit down # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+pick something with the left hand and then pick something with the right hand while point with his left hand # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+hop to the right and then perform a squat while raise both arms in the air # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+pick something with the left hand and then eat something with the left arm while raise the right arm # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+walk forwards and then pick something with the right hand while eat something with the left arm # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+jogs backwards and then wipe with the left hand while raise the right arm # 0.0 # 9.8 # left arm # legs # right arm
+
+walk in a quarter circle to the right and then point with his left hand while eat something with the left arm # 0.0 # 9.8 # head # left arm # legs
+
+walk in a quarter circle to the left and then hop to the left while raise both arms in the air # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+high kick with the right foot and then talk on phone with right hand while jogs backwards # 0.0 # 9.8 # head # legs # right arm
+
+walk in a circle counterclockwise and then high kick with the left foot while punch with the right hand # 0.0 # 9.8 # legs # right arm
+
+walk in a quarter circle to the left and then walk forwards while drink with the left arm # 0.0 # 9.8 # head # left arm # legs
+
+throw something with left hand and then walk in a circle clockwise while look left # 0.0 # 9.8 # head # left arm # legs
+
+high kick with the left foot and then run while throw something with left hand # 0.0 # 9.8 # left arm # legs
+
+dodge a hit to his head and then touches back of head with left hand while hop to the left # 0.0 # 9.8 # head # left arm # legs # spine
+
+punch with the left hand and then touches back of head with left hand while turn 180 degrees to the left on the left foot # 0.0 # 9.8 # head # left arm # legs
+
+pick something with the right hand and then wave with the left hand while look right # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+jumping jacks and then wave with both hands while look right # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+walk in a quarter circle to the left and then throw something with right hand while raise the left arm # 0.0 # 9.8 # left arm # legs # right arm
+
+jump backward and then quickly walk forwards while wipe with the left hand # 0.0 # 9.8 # left arm # legs # spine
+
+punch with the right hand and then high kick with the left foot while look right # 0.0 # 9.8 # head # legs # right arm
+
+raise the right arm and then play golf while slowly walk forwards # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+turn right and then walk backwards while bow # 0.0 # 9.8 # head # legs # spine
+
+hop to the left and then high kick with the right foot while touches back of head with right hand # 0.0 # 9.8 # head # legs # right arm # spine
+
+turn 180 degrees to the left on the right foot and then hop to the left while drink with the left arm # 0.0 # 9.8 # head # left arm # legs # spine
+
+slowly walk backwards and then turn left while punch with the right hand # 0.0 # 9.8 # legs # right arm
+
+jumping jacks and then bow while jogs backwards # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+slowly walk backwards and then slowly walk backwards while punch with the left hand # 0.0 # 9.8 # left arm # legs
+
+drink with the left arm and then pick something with the left hand while punch with the right hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+play golf and then quickly walk forwards while touches back of head with right hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+walk backwards and then pick something with the right hand while punch with the right hand # 0.0 # 9.8 # legs # right arm # spine
+
+slowly walk backwards and then slowly walk forwards while eat something with the right arm # 0.0 # 9.8 # head # legs # right arm
+
+talk on phone with left hand and then hop to the right while throw something with right hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+pick something with the right hand and then high kick with the left foot while drink with the left arm # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+play the guitar and then raise the right arm while walk in a quarter circle to the right # 0.0 # 9.8 # left arm # legs # right arm
+
+low kick with the left foot and then punch with the right hand while walk in a quarter circle to the right # 0.0 # 9.8 # legs # right arm
+
+play the guitar and then high kick with the right foot while sit down # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+walk forwards and then walk backwards while talk on phone with right hand # 0.0 # 9.8 # head # legs # right arm
+
+touches back of head with right hand and then touches back of head with right hand while walk in a circle counterclockwise # 0.0 # 9.8 # head # legs # right arm
+
+slowly walk backwards and then hop to the left while wave with the right hand # 0.0 # 9.8 # legs # right arm # spine
+
+pick something with the left hand and then punch with the left hand while turn right # 0.0 # 9.8 # left arm # legs # spine
+
+jump backward and then eat something with the left arm while walk backwards # 0.0 # 9.8 # head # left arm # legs # spine
+
+applause and then walk in a circle counterclockwise while look right # 0.0 # 9.8 # head # left arm # legs # right arm
+
+talk on phone with left hand and then perform a squat while high kick with the right foot # 0.0 # 9.8 # head # left arm # legs # spine
+
+turn right and then quickly walk forwards while point with his left hand # 0.0 # 9.8 # left arm # legs
+
+play the violin and then jumping jacks while sit down # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+jogs backwards and then low kick with the left foot while wave with the left hand # 0.0 # 9.8 # left arm # legs
+
+high kick with the left foot and then jogs backwards while play the violin # 0.0 # 9.8 # left arm # legs # right arm
+
+jumping jacks and then jump backward while look left # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+slowly walk backwards and then pick something with the left hand while touches back of head with right hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+play the guitar and then turn right while turn 180 degrees to the left on the left foot # 0.0 # 9.8 # left arm # legs # right arm
+
+low kick with the left foot and then eat something with the left arm while throw something with right hand # 0.0 # 9.0 # head # left arm # legs # right arm
+
+turn 180 degrees to the left on the left foot and then look left while touches back of head with right hand # 0.0 # 9.8 # head # legs # right arm
+
+pick something with the right hand and then quickly walk forwards while raise the left arm # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+high kick with the left foot and then hop to the left while raise both arms in the air # 0.0 # 9.26 # left arm # legs # right arm # spine
+
+hop to the left and then walk in a circle clockwise while play the violin # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+walk forwards and then raise the right arm while look right # 0.0 # 9.8 # head # legs # right arm
+
+wipe with the left hand and then pick something with the left hand while walk backwards # 0.0 # 9.8 # left arm # legs # spine
+
+run and then jumping jacks while punch with the right hand # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+jumping jacks and then touches back of head with right hand while turn 180 degrees to the left on the right foot # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+high kick with the left foot and then pick something with the right hand while wave with both hands # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+quickly walk forwards and then jogs backwards while eat something with the left arm # 0.0 # 9.8 # head # left arm # legs
+
+drink with the left arm and then wipe with the left hand while jump backward # 0.0 # 9.8 # head # left arm # legs # spine
+
+punch with the left hand and then low kick with the left foot while drink with the right arm # 0.0 # 9.8 # head # left arm # legs # right arm
+
+pick something with the left hand and then jogs forwards while raise the right arm # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+quickly walk forwards and then hop to the right while punch with the left hand # 0.0 # 9.8 # left arm # legs # spine
+
+run and then jumping jacks while eat something with the right arm # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+jumping jacks and then raise both arms in the air while slowly walk forwards # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+walk in a circle counterclockwise and then high kick with the right foot while punch with the right hand # 0.0 # 9.8 # legs # right arm
+
+high kick with the left foot and then jumping jacks while look right # 0.0 # 9.02 # head # left arm # legs # right arm # spine
+
+walk in a quarter circle to the left and then pick something with the right hand while wave with the left hand # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+slowly walk backwards and then walk in a quarter circle to the right while touches back of head with right hand # 0.0 # 9.8 # head # legs # right arm
+
+walk forwards and then walk in a quarter circle to the left while touches back of head with right hand # 0.0 # 9.8 # head # legs # right arm
+
+high kick with the right foot and then turn 180 degrees to the left on the right foot while punch with the left hand # 0.0 # 9.8 # left arm # legs
+
+sit down and then turn left while throw something with right hand # 0.0 # 9.8 # legs # right arm # spine
+
+run and then jogs backwards while wipe with the right hand # 0.0 # 9.8 # legs # right arm
+
+walk in a circle counterclockwise and then walk forwards while applause # 0.0 # 9.8 # left arm # legs # right arm
+
+turn 180 degrees to the left on the left foot and then low kick with the right foot while play the violin # 0.0 # 9.8 # left arm # legs # right arm
+
+low kick with the left foot and then pick something with the left hand while look left # 0.0 # 9.8 # head # left arm # legs # spine
+
+low kick with the left foot and then slowly walk forwards while punch with the left hand # 0.0 # 9.8 # left arm # legs
+
+walk in a quarter circle to the right and then pick something with the right hand while raise the left arm # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+walk backwards and then bow while eat something with the right arm # 0.0 # 8.8 # head # legs # right arm # spine
+
+hop to the right and then high kick with the right foot while look right # 0.0 # 9.8 # head # legs # spine
+
+pick something with the right hand and then turn left while raise both arms in the air # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+run and then raise both arms in the air while turn right # 0.0 # 9.8 # left arm # legs # right arm
+
+wave with the left hand and then quickly walk backwards while touches back of head with right hand # 0.0 # 9.8 # head # left arm # legs # right arm
+
+jogs forwards and then sit down while drink with the right arm # 0.0 # 9.8 # head # legs # right arm # spine
+
+quickly walk forwards and then drink with the left arm while wipe with the right hand # 0.0 # 9.8 # head # left arm # legs # right arm
+
+pick something with the left hand and then jumping jacks while drink with the right arm # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+raise the right arm and then drink with the left arm while quickly walk forwards # 0.0 # 9.8 # head # left arm # legs # right arm
+
+bow and then wipe with the right hand while high kick with the left foot # 0.0 # 9.8 # head # legs # right arm # spine
+
+touches back of head with left hand and then hop to the left while look left # 0.0 # 9.8 # head # left arm # legs # spine
+
+slowly walk forwards and then raise the left arm while walk in a circle counterclockwise # 0.0 # 9.8 # left arm # legs
+
+turn 180 degrees to the left on the left foot and then play golf while throw something with left hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+perform a squat and then walk in a quarter circle to the right while raise the right arm # 0.0 # 9.8 # legs # right arm # spine
+
+dodge a hit to his head and then touches back of head with right hand while low kick with the right foot # 0.0 # 9.8 # head # legs # right arm # spine
+
+walk in a quarter circle to the left and then jump backward while point with his right hand # 0.0 # 9.8 # legs # right arm # spine
+
+walk backwards and then turn left while look right # 0.0 # 9.8 # head # legs
+
+drink with the left arm and then dodge a hit to his head while low kick with the right foot # 0.0 # 9.21 # head # left arm # legs # spine
+
+walk forwards and then slowly walk forwards while wave with the right hand # 0.0 # 9.8 # legs # right arm
+
+low kick with the left foot and then turn left while play the violin # 0.0 # 9.8 # left arm # legs # right arm
+
+wipe with the left hand and then hop to the right while pick something with the right hand # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+low kick with the left foot and then jump backward while wave with the left hand # 0.0 # 9.8 # left arm # legs # spine
+
+walk backwards and then quickly walk backwards while look right # 0.0 # 9.8 # head # legs
+
+talk on phone with left hand and then high kick with the left foot while wave with the right hand # 0.0 # 9.8 # head # left arm # legs # right arm
+
+pick something with the left hand and then perform a squat while raise the right arm # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+jump forward and then high kick with the right foot while look right # 0.0 # 9.8 # head # legs # spine
+
+jump backward and then low kick with the left foot while touches back of head with left hand # 0.0 # 9.8 # head # left arm # legs # spine
+
+throw something with right hand and then pick something with the right hand while touches back of head with left hand # 0.0 # 9.62 # head # left arm # legs # right arm # spine
+
+play the guitar and then walk in a quarter circle to the left while raise the right arm # 0.0 # 9.8 # left arm # legs # right arm
+
+run and then hop to the right while talk on phone with right hand # 0.0 # 9.8 # head # legs # right arm # spine
+
+walk backwards and then turn left while eat something with the left arm # 0.0 # 9.8 # head # left arm # legs
+
+slowly walk backwards and then talk on phone with left hand while turn 180 degrees to the left on the left foot # 0.0 # 9.8 # head # left arm # legs
+
+slowly walk backwards and then touches back of head with right hand while raise the left arm # 0.0 # 9.8 # head # left arm # legs # right arm
+
+turn left and then walk in a circle counterclockwise while look right # 0.0 # 9.8 # head # legs
+
+walk forwards and then turn 180 degrees to the left on the right foot while look left # 0.0 # 9.8 # head # legs
+
+drink with the left arm and then low kick with the left foot while throw something with right hand # 0.0 # 9.8 # head # left arm # legs # right arm
+
+play the guitar and then low kick with the right foot while eat something with the right arm # 0.0 # 9.8 # head # left arm # legs # right arm
+
+walk in a quarter circle to the left and then dodge a hit to his head while turn right # 0.0 # 9.8 # head # legs # spine
+
+talk on phone with left hand and then hop to the right while jump backward # 0.0 # 9.8 # head # left arm # legs # spine
+
+play golf and then touches back of head with right hand while high kick with the right foot # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+jump backward and then walk in a circle clockwise while drink with the right arm # 0.0 # 9.8 # head # legs # right arm # spine
+
+bow and then jumping jacks while look right # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+eat something with the right arm and then talk on phone with right hand while wave with the left hand # 0.0 # 9.8 # head # left arm # right arm
+
+jogs forwards and then slowly walk backwards while look right # 0.0 # 9.8 # head # legs
+
+turn left and then high kick with the right foot while talk on phone with right hand # 0.0 # 9.8 # head # legs # right arm
+
+eat something with the right arm and then walk in a circle counterclockwise while wipe with the left hand # 0.0 # 9.8 # head # left arm # legs # right arm
+
+pick something with the left hand and then slowly walk forwards while talk on phone with right hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+wave with the left hand and then drink with the right arm while quickly walk forwards # 0.0 # 9.8 # head # left arm # legs # right arm
+
+jump backward and then walk in a circle clockwise while throw something with right hand # 0.0 # 9.8 # legs # right arm # spine
+
+sit down and then jump backward while look left # 0.0 # 9.8 # head # legs # spine
+
+walk in a quarter circle to the right and then pick something with the right hand while punch with the left hand # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+quickly walk backwards and then touches back of head with left hand while wipe with the right hand # 0.0 # 9.8 # head # left arm # legs # right arm
+
+hop to the right and then talk on phone with right hand while low kick with the left foot # 0.0 # 9.8 # head # legs # right arm # spine
+
+low kick with the left foot and then raise the right arm while bow # 0.0 # 9.8 # head # legs # right arm # spine
+
+pick something with the left hand and then hop to the right while look left # 0.0 # 9.8 # head # left arm # legs # spine
+
+throw something with left hand and then drink with the left arm while turn 180 degrees to the left on the right foot # 0.0 # 9.8 # head # left arm # legs
+
+play the violin and then dodge a hit to his head while run # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+quickly walk forwards and then slowly walk backwards while drink with the left arm # 0.0 # 9.8 # head # left arm # legs
+
+talk on phone with right hand and then play the guitar while walk in a circle clockwise # 0.0 # 9.8 # head # left arm # legs # right arm
+
+walk in a circle clockwise and then applause while slowly walk backwards # 0.0 # 9.8 # left arm # legs # right arm
+
+low kick with the left foot and then slowly walk forwards while raise the left arm # 0.0 # 9.8 # left arm # legs
+
+drink with the left arm and then jumping jacks while turn 180 degrees to the left on the right foot # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+high kick with the left foot and then punch with the left hand while throw something with right hand # 0.0 # 9.8 # left arm # legs # right arm
+
+high kick with the right foot and then raise the right arm while slowly walk forwards # 0.0 # 9.8 # legs # right arm
+
+perform a squat and then quickly walk backwards while raise the right arm # 0.0 # 9.8 # legs # right arm # spine
+
+high kick with the right foot and then high kick with the right foot while bow # 0.0 # 9.8 # head # legs # spine
+
+quickly walk backwards and then bow while throw something with right hand # 0.0 # 9.8 # head # legs # right arm # spine
+
+raise the right arm and then high kick with the right foot while wipe with the left hand # 0.0 # 9.8 # left arm # legs # right arm
+
+turn right and then jogs backwards while eat something with the left arm # 0.0 # 9.18 # head # left arm # legs
+
+pick something with the right hand and then quickly walk forwards while bow # 0.0 # 9.8 # head # legs # right arm # spine
+
+slowly walk backwards and then drink with the right arm while throw something with left hand # 0.0 # 9.8 # head # left arm # legs # right arm
+
+touches back of head with right hand and then play the violin while turn 180 degrees to the left on the left foot # 0.0 # 9.8 # head # left arm # legs # right arm
+
+turn left and then slowly walk forwards while point with his right hand # 0.0 # 9.8 # legs # right arm
+
+walk backwards and then drink with the left arm while drink with the right arm # 0.0 # 9.8 # head # left arm # legs # right arm
+
+walk in a circle counterclockwise and then play golf while touches back of head with right hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+play the violin and then run while bow # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+raise the right arm and then wipe with the right hand while hop to the left # 0.0 # 9.8 # legs # right arm # spine
+
+wave with both hands and then drink with the right arm while jogs forwards # 0.0 # 9.8 # head # left arm # legs # right arm
+
+pick something with the right hand and then turn right while drink with the left arm # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+quickly walk forwards and then walk backwards while point with his left hand # 0.0 # 9.8 # left arm # legs
+
+turn 180 degrees to the left on the right foot and then play the guitar while punch with the right hand # 0.0 # 9.8 # left arm # legs # right arm
+
+turn 180 degrees to the left on the left foot and then jump backward while play the guitar # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+jogs forwards and then hop to the right while wave with both hands # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+slowly walk backwards and then turn right while eat something with the left arm # 0.0 # 9.8 # head # left arm # legs
+
+low kick with the right foot and then walk backwards while raise the right arm # 0.0 # 9.8 # legs # right arm
+
+walk in a quarter circle to the left and then run while applause # 0.0 # 9.8 # left arm # legs # right arm
+
+high kick with the left foot and then punch with the right hand while jump backward # 0.0 # 9.8 # legs # right arm # spine
+
+jump forward and then low kick with the left foot while play the violin # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+walk in a quarter circle to the left and then jogs forwards while look left # 0.0 # 9.8 # head # legs
+
+turn left and then throw something with left hand while raise the left arm # 0.0 # 9.8 # left arm # legs
+
+wipe with the left hand and then dodge a hit to his head while walk in a circle counterclockwise # 0.0 # 9.8 # head # left arm # legs # spine
+
+eat something with the left arm and then throw something with right hand while high kick with the right foot # 0.0 # 9.8 # head # left arm # legs # right arm
+
+walk in a quarter circle to the left and then jogs forwards while talk on phone with left hand # 0.0 # 9.8 # head # left arm # legs
+
+walk backwards and then walk in a circle counterclockwise while throw something with right hand # 0.0 # 9.8 # legs # right arm
+
+jumping jacks and then jumping jacks while look left # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+jogs forwards and then eat something with the left arm while wipe with the left hand # 0.0 # 9.8 # head # left arm # legs
+
+turn 180 degrees to the left on the left foot and then raise the left arm while point with his right hand # 0.0 # 9.8 # left arm # legs # right arm
+
+quickly walk backwards and then bow while look left # 0.0 # 9.8 # head # legs # spine
+
+jump forward and then walk in a circle counterclockwise while look left # 0.0 # 9.8 # head # legs # spine
+
+hop to the left and then wave with both hands while quickly walk backwards # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+turn 180 degrees to the left on the left foot and then point with his right hand while punch with the left hand # 0.0 # 9.8 # left arm # legs # right arm
+
+pick something with the right hand and then drink with the right arm while throw something with left hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+walk in a quarter circle to the right and then quickly walk forwards while look left # 0.0 # 9.8 # head # legs
+
+quickly walk backwards and then slowly walk backwards while point with his right hand # 0.0 # 9.8 # legs # right arm
+
+walk in a circle clockwise and then jumping jacks while wave with the left hand # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+throw something with right hand and then wave with the left hand while sit down # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+eat something with the right arm and then jump backward while point with his left hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+raise both arms in the air and then eat something with the right arm while walk backwards # 0.0 # 9.8 # head # left arm # legs # right arm
+
+look left and then walk in a quarter circle to the left while throw something with left hand # 0.0 # 9.8 # head # left arm # legs
+
+run and then wave with both hands while jump backward # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+high kick with the left foot and then low kick with the right foot while drink with the right arm # 0.0 # 9.19 # head # legs # right arm
+
+touches back of head with right hand and then talk on phone with left hand while sit down # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+low kick with the right foot and then high kick with the right foot while wave with the left hand # 0.0 # 9.8 # left arm # legs
+
+touches back of head with right hand and then perform a squat while wave with the left hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+jump backward and then high kick with the right foot while throw something with left hand # 0.0 # 9.8 # left arm # legs # spine
+
+quickly walk backwards and then jump backward while wipe with the left hand # 0.0 # 9.8 # left arm # legs # spine
+
+high kick with the right foot and then low kick with the left foot while raise the left arm # 0.0 # 9.8 # left arm # legs
+
+talk on phone with left hand and then high kick with the left foot while wipe with the right hand # 0.0 # 9.8 # head # left arm # legs # right arm
+
+walk backwards and then jumping jacks while look right # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+walk in a quarter circle to the left and then walk in a quarter circle to the right while throw something with left hand # 0.0 # 9.8 # left arm # legs
+
+point with his right hand and then eat something with the left arm while low kick with the right foot # 0.0 # 9.8 # head # left arm # legs # right arm
+
+high kick with the left foot and then perform a squat while drink with the left arm # 0.0 # 9.8 # head # left arm # legs # spine
+
+turn right and then walk in a quarter circle to the left while eat something with the right arm # 0.0 # 9.8 # head # legs # right arm
+
+bow and then run while throw something with left hand # 0.0 # 9.8 # head # left arm # legs # spine
+
+sit down and then jumping jacks while look right # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+pick something with the right hand and then walk in a quarter circle to the right while look right # 0.0 # 9.8 # head # legs # right arm # spine
+
+drink with the right arm and then perform a squat while pick something with the left hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+jogs forwards and then jump backward while drink with the left arm # 0.0 # 9.8 # head # left arm # legs # spine
+
+jumping jacks and then eat something with the left arm while hop to the right # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+raise the left arm and then high kick with the left foot while punch with the right hand # 0.0 # 9.8 # left arm # legs # right arm
+
+wipe with the left hand and then walk in a quarter circle to the right while eat something with the right arm # 0.0 # 9.8 # head # left arm # legs # right arm
+
+turn 180 degrees to the left on the right foot and then dodge a hit to his head while raise the left arm # 0.0 # 9.8 # head # left arm # legs # spine
+
+turn right and then run while point with his left hand # 0.0 # 9.8 # left arm # legs
+
+run and then walk in a circle clockwise while throw something with right hand # 0.0 # 9.8 # legs # right arm
+
+jumping jacks and then touches back of head with right hand while look right # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+hop to the left and then walk in a circle clockwise while throw something with right hand # 0.0 # 9.8 # legs # right arm # spine
+
+jogs forwards and then talk on phone with left hand while look left # 0.0 # 9.8 # head # left arm # legs
+
+jumping jacks and then high kick with the right foot while look right # 0.0 # 9.72 # head # left arm # legs # right arm # spine
+
+low kick with the right foot and then turn 180 degrees to the left on the left foot while talk on phone with right hand # 0.0 # 9.8 # head # legs # right arm
+
+low kick with the right foot and then hop to the right while talk on phone with left hand # 0.0 # 9.8 # head # left arm # legs # spine
+
+slowly walk backwards and then jumping jacks while point with his right hand # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+low kick with the right foot and then sit down while applause # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+pick something with the left hand and then walk backwards while wave with the right hand # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+jogs backwards and then walk in a circle clockwise while point with his right hand # 0.0 # 9.8 # legs # right arm
+
+walk in a quarter circle to the right and then sit down while drink with the right arm # 0.0 # 9.8 # head # legs # right arm # spine
+
+play golf and then quickly walk forwards while raise the left arm # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+walk in a circle counterclockwise and then touches back of head with left hand while hop to the left # 0.0 # 9.8 # head # left arm # legs # spine
+
+look left and then throw something with right hand while hop to the right # 0.0 # 9.8 # head # legs # right arm # spine
+
+wipe with the left hand and then raise both arms in the air while bow # 0.0 # 9.8 # head # left arm # right arm # spine
+
+low kick with the left foot and then high kick with the right foot while talk on phone with right hand # 0.0 # 9.8 # head # legs # right arm
+
+sit down and then turn right while play the violin # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+play the guitar and then play the violin while slowly walk backwards # 0.0 # 9.8 # left arm # legs # right arm
+
+jumping jacks and then turn right while raise both arms in the air # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+pick something with the left hand and then jumping jacks while look left # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+drink with the right arm and then eat something with the left arm while high kick with the left foot # 0.0 # 9.8 # head # left arm # legs # right arm
+
+punch with the right hand and then hop to the right while slowly walk forwards # 0.0 # 9.8 # legs # right arm # spine
+
+jump forward and then turn left while play the guitar # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+walk forwards and then slowly walk forwards while point with his left hand # 0.0 # 9.8 # left arm # legs
+
+throw something with left hand and then low kick with the left foot while eat something with the right arm # 0.0 # 9.8 # head # left arm # legs # right arm
+
+punch with the right hand and then run while wipe with the left hand # 0.0 # 9.8 # left arm # legs # right arm
+
+sit down and then slowly walk backwards while look right # 0.0 # 9.8 # head # legs # spine
+
+perform a squat and then talk on phone with right hand while low kick with the right foot # 0.0 # 9.8 # head # legs # right arm # spine
+
+quickly walk forwards and then wipe with the left hand while punch with the right hand # 0.0 # 9.8 # left arm # legs # right arm
+
+touches back of head with left hand and then walk in a quarter circle to the right while punch with the right hand # 0.0 # 9.8 # head # left arm # legs # right arm
+
+throw something with right hand and then pick something with the right hand while wave with the left hand # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+quickly walk backwards and then turn 180 degrees to the left on the right foot while touches back of head with right hand # 0.0 # 9.8 # head # legs # right arm
+
+eat something with the right arm and then drink with the left arm while quickly walk forwards # 0.0 # 9.8 # head # left arm # legs # right arm
+
+play the violin and then walk in a circle counterclockwise while wave with the right hand # 0.0 # 9.8 # left arm # legs # right arm
+
+jump backward and then eat something with the right arm while point with his left hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+walk in a circle counterclockwise and then low kick with the left foot while punch with the right hand # 0.0 # 9.8 # legs # right arm
+
+applause and then run while raise both arms in the air # 0.0 # 9.8 # left arm # legs # right arm
+
+jump backward and then hop to the right while raise the right arm # 0.0 # 9.8 # legs # right arm # spine
+
+eat something with the left arm and then pick something with the right hand while wave with the left hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+turn right and then turn 180 degrees to the left on the right foot while punch with the left hand # 0.0 # 9.8 # left arm # legs
+
+jump backward and then walk in a quarter circle to the left while applause # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+pick something with the right hand and then pick something with the left hand while look right # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+turn right and then play the violin while look left # 0.0 # 9.8 # head # left arm # legs # right arm
+
+turn left and then pick something with the right hand while touches back of head with right hand # 0.0 # 9.61 # head # legs # right arm # spine
+
+sit down and then pick something with the left hand while eat something with the right arm # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+jump backward and then jumping jacks while look left # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+low kick with the right foot and then quickly walk backwards while wave with the left hand # 0.0 # 9.8 # left arm # legs
+
+eat something with the right arm and then high kick with the left foot while pick something with the left hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+jump forward and then walk in a circle clockwise while wipe with the right hand # 0.0 # 9.8 # legs # right arm # spine
+
+walk in a circle clockwise and then jogs forwards while bow # 0.0 # 9.69 # head # legs # spine
+
+high kick with the left foot and then jogs backwards while raise the left arm # 0.0 # 9.8 # left arm # legs
+
+walk backwards and then dodge a hit to his head while wave with the right hand # 0.0 # 9.8 # head # legs # right arm # spine
+
+wipe with the right hand and then walk backwards while wave with the left hand # 0.0 # 9.8 # left arm # legs # right arm
+
+turn right and then low kick with the left foot while punch with the left hand # 0.0 # 9.8 # left arm # legs
+
+low kick with the right foot and then bow while wave with the right hand # 0.0 # 9.8 # head # legs # right arm # spine
+
+look right and then play the violin while jump backward # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+bow and then turn left while dodge a hit to his head # 0.0 # 9.8 # head # legs # spine
+
+touches back of head with right hand and then turn left while throw something with left hand # 0.0 # 9.8 # head # left arm # legs # right arm
+
+pick something with the right hand and then hop to the right while look left # 0.0 # 9.8 # head # legs # right arm # spine
+
+walk backwards and then walk in a quarter circle to the left while raise the right arm # 0.0 # 9.8 # legs # right arm
+
+touches back of head with left hand and then dodge a hit to his head while walk backwards # 0.0 # 9.8 # head # left arm # legs # spine
+
+turn left and then look right while raise the right arm # 0.0 # 9.8 # head # legs # right arm
+
+dodge a hit to his head and then bow while punch with the right hand # 0.0 # 9.8 # head # right arm # spine
+
+jump backward and then sit down while play the guitar # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+touches back of head with right hand and then walk in a quarter circle to the right while walk in a quarter circle to the left # 0.0 # 9.8 # head # legs # right arm
+
+run and then slowly walk forwards while point with his right hand # 0.0 # 9.14 # legs # right arm
+
+quickly walk forwards and then throw something with left hand while look right # 0.0 # 9.8 # head # left arm # legs
+
+talk on phone with right hand and then drink with the left arm while perform a squat # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+quickly walk backwards and then low kick with the left foot while wave with the left hand # 0.0 # 9.8 # left arm # legs
+
+wipe with the left hand and then play golf while walk in a quarter circle to the left # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+walk in a circle counterclockwise and then play the guitar while jump backward # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+pick something with the right hand and then jump forward while point with his left hand # 0.0 # 9.07 # left arm # legs # right arm # spine
+
+jump forward and then turn 180 degrees to the left on the left foot while throw something with right hand # 0.0 # 9.8 # legs # right arm # spine
+
+walk backwards and then raise the left arm while talk on phone with right hand # 0.0 # 9.8 # head # left arm # legs # right arm
+
+point with his right hand and then walk in a circle clockwise while walk in a circle counterclockwise # 0.0 # 9.8 # legs # right arm
+
+high kick with the left foot and then sit down while play the guitar # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+turn right and then walk in a circle counterclockwise while wave with both hands # 0.0 # 9.8 # left arm # legs # right arm
+
+sit down and then jumping jacks while look right # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+raise both arms in the air and then slowly walk backwards while quickly walk forwards # 0.0 # 9.8 # left arm # legs # right arm
+
+high kick with the right foot and then walk backwards while point with his left hand # 0.0 # 9.21 # left arm # legs
+
+walk backwards and then low kick with the left foot while look right # 0.0 # 9.8 # head # legs
+
+point with his left hand and then touches back of head with right hand while point with his right hand # 0.0 # 9.8 # head # left arm # right arm
+
+eat something with the left arm and then hop to the right while wipe with the right hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+applause and then turn 180 degrees to the left on the right foot while throw something with right hand # 0.0 # 9.42 # left arm # legs # right arm
+
+point with his right hand and then wave with the right hand while quickly walk backwards # 0.0 # 9.8 # legs # right arm
+
+talk on phone with right hand and then high kick with the left foot while walk in a circle counterclockwise # 0.0 # 9.8 # head # legs # right arm
+
+walk in a quarter circle to the left and then hop to the left while raise the right arm # 0.0 # 9.8 # legs # right arm # spine
+
+turn left and then jump backward while point with his right hand # 0.0 # 9.8 # legs # right arm # spine
+
+run and then slowly walk forwards while talk on phone with left hand # 0.0 # 9.59 # head # left arm # legs
+
+turn left and then point with his right hand while look left # 0.0 # 9.8 # head # legs # right arm
+
+walk in a quarter circle to the right and then raise the left arm while jump backward # 0.0 # 9.8 # left arm # legs # spine
+
+low kick with the right foot and then turn left while touches back of head with right hand # 0.0 # 9.8 # head # legs # right arm
+
+pick something with the right hand and then turn 180 degrees to the left on the left foot while raise the left arm # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+walk in a circle clockwise and then quickly walk forwards while look right # 0.0 # 9.8 # head # legs
+
+hop to the left and then pick something with the left hand while wave with the right hand # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+high kick with the left foot and then wave with the right hand while drink with the right arm # 0.0 # 9.8 # head # legs # right arm
+
+point with his left hand and then jogs backwards while drink with the left arm # 0.0 # 9.8 # head # left arm # legs
+
+pick something with the left hand and then play golf while look right # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+pick something with the left hand and then wipe with the left hand while raise the right arm # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+low kick with the right foot and then throw something with left hand while play the guitar # 0.0 # 9.8 # left arm # legs # right arm
+
+high kick with the left foot and then drink with the right arm while throw something with left hand # 0.0 # 9.8 # head # left arm # legs # right arm
+
+walk in a circle counterclockwise and then walk in a quarter circle to the right while eat something with the left arm # 0.0 # 9.8 # head # left arm # legs
+
+touches back of head with right hand and then turn 180 degrees to the left on the left foot while point with his left hand # 0.0 # 9.8 # head # left arm # legs # right arm
+
+play the violin and then sit down while look left # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+play the guitar and then perform a squat while turn right # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+slowly walk backwards and then turn 180 degrees to the left on the right foot while touches back of head with right hand # 0.0 # 9.8 # head # legs # right arm
+
+wave with both hands and then quickly walk forwards while raise the left arm # 0.0 # 9.8 # left arm # legs # right arm
+
+wave with both hands and then drink with the left arm while slowly walk forwards # 0.0 # 9.8 # head # left arm # legs # right arm
+
+low kick with the left foot and then high kick with the left foot while throw something with left hand # 0.0 # 9.8 # left arm # legs
+
+turn right and then pick something with the right hand while drink with the left arm # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+sit down and then look left while punch with the left hand # 0.0 # 8.69 # head # left arm # legs # spine
+
+jump backward and then hop to the right while talk on phone with right hand # 0.0 # 9.8 # head # legs # right arm # spine
+
+jumping jacks and then jump backward while look left # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+look left and then quickly walk forwards while walk forwards # 0.0 # 9.8 # head # legs
+
+jumping jacks and then talk on phone with left hand while look right # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+hop to the left and then jogs forwards while play the guitar # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+high kick with the left foot and then wipe with the right hand while drink with the left arm # 0.0 # 9.8 # head # left arm # legs # right arm
+
+walk in a quarter circle to the left and then jogs backwards while raise the left arm # 0.0 # 9.8 # left arm # legs
+
+walk backwards and then turn 180 degrees to the left on the right foot while wave with the right hand # 0.0 # 9.8 # legs # right arm
+
+bow and then run while drink with the left arm # 0.0 # 9.8 # head # left arm # legs # spine
+
+jumping jacks and then eat something with the right arm while look left # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+touches back of head with left hand and then eat something with the left arm while point with his right hand # 0.0 # 9.8 # head # left arm # right arm
+
+walk in a quarter circle to the left and then quickly walk forwards while eat something with the right arm # 0.0 # 9.8 # head # legs # right arm
+
+quickly walk forwards and then jump backward while drink with the left arm # 0.0 # 9.8 # head # left arm # legs # spine
+
+touches back of head with left hand and then point with his left hand while high kick with the left foot # 0.0 # 9.8 # head # left arm # legs
+
+low kick with the right foot and then jump backward while talk on phone with right hand # 0.0 # 9.8 # head # legs # right arm # spine
+
+touches back of head with right hand and then dodge a hit to his head while high kick with the right foot # 0.0 # 9.8 # head # legs # right arm # spine
+
+turn left and then turn 180 degrees to the left on the right foot while look right # 0.0 # 9.8 # head # legs
+
+wave with the right hand and then pick something with the right hand while drink with the left arm # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+walk in a quarter circle to the left and then perform a squat while play the guitar # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+raise the left arm and then high kick with the right foot while look right # 0.0 # 9.8 # head # left arm # legs
+
+walk backwards and then jump forward while raise the left arm # 0.0 # 9.4 # left arm # legs # spine
+
+perform a squat and then walk in a quarter circle to the right while touches back of head with right hand # 0.0 # 9.8 # head # legs # right arm # spine
+
+walk backwards and then turn left while wave with both hands # 0.0 # 9.46 # left arm # legs # right arm
+
+wipe with the right hand and then quickly walk backwards while punch with the left hand # 0.0 # 9.8 # left arm # legs # right arm
+
+hop to the left and then walk forwards while talk on phone with left hand # 0.0 # 9.8 # head # left arm # legs # spine
+
+high kick with the left foot and then jump backward while play the violin # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+touches back of head with left hand and then look left while run # 0.0 # 9.8 # head # left arm # legs
+
+turn 180 degrees to the left on the left foot and then drink with the right arm while look right # 0.0 # 9.8 # head # legs # right arm
+
+wipe with the right hand and then punch with the right hand while pick something with the left hand # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+pick something with the left hand and then high kick with the left foot while play the guitar # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+turn 180 degrees to the left on the right foot and then low kick with the right foot while wave with both hands # 0.0 # 9.8 # left arm # legs # right arm
+
+high kick with the right foot and then turn 180 degrees to the left on the left foot while talk on phone with right hand # 0.0 # 9.8 # head # legs # right arm
+
+quickly walk backwards and then pick something with the left hand while drink with the right arm # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+talk on phone with right hand and then low kick with the left foot while play the guitar # 0.0 # 9.8 # head # left arm # legs # right arm
+
+walk forwards and then turn left while play the violin # 0.0 # 9.8 # left arm # legs # right arm
+
+perform a squat and then play the violin while drink with the left arm # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+walk in a quarter circle to the right and then eat something with the right arm while wipe with the left hand # 0.0 # 9.8 # head # left arm # legs # right arm
+
+pick something with the left hand and then raise the left arm while eat something with the right arm # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+wave with the right hand and then perform a squat while slowly walk forwards # 0.0 # 9.8 # legs # right arm # spine
+
+talk on phone with right hand and then walk in a quarter circle to the right while raise the left arm # 0.0 # 9.8 # head # left arm # legs # right arm
+
+walk in a circle clockwise and then turn right while raise both arms in the air # 0.0 # 9.8 # left arm # legs # right arm
+
+pick something with the left hand and then play the guitar while bow # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+walk in a circle clockwise and then quickly walk forwards while look left # 0.0 # 9.8 # head # legs
+
+jump backward and then sit down while play the guitar # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+play golf and then hop to the right while point with his right hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+turn 180 degrees to the left on the left foot and then jump forward while drink with the left arm # 0.0 # 9.8 # head # left arm # legs # spine
+
+play the violin and then walk backwards while walk in a quarter circle to the right # 0.0 # 9.8 # left arm # legs # right arm
+
+jump forward and then point with his left hand while eat something with the right arm # 0.0 # 9.8 # head # left arm # legs # right arm # spine
+
+walk backwards and then jumping jacks while look left # 0.0 # 9.57 # head # left arm # legs # right arm # spine
+
+walk backwards and then wipe with the left hand while throw something with right hand # 0.0 # 9.8 # left arm # legs # right arm
+
+jump forward and then pick something with the right hand while throw something with left hand # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+turn 180 degrees to the left on the right foot and then wave with the left hand while look right # 0.0 # 9.8 # head # left arm # legs
+
+talk on phone with left hand and then hop to the left while eat something with the left arm # 0.0 # 9.8 # head # left arm # legs # spine
+
+sit down and then slowly walk forwards while look right # 0.0 # 9.8 # head # legs # spine
+
+hop to the right and then low kick with the right foot while applause # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+jump backward and then play the guitar while raise the right arm # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+throw something with left hand and then jogs forwards while talk on phone with right hand # 0.0 # 9.8 # head # left arm # legs # right arm
+
+low kick with the right foot and then point with his left hand while pick something with the right hand # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+drink with the left arm and then touches back of head with left hand while wave with the right hand # 0.0 # 9.8 # head # left arm # right arm
+
+quickly walk forwards and then slowly walk backwards while raise both arms in the air # 0.0 # 9.8 # left arm # legs # right arm
+
+jumping jacks and then jump forward while throw something with right hand # 0.0 # 9.8 # left arm # legs # right arm # spine
+
+touches back of head with right hand and then touches back of head with left hand while walk backwards # 0.0 # 9.8 # head # left arm # legs # right arm
+
+high kick with the left foot and then talk on phone with right hand while raise the left arm # 0.0 # 9.8 # head # left arm # legs # right arm
+
+walk backwards and then quickly walk forwards while wipe with the right hand # 0.0 # 9.8 # legs # right arm
+
+jogs backwards and then walk in a quarter circle to the right while punch with the right hand # 0.0 # 9.8 # legs # right arm
+
+walk backwards and then walk in a circle clockwise while touches back of head with left hand # 0.0 # 9.8 # head # left arm # legs
+
+high kick with the right foot and then quickly walk forwards while wipe with the left hand # 0.0 # 9.8 # left arm # legs
+
+low kick with the left foot and then slowly walk backwards while raise the left arm # 0.0 # 9.8 # left arm # legs
+
+touches back of head with right hand and then raise the left arm while bow # 0.0 # 9.8 # head # left arm # right arm # spine
+

@@ -1,0 +1,3 @@
+turn 180 degrees to the left on the right foot # 0.0 # 5.9 # legs
+walk in a circle clockwise # 5.9 # 11.68 # legs
+touches back of head with right hand # 0.77 # 5.66 # head # right arm

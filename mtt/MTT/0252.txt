@@ -1,0 +1,3 @@
+quickly walk backwards # 0.0 # 7.36 # legs
+bow # 7.36 # 14.68 # head # spine
+throw something with right hand # 0.67 # 6.67 # right arm

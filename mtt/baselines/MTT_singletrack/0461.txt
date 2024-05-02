@@ -1,0 +1,4 @@
+turn 180 degrees to the left on the right foot # 0.0 # 4.46 # legs
+low kick with the right foot # 4.46 # 5.51 # legs
+low kick with the right foot while wave with both hands # 5.51 # 9.69 # left arm # legs # right arm
+low kick with the right foot # 9.69 # 12.29 # legs

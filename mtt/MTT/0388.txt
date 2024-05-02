@@ -1,0 +1,3 @@
+quickly walk backwards # 0.0 # 7.8 # legs
+low kick with the left foot # 7.8 # 13.54 # legs
+wave with the left hand # 0.15 # 7.74 # left arm

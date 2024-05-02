@@ -1,0 +1,4 @@
+walk forwards # 0.0 # 0.5 # legs
+walk forwards while talk on phone with right hand # 0.5 # 6.89 # head # legs # right arm
+walk backwards while talk on phone with right hand # 6.89 # 8.03 # head # legs # right arm
+walk backwards # 8.03 # 11.62 # legs

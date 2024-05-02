@@ -1,0 +1,4 @@
+quickly walk forwards # 0.0 # 0.69 # legs
+quickly walk forwards while punch with the right hand # 0.69 # 7.09 # legs # right arm
+quickly walk forwards # 7.09 # 7.18 # legs
+wipe with the left hand # 7.18 # 13.48 # left arm

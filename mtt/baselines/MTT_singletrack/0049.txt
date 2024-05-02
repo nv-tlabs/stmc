@@ -1,0 +1,4 @@
+turn left # 0.0 # 0.24 # legs
+turn left while touches back of head with left hand # 0.24 # 4.3 # head # left arm # legs
+turn left # 4.3 # 7.9 # legs
+drink with the right arm # 7.9 # 14.36 # head # right arm

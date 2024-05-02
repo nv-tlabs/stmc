@@ -1,0 +1,4 @@
+walk forwards # 0.0 # 0.52 # legs
+walk forwards while look right # 0.52 # 6.21 # head # legs
+walk forwards # 6.21 # 6.82 # legs
+raise the right arm # 6.82 # 13.07 # right arm

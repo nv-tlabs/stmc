@@ -1,0 +1,4 @@
+perform a squat # 0.0 # 1.38 # legs # spine
+perform a squat while raise the right arm # 1.38 # 6.21 # legs # right arm # spine
+quickly walk backwards while raise the right arm # 6.21 # 8.12 # legs # right arm
+quickly walk backwards # 8.12 # 12.25 # legs

@@ -1,0 +1,3 @@
+low kick with the left foot # 0.0 # 5.05 # legs
+slowly walk forwards # 5.05 # 11.67 # legs
+punch with the left hand # 5.26 # 11.14 # left arm

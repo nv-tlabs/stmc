@@ -1,0 +1,1 @@
+jogs forwards and then hop to the right while wave with both hands # 0.0 # 9.8 # left arm # legs # right arm # spine

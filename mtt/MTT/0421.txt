@@ -1,0 +1,3 @@
+walk in a circle counterclockwise # 0.0 # 6.39 # legs
+walk in a quarter circle to the right # 6.39 # 10.25 # legs
+eat something with the left arm # 0.37 # 9.14 # head # left arm

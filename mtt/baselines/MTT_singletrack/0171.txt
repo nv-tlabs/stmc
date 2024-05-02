@@ -1,0 +1,4 @@
+run # 0.0 # 0.36 # legs
+run while eat something with the right arm # 0.36 # 3.81 # head # legs # right arm
+run # 3.81 # 6.29 # legs
+jumping jacks # 6.29 # 11.23 # left arm # legs # right arm # spine

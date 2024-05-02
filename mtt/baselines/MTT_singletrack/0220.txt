@@ -1,0 +1,4 @@
+walk forwards # 0.0 # 0.45 # legs
+walk forwards while look left # 0.45 # 5.31 # head # legs
+walk forwards # 5.31 # 5.45 # legs
+turn 180 degrees to the left on the right foot # 5.45 # 10.54 # legs

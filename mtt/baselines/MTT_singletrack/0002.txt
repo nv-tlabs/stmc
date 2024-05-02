@@ -1,0 +1,4 @@
+low kick with the left foot # 0.0 # 0.03 # legs
+low kick with the left foot while dodge a hit to his head # 0.03 # 3.73 # head # legs # spine
+low kick with the left foot # 3.73 # 3.74 # legs
+turn 180 degrees to the left on the right foot # 3.74 # 8.42 # legs

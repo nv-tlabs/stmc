@@ -1,0 +1,4 @@
+eat something with the right arm # 0.0 # 3.83 # head # right arm
+eat something with the right arm while point with his left hand # 3.83 # 7.81 # head # left arm # right arm
+jump backward while point with his left hand # 7.81 # 8.76 # left arm # legs # spine
+jump backward # 8.76 # 14.39 # legs # spine

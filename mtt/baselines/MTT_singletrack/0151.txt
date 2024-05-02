@@ -1,0 +1,4 @@
+jogs backwards # 0.0 # 4.62 # legs
+low kick with the left foot # 4.62 # 4.91 # legs
+low kick with the left foot while wave with the left hand # 4.91 # 9.77 # left arm # legs
+low kick with the left foot # 9.77 # 11.4 # legs

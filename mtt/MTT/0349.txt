@@ -1,0 +1,3 @@
+touches back of head with left hand # 0.0 # 5.19 # head # left arm
+walk in a quarter circle to the right # 5.19 # 11.38 # legs
+punch with the right hand # 5.56 # 11.35 # right arm

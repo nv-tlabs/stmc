@@ -1,0 +1,4 @@
+pick something with the right hand # 0.0 # 5.05 # legs # right arm # spine
+quickly walk forwards # 5.05 # 5.37 # legs
+quickly walk forwards while raise the left arm # 5.37 # 11.52 # left arm # legs
+quickly walk forwards # 11.52 # 12.34 # legs

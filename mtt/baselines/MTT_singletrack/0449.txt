@@ -1,0 +1,4 @@
+walk in a quarter circle to the left # 0.0 # 3.13 # legs
+walk in a quarter circle to the left while play the guitar # 3.13 # 6.27 # left arm # legs # right arm
+perform a squat while play the guitar # 6.27 # 7.97 # left arm # legs # right arm # spine
+perform a squat # 7.97 # 10.94 # legs # spine

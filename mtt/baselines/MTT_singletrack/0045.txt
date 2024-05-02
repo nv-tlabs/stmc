@@ -1,0 +1,4 @@
+walk in a circle clockwise # 0.0 # 1.87 # legs
+walk in a circle clockwise while applause # 1.87 # 8.12 # left arm # legs # right arm
+walk in a circle clockwise # 8.12 # 8.38 # legs
+hop to the right # 8.38 # 13.68 # legs # spine

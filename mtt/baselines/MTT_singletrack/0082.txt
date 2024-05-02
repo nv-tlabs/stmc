@@ -1,0 +1,4 @@
+walk forwards # 0.0 # 0.22 # legs
+walk forwards while wipe with the right hand # 0.22 # 6.15 # legs # right arm
+walk forwards # 6.15 # 6.42 # legs
+play golf # 6.42 # 12.91 # head # left arm # legs # right arm # spine

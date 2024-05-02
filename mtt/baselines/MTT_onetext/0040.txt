@@ -1,0 +1,1 @@
+turn 180 degrees to the left on the right foot and then raise both arms in the air while bow # 0.0 # 9.8 # head # left arm # legs # right arm # spine

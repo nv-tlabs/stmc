@@ -1,0 +1,4 @@
+slowly walk backwards # 0.0 # 0.7 # legs
+slowly walk backwards while point with his right hand # 0.7 # 5.51 # legs # right arm
+slowly walk backwards # 5.51 # 6.06 # legs
+jumping jacks # 6.06 # 11.42 # left arm # legs # right arm # spine

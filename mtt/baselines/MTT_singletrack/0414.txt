@@ -1,0 +1,4 @@
+hop to the left # 0.0 # 6.11 # legs # spine
+pick something with the left hand # 6.11 # 6.81 # left arm # legs # spine
+pick something with the left hand while wave with the right hand # 6.81 # 11.71 # left arm # legs # right arm # spine
+pick something with the left hand # 11.71 # 12.66 # left arm # legs # spine

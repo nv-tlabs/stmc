@@ -1,0 +1,3 @@
+run # 0.0 # 5.76 # legs
+raise both arms in the air # 5.76 # 12.63 # left arm # right arm
+turn right # 6.07 # 9.69 # legs

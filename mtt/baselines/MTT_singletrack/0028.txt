@@ -1,0 +1,4 @@
+high kick with the left foot # 0.0 # 1.04 # legs
+high kick with the left foot while look right # 1.04 # 7.75 # head # legs
+high kick with the left foot # 7.75 # 8.21 # legs
+jogs forwards # 8.21 # 11.67 # legs

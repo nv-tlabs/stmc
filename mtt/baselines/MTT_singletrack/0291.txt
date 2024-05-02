@@ -1,0 +1,4 @@
+throw something with right hand # 0.0 # 0.3 # right arm
+throw something with right hand while sit down # 0.3 # 5.77 # legs # right arm # spine
+throw something with right hand # 5.77 # 6.0 # right arm
+wave with the left hand # 6.0 # 11.1 # left arm

@@ -1,0 +1,4 @@
+walk backwards # 0.0 # 7.09 # legs
+turn 180 degrees to the left on the right foot # 7.09 # 9.47 # legs
+turn 180 degrees to the left on the right foot while wave with the right hand # 9.47 # 14.89 # legs # right arm
+turn 180 degrees to the left on the right foot # 14.89 # 15.11 # legs

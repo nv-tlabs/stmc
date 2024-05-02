@@ -1,0 +1,1 @@
+raise the left arm and then walk forwards while drink with the right arm # 0.0 # 9.8 # head # left arm # legs # right arm

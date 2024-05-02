@@ -1,0 +1,4 @@
+pick something with the right hand # 0.0 # 1.28 # legs # right arm # spine
+pick something with the right hand while throw something with left hand # 1.28 # 5.2 # left arm # legs # right arm # spine
+pick something with the right hand # 5.2 # 7.41 # legs # right arm # spine
+drink with the right arm # 7.41 # 12.34 # head # right arm

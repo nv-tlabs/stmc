@@ -1,0 +1,4 @@
+walk forwards # 0.0 # 5.05 # legs
+walk in a quarter circle to the left # 5.05 # 5.12 # legs
+walk in a quarter circle to the left while touches back of head with right hand # 5.12 # 10.74 # head # legs # right arm
+walk in a quarter circle to the left # 10.74 # 11.07 # legs

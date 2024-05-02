@@ -1,0 +1,3 @@
+run # 0.0 # 7.29 # legs
+hop to the right # 7.29 # 13.43 # legs # spine
+talk on phone with right hand # 0.25 # 4.24 # head # right arm

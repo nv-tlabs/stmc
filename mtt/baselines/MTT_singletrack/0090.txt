@@ -1,0 +1,4 @@
+turn right # 0.0 # 5.03 # legs
+walk forwards # 5.03 # 5.36 # legs
+walk forwards while touches back of head with right hand # 5.36 # 10.88 # head # legs # right arm
+walk forwards # 10.88 # 11.75 # legs

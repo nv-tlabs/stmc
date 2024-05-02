@@ -1,0 +1,2 @@
+turn left while point with his right hand # 0.0 # 7.12 # legs # right arm
+slowly walk forwards # 7.12 # 10.81 # legs

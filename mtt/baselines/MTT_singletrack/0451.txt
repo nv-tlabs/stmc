@@ -1,0 +1,4 @@
+walk backwards # 0.0 # 0.45 # legs
+walk backwards while raise the left arm # 0.45 # 3.64 # left arm # legs
+jump forward while raise the left arm # 3.64 # 6.6 # left arm # legs # spine
+jump forward # 6.6 # 9.4 # legs # spine

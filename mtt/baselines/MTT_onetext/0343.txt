@@ -1,0 +1,1 @@
+walk forwards and then slowly walk forwards while point with his left hand # 0.0 # 9.8 # left arm # legs

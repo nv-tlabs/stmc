@@ -1,0 +1,4 @@
+low kick with the right foot # 0.0 # 2.87 # legs
+low kick with the right foot while raise the right arm # 2.87 # 7.38 # legs # right arm
+walk backwards while raise the right arm # 7.38 # 9.01 # legs # right arm
+walk backwards # 9.01 # 12.35 # legs

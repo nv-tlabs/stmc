@@ -1,0 +1,4 @@
+quickly walk forwards # 0.0 # 0.22 # legs
+quickly walk forwards while drink with the left arm # 0.22 # 7.15 # head # left arm # legs
+jump backward while drink with the left arm # 7.15 # 7.55 # head # left arm # legs # spine
+jump backward # 7.55 # 10.97 # legs # spine

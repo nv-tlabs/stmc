@@ -1,0 +1,4 @@
+applause # 0.0 # 3.92 # left arm # right arm
+turn 180 degrees to the left on the right foot # 3.92 # 4.16 # legs
+turn 180 degrees to the left on the right foot while throw something with right hand # 4.16 # 9.05 # legs # right arm
+turn 180 degrees to the left on the right foot # 9.05 # 9.42 # legs

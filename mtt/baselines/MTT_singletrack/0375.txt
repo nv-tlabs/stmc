@@ -1,0 +1,4 @@
+look right # 0.0 # 5.93 # head
+play the violin # 5.93 # 7.29 # left arm # right arm
+play the violin while jump backward # 7.29 # 12.75 # left arm # legs # right arm # spine
+play the violin # 12.75 # 13.05 # left arm # right arm

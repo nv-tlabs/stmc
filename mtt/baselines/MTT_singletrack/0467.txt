@@ -1,0 +1,4 @@
+walk in a quarter circle to the right # 0.0 # 8.02 # legs
+eat something with the right arm # 8.02 # 8.69 # head # right arm
+eat something with the right arm while wipe with the left hand # 8.69 # 14.16 # head # left arm # right arm
+eat something with the right arm # 14.16 # 16.25 # head # right arm

@@ -1,0 +1,1 @@
+pick something with the right hand and then play golf while point with his left hand # 0.0 # 9.8 # head # left arm # legs # right arm # spine

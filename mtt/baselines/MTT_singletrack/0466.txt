@@ -1,0 +1,4 @@
+perform a squat # 0.0 # 1.9 # legs # spine
+perform a squat while drink with the left arm # 1.9 # 5.86 # head # left arm # legs # spine
+perform a squat # 5.86 # 6.48 # legs # spine
+play the violin # 6.48 # 11.02 # left arm # right arm

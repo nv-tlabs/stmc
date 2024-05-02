@@ -1,0 +1,3 @@
+low kick with the left foot # 0.0 # 5.64 # legs
+slowly walk backwards # 5.64 # 12.2 # legs
+raise the left arm # 2.45 # 8.52 # left arm

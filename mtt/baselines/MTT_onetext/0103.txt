@@ -1,0 +1,1 @@
+perform a squat and then hop to the left while raise the right arm # 0.0 # 9.8 # legs # right arm # spine

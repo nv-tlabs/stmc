@@ -1,0 +1,1 @@
+pick something with the right hand and then pick something with the left hand while look right # 0.0 # 9.8 # head # left arm # legs # right arm # spine

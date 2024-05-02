@@ -1,0 +1,3 @@
+perform a squat # 0.0 # 6.36 # legs # spine
+turn 180 degrees to the left on the right foot # 6.36 # 11.34 # legs
+wave with the left hand # 6.57 # 11.01 # left arm

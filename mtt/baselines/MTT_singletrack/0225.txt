@@ -1,0 +1,4 @@
+play golf # 0.0 # 4.59 # head # left arm # legs # right arm # spine
+touches back of head with right hand # 4.59 # 4.95 # head # right arm
+touches back of head with right hand while high kick with the right foot # 4.95 # 10.37 # head # legs # right arm
+touches back of head with right hand # 10.37 # 11.29 # head # right arm

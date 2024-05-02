@@ -1,0 +1,4 @@
+quickly walk backwards # 0.0 # 7.0 # legs
+punch with the right hand # 7.0 # 7.29 # right arm
+punch with the right hand while throw something with left hand # 7.29 # 13.59 # left arm # right arm
+punch with the right hand # 13.59 # 14.15 # right arm

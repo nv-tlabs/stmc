@@ -1,0 +1,4 @@
+run # 0.0 # 0.13 # legs
+run while talk on phone with left hand # 0.13 # 5.66 # head # left arm # legs
+run # 5.66 # 5.94 # legs
+slowly walk forwards # 5.94 # 9.59 # legs

@@ -59,8 +59,8 @@ WEBSITE = """
 </h2>
 
 <h3 class="centered" >
-<a target="_blank" href="https://arxiv.org/abs/XXXX.XXXXX"> <button type="button" class="btn btn-primary btn-lg"> Paper </button></a>
-<a target="_blank" href="https://github.com/XXXXXX/STMC"> <button type="button" class="btn btn-primary btn-lg"> Code </button></a>
+<a target="_blank" href="https://arxiv.org/abs/2401.08559"> <button type="button" class="btn btn-primary btn-lg"> Paper </button></a>
+<a target="_blank" href="https://github.com/nv-tlabs/stmc"> <button type="button" class="btn btn-primary btn-lg"> Code </button></a>
 <a target="_blank" href="https://mathis.petrovich.fr/stmc"> <button type="button" class="btn btn-primary btn-lg"> Webpage </button></a>
 <a target="_blank" href="https://mathis.petrovich.fr/stmc/stmc.bib"> <button type="button" class="btn btn-primary btn-lg"> BibTex </button></a>
 </h3>

@@ -2,10 +2,30 @@
 
 # STMC: Spatio-Temporal Motion Collage
 
+<a href="https://mathis.petrovich.fr"><strong>Mathis Petrovich</strong></a>
+·
+<a href="https://orlitany.github.io"><strong>Or Litany</strong></a>
+·
+<a href="https://www.umariqbal.info"><strong>Umar Iqbal</strong></a>
+·
+<a href="https://ps.is.mpg.de/~black"><strong>Michael J. Black</strong></a>
+·
+<a href="https://imagine.enpc.fr/~varolg"><strong>G&#252;l Varol</strong></a>
+·
+<a href="https://xbpeng.github.io"><strong>Xue Bin Peng</strong></a>
+·
+<a href="https://davrempe.github.io"><nobr>Davis Rempe</nobr></a>
+
+
+[![CVPRW2024](https://img.shields.io/badge/CVPRW-2024-9065CA.svg?logo=CVPRW)](https://humogen.github.io)
+[![arXiv](https://img.shields.io/badge/arXiv-STMC-A10717.svg?logo=arXiv)](https://arxiv.org/abs/2401.08559)
+[![License](https://img.shields.io/badge/License-NVIDIA-green.svg)](https://github.com/nv-tlabs/stmc/blob/main/LICENSE)
+
+
 </div>
 
 ## Description
-This repository hosts the official PyTorch implementation of the paper **"Multi-Track Timeline Control for Text-Driven 3D Human Motion Generation"** ([arXiv 2024](http://arxiv.org/abs/XXXX.XXXXX)). For more details, please visit our [**project webpage**](https://mathis.petrovich.fr/stmc).
+This repository hosts the official PyTorch implementation of the paper **"Multi-Track Timeline Control for Text-Driven 3D Human Motion Generation"** ([CVPRW 2024](https://arxiv.org/abs/2401.08559)). For more details, please visit our [**project webpage**](https://mathis.petrovich.fr/stmc).
 
 ![teaser](assets/stmc_teaser.png)
 
@@ -13,10 +33,10 @@ This repository hosts the official PyTorch implementation of the paper **"Multi-
 If you use our code in your research, kindly cite our work:
 
 ```bibtex
-@article{petrovich24stmc,
+@inproceedings{petrovich24stmc,
     title     = {Multi-Track Timeline Control for Text-Driven 3D Human Motion Generation},
     author    = {Petrovich, Mathis and Litany, Or and Iqbal, Umar and Black, Michael J. and Varol, G{\"u}l and Peng, Xue Bin and Rempe, Davis},
-    journal   = {arXiv},
+    booktitle = {CVPR Workshop on Human Motion Generation},
     year      = {2024}
 }
 ```

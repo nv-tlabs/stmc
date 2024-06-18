@@ -55,7 +55,7 @@ WEBSITE = """
 </h2>
 
 <h2 style='text-align: center'; display:block>
-<nobr>arXiv 2023</nobr>
+<nobr>CVPRW 2024</nobr>
 </h2>
 
 <h3 class="centered" >
